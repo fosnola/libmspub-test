@@ -2,7 +2,7 @@
 
 my $html = 0;    # set to 1 to output a nicely formatted HTML page
 
-my $do_odg = 0;  # execute the vs?2odg diff test
+my $do_odg = 0;  # execute the pub2odg diff test
 my $do_vg  = 0;  # execute the valgrind test (takes a while)
 
 my $pass_colour = "11dd11";
@@ -137,12 +137,6 @@ sub RegTest {
             print "<td style='background-color: rgb(204, 204, 255);'><b>Call Graph Test<br/>(pub2raw)</b></td>\n";
             print "<td style='background-color: rgb(204, 204, 255);'><b>Valgrind Test<br/>(pub2raw)</b></td>\n";
             print "<td style='background-color: rgb(204, 204, 255);'><b>ODG Valgrind Test<br/>(pub2odg)</b></td>\n";
-            print "<td style='background-color: rgb(204, 204, 255);'><b>Raw Diff Test<br/>(vss2raw)</b></td>\n";
-            print "<td style='background-color: rgb(204, 204, 255);'><b>XHTML Diff Test<br/>(vss2xhtml)</b></td>\n";
-            print "<td style='background-color: rgb(204, 204, 255);'><b>ODG Test<br/>(vss2odg)</b></td>\n";
-            print "<td style='background-color: rgb(204, 204, 255);'><b>Call Graph Test<br/>(vss2raw)</b></td>\n";
-            print "<td style='background-color: rgb(204, 204, 255);'><b>Valgrind Test<br/>(vss2raw)</b></td>\n";
-            print "<td style='background-color: rgb(204, 204, 255);'><b>ODG Valgrind Test<br/>(vss2odg)</b></td>\n";
             print "</tr>\n";
         }
         else {
@@ -285,175 +279,6 @@ sub RegTest {
                 $vgPath = 'testset/' . $pubVersion . '/' . $file . '.odgvg';
                 $odgvalgrind = 0;
                 `$vgCommand --leak-check=yes pub2odg --stdout $filePath 1> $vgPath 2> $vgPath`;
-                open VG, "$vgPath";
-                my $vgOutput;
-                while (<VG>) {
-                    if (/^\=\=/) {
-                        $vgOutput .= $_;
-                        if (   /definitely lost: [1-9]/
-                            || /ERROR SUMMARY: [1-9]/
-                            || /Invalid read of/ )
-                        {
-                            $odgvalgrind = 1;
-                        }
-                    }
-                }
-                close VG;
-
-                `rm -f $vgPath`;
-                if ($odgvalgrind) {
-                    open VG, ">$vgPath";
-                    print VG $vgOutput;
-                    close VG;
-                    $odgvgFailures++;
-                }
-                $vgOutput = "";
-
-                if ($html) {
-                    (
-                        $odgvalgrind eq 0
-                        ? DisplayCell( $pass_colour, "passed" )
-                        : DisplayCell(
-                            $fail_colour, "failed <a href='$vgPath'>log<a>"
-                        )
-                    );
-                    print "</tr>\n";
-                }
-                else {
-                    print "! $file odg valgrind: "
-                      . ( $odgvalgrind eq "0" ? "passed" : "failed" ) . "\n";
-                }
-            }
-            else {
-                if ($html) {
-                    DisplayCell( $skip_colour, "skipped" );
-                }
-                else {
-                    print "! $file odg valgrind: skipped\n";
-                }
-            }
-
-            # /////////////////////////
-            # VSS DIFF REGRESSION TESTS
-            # /////////////////////////
-
-            if ( DiffTest( "vss2raw", $filePath, "sraw" ) eq "fail" ) {
-                $rawDiffFailures++;
-            }
-
-            if (
-                DiffTest(
-                    "vss2xhtml",        "xmllint --c14n --nonet --dropdtd",
-                    "xmllint --format", $filePath,
-                    "sxhtml"
-                ) eq "fail"
-              )
-            {
-                $xhtmlDiffFailures++;
-            }
-
-            # //////////////////////////////
-            # VSS CALL GRAPH REGRESSION TEST
-            # //////////////////////////////
-
-            my $cgResult = CgTest( "vss2raw --callgraph", $filePath );
-
-            if ( $cgResult ne "0" ) {
-                $callGraphFailures++;
-            }
-            if ($html) {
-                (
-                    $cgResult eq "0"
-                    ? DisplayCell( $pass_colour, "passed" )
-                    : DisplayCell( $fail_colour, "failed" )
-                );
-            }
-            else {
-                print "! $file call graph: "
-                  . ( $cgResult eq "0" ? "passed" : "failed" ) . "\n";
-            }
-
-            if ($do_odg) {
-                if (
-                    DiffTest(
-                        "vss2odg --stdout",
-                        "xmllint --c14n",
-                        "xmllint --format",
-                        $filePath,
-                        "sodg"
-                    ) eq "fail"
-                  )
-                {
-                    $odgDiffFailures++;
-                }
-            }
-            else {
-                if ($html) {
-                    DisplayCell( $skip_colour, "skipped" );
-                }
-                else {
-                    print "! $file ODG: skipped\n";
-                }
-            }
-
-            # ////////////////////////////
-            # VSS VALGRIND REGRESSION TEST
-            # ////////////////////////////
-            if ($do_vg) {
-                $vgPath   = 'testset/' . $pubVersion . '/' . $file . '.vgs';
-                $valgrind = 0;
-                `$vgCommand --leak-check=yes vss2raw $filePath 1> $vgPath 2> $vgPath`;
-                open VG, "$vgPath";
-                my $vgOutput;
-                while (<VG>) {
-                    if (/^\=\=/) {
-                        $vgOutput .= $_;
-                        if (   /definitely lost: [1-9]/
-                            || /ERROR SUMMARY: [1-9]/
-                            || /Invalid read of/ )
-                        {
-                            $valgrind = 1;
-                        }
-                    }
-                }
-                close VG;
-
-                `rm -f $vgPath`;
-                if ($valgrind) {
-                    open VG, ">$vgPath";
-                    print VG $vgOutput;
-                    close VG;
-                    $vgFailures++;
-                }
-                $vgOutput = "";
-
-                if ($html) {
-                    (
-                        $valgrind eq 0
-                        ? DisplayCell( $pass_colour, "passed" )
-                        : DisplayCell(
-                            $fail_colour, "failed <a href='$vgPath'>log<a>"
-                        )
-                    );
-                }
-                else {
-                    print "! $file valgrind (using vss2raw): "
-                      . ( $valgrind eq "0" ? "passed" : "failed" ) . "\n";
-                }
-            }
-            else {
-                if ($html) {
-                    DisplayCell( $skip_colour, "skipped" );
-                }
-                else {
-                    print "! $file valgrind (using vss2raw): skipped\n";
-                }
-            }
-
-            if ( $do_vg && $do_odg ) {
-                $vgPath = 'testset/' . $pubVersion . '/' . $file . '.odgvgs';
-                $odgvalgrind = 0;
-                `$vgCommand --leak-check=yes vss2odg --stdout $filePath 1> $vgPath 2> $vgPath`;
                 open VG, "$vgPath";
                 my $vgOutput;
                 while (<VG>) {
