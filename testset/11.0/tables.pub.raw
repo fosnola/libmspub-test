@@ -1,0 +1,89 @@
+startDocument()
+  setDocumentMetaData(dc:date: 1601-01-01T00:57:44Z, meta:creation-date: 1601-01-01T00:57:44Z, meta:initial-creator: dachjo)
+  startPage(svg:height: 11.0000in, svg:width: 8.5000in)
+    setStyle(draw:fill: none, draw:stroke: none)
+    startTableObject(svg:height: 0.4917in, svg:width: 6.0000in, svg:x: 1.2500in, svg:y: 2.7542in)
+      openTableRow()
+        openTableCell(librevenge:column: 0, librevenge:row: 0)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (a)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+        openTableCell(librevenge:column: 1, librevenge:row: 0)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (aa)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+        openTableCell(librevenge:column: 2, librevenge:row: 0)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (aaa)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+      closeTableRow()
+      openTableRow()
+        openTableCell(librevenge:column: 0, librevenge:row: 1)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (aaaa)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+        openTableCell(librevenge:column: 1, librevenge:row: 1)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (aaaaa)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+        openTableCell(librevenge:column: 2, librevenge:row: 1)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (aaaaaa)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+      closeTableRow()
+    endTableObject()
+    setStyle(draw:fill: none, draw:stroke: none)
+    startTableObject(svg:height: 0.4917in, svg:width: 6.0000in, svg:x: 1.2500in, svg:y: 3.9375in)
+      openTableRow()
+        openTableCell(librevenge:column: 0, librevenge:row: 0)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (bb)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+        openTableCell(librevenge:column: 1, librevenge:row: 0)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (bbbb)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+      closeTableRow()
+      openTableRow()
+        openTableCell(librevenge:column: 0, librevenge:row: 1)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (bbbbbb)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+        openTableCell(librevenge:column: 1, librevenge:row: 1)
+          openParagraph (fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (bbbbbbbb)
+            closeSpan
+          closeParagraph
+        closeTableCell()
+      closeTableRow()
+    endTableObject()
+  endPage
+endDocument
