@@ -37,6 +37,15 @@
     <style:style style:family="table" style:name="Table0">
       <style:table-properties/>
     </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column1">
+      <style:table-column-properties style:column-width="2.0000in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column2">
+      <style:table-column-properties style:column-width="2.0000in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column3">
+      <style:table-column-properties style:column-width="2.0000in"/>
+    </style:style>
     <style:style style:family="table-row" style:name="Table0_row0">
       <style:table-row-properties fo:keep-together="auto"/>
     </style:style>
@@ -46,6 +55,12 @@
     </style:style>
     <style:style style:family="table" style:name="Table1">
       <style:table-properties/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table1.Column1">
+      <style:table-column-properties style:column-width="3.0000in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table1.Column2">
+      <style:table-column-properties style:column-width="3.0000in"/>
     </style:style>
     <style:style style:family="table-row" style:name="Table1_row0">
       <style:table-row-properties fo:keep-together="auto"/>
@@ -63,6 +78,9 @@
       <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
         <draw:frame draw:layer="layout" draw:style-name="standard" svg:height="0.4917in" svg:width="6.0000in" svg:x="1.2500in" svg:y="2.7542in">
           <table:table table:name="Table0" table:style-name="Table0">
+            <table:table-column table:style-name="Table0.Column1"/>
+            <table:table-column table:style-name="Table0.Column2"/>
+            <table:table-column table:style-name="Table0.Column3"/>
             <table:table-row table:style-name="Table0_row0">
               <table:table-cell table:style-name="Table0_cell0">
                 <text:p text:style-name="S0">
@@ -101,6 +119,8 @@
         </draw:frame>
         <draw:frame draw:layer="layout" draw:style-name="standard" svg:height="0.4917in" svg:width="6.0000in" svg:x="1.2500in" svg:y="3.9375in">
           <table:table table:name="Table1" table:style-name="Table1">
+            <table:table-column table:style-name="Table1.Column1"/>
+            <table:table-column table:style-name="Table1.Column2"/>
             <table:table-row table:style-name="Table1_row0">
               <table:table-cell table:style-name="Table1_cell0">
                 <text:p text:style-name="S0">

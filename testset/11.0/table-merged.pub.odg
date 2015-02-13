@@ -37,6 +37,24 @@
     <style:style style:family="table" style:name="Table0">
       <style:table-properties/>
     </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column1">
+      <style:table-column-properties style:column-width="1.0000in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column2">
+      <style:table-column-properties style:column-width="1.0000in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column3">
+      <style:table-column-properties style:column-width="1.0000in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column4">
+      <style:table-column-properties style:column-width="1.0000in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column5">
+      <style:table-column-properties style:column-width="1.0000in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column6">
+      <style:table-column-properties style:column-width="1.0000in"/>
+    </style:style>
     <style:style style:family="table-row" style:name="Table0_row0">
       <style:table-row-properties fo:keep-together="auto"/>
     </style:style>
@@ -73,6 +91,12 @@
       <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
         <draw:frame draw:layer="layout" draw:style-name="standard" svg:height="0.9833in" svg:width="6.0000in" svg:x="1.2552in" svg:y="1.3896in">
           <table:table table:name="Table0" table:style-name="Table0">
+            <table:table-column table:style-name="Table0.Column1"/>
+            <table:table-column table:style-name="Table0.Column2"/>
+            <table:table-column table:style-name="Table0.Column3"/>
+            <table:table-column table:style-name="Table0.Column4"/>
+            <table:table-column table:style-name="Table0.Column5"/>
+            <table:table-column table:style-name="Table0.Column6"/>
             <table:table-row table:style-name="Table0_row0">
               <table:table-cell table:number-columns-spanned="3" table:style-name="Table0_cell0">
                 <text:p text:style-name="S0">
