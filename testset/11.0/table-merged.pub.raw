@@ -1,5 +1,5 @@
 startDocument()
-  setDocumentMetaData(dc:date: 1601-01-01T00:57:44Z, meta:creation-date: 1601-01-01T00:57:44Z, meta:initial-creator: dachjo)
+  setDocumentMetaData(dc:creator: dachjo, dc:date: 1601-01-01T00:57:44Z, meta:creation-date: 1601-01-01T00:57:44Z, meta:initial-creator: dachjo)
   startPage(svg:height: 11.0000in, svg:width: 8.5000in)
     setStyle(draw:fill: none, draw:stroke: none)
     startTableObject(librevenge:table-columns: ((style:column-width: 1.0000in), (style:column-width: 1.0000in), (style:column-width: 1.0000in), (style:column-width: 1.0000in), (style:column-width: 1.0000in), (style:column-width: 1.0000in)), svg:height: 0.9833in, svg:width: 6.0000in, svg:x: 1.2552in, svg:y: 1.3896in)
