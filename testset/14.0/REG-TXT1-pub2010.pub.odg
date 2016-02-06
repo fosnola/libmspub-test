@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:meta>
+    <dc:creator>Melissa</dc:creator>
+    <dc:date>2015-06-26T22:30:30Z</dc:date>
+    <meta:creation-date>2015-06-26T22:30:30Z</meta:creation-date>
+    <meta:initial-creator>Melissa</meta:initial-creator>
+    <meta:generator>libodfgen/0.1.6</meta:generator>
+  </office:meta>
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21590</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">27940</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Helvetica" svg:font-family="Helvetica"/>
+    <style:font-face style:name="Times New Roman" svg:font-family="Times New Roman"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb" fo:page-height="11.0000in" fo:page-width="8.5000in">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span1">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1944in" style:font-size-complex="0.1944in" fo:color="#000000" fo:font-size="0.1944in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span10">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-position="50% 67%" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span11">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-position="-50% 67%" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span2">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1528in" style:font-size-complex="0.1528in" fo:color="#000000" fo:font-size="0.1528in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span3">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1111in" style:font-size-complex="0.1111in" fo:color="#000000" fo:font-size="0.1111in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span4">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="0.1389in" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span5">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-style-asian="italic" style:font-style-complex="italic" fo:color="#000000" fo:font-size="0.1389in" fo:font-style="italic"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span6">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-underline-type="single" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span7">
+      <style:text-properties style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span8">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="0.1389in" fo:font-style="italic" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span9">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#800000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="left"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S1" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="center"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S2" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="right"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S3" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S4" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:margin-left="0.2500in" fo:text-align="left" fo:text-indent="-0.2500in"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100.0000%" draw:shadow="hidden" draw:stroke="none" svg:fill-rule="nonzero"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" fo:min-width="1.0000in" fo:padding-bottom="0.0396in" fo:padding-left="0.0396in" fo:padding-right="0.0396in" fo:padding-top="0.0396in"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:g>
+          <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 0L14763 0L14763 13890L0 13890L0 0 Z" svg:height="5.4688in" svg:viewBox="0 0 14763 13890" svg:width="5.8125in" svg:x="1.0833in" svg:y="1.1042in"/>
+          <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="5.4688in" svg:width="5.8125in" svg:x="1.0833in" svg:y="1.1042in" fo:padding-bottom="0.0396in" fo:padding-left="0.0396in" fo:padding-right="0.0396in" fo:padding-top="0.0396in">
+            <draw:text-box>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span1">Donec a diam lectus</text:span>
+                <text:span text:style-name="Span2">. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span3">Sed sit amet ipsum mauris. </text:span>
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span4">Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span5">Donec et mollis dolor. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span6">Praesent et diam eget libero egestas mattis sit amet vitae augue. </text:span>
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+              <text:p text:style-name="S1">
+                <text:span text:style-name="Span0">Nam tincidunt congue enim, ut porta lorem lacinia consectetur. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S2">
+                <text:span text:style-name="Span0">Donec ut libero sed arcu vehicula ultricies a non tortor. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S3">
+                <text:span text:style-name="Span0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S3">
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span0">Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span0">Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span0">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span0">In rutrum accumsan ultricies. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span0">Mauris vitae nisi at sem facilisis semper ac in est.
+</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span0">Vivamus fermentum semper porta. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span0">Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span0">Maecenas convallis ullamcorper ultricies. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span0">Curabitur ornare, ligula semper consectetur sagittis, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span7">Fusce eget orci a orci congue vestibulum. </text:span>
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span8">Ut dolor diam, elementum et vestibulum eu, porttitor vel elit.
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span9">Curabitur venenatis pulvinar tellus gravida ornare.</text:span>
+                <text:span text:style-name="Span0"> 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span10">Sed et erat faucibus nunc euismod ultricies ut id justo. 
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span11">Nullam cursus suscipit nisi, et ultrices justo sodales nec.</text:span>
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span0">Fusce venenatis facilisis lectus ac semper.</text:span>
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span0">Aliquam at massa ipsum.</text:span>
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span6">Quisque bibendum purus convallis nulla ultrices ultricies.
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span6">Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi.</text:span>
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span6">Fusce vel volutpat elit.</text:span>
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span0">
+</text:span>
+              </text:p>
+            </draw:text-box>
+          </draw:frame>
+        </draw:g>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>
