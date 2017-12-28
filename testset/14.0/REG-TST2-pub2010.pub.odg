@@ -112,7 +112,7 @@
       <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100.0000%" draw:shadow="hidden" draw:stroke="none" svg:fill-rule="nonzero"/>
     </style:style>
     <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="standard">
-      <style:graphic-properties draw:fill="none" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-width="0.0278in"/>
+      <style:graphic-properties draw:fill="none" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-width="0.0278in"/>
     </style:style>
     <style:style style:family="graphic" style:name="gr_4" style:parent-style-name="standard">
       <style:graphic-properties draw:fill="solid" draw:fill-color="#fbfbf7" draw:opacity="100.0000%" draw:shadow="hidden" draw:stroke="none" svg:fill-rule="nonzero"/>
@@ -169,7 +169,7 @@
       <style:graphic-properties draw:fill="bitmap" draw:fill-image-name="Bitmap_16" draw:fill-image-ref-point="top-left" draw:shadow="hidden" draw:stroke="none" style:repeat="stretch"/>
     </style:style>
     <style:style style:family="graphic" style:name="gr_22" style:parent-style-name="standard">
-      <style:graphic-properties draw:fill="none" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-width="0.0139in"/>
+      <style:graphic-properties draw:fill="none" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-width="0.0139in"/>
     </style:style>
     <style:style style:family="table" style:name="Table0">
       <style:table-properties/>
