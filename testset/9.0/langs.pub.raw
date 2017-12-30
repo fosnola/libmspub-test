@@ -1,0 +1,37 @@
+startDocument()
+  setDocumentMetaData()
+  startPage(svg:height: 11.0000in, svg:width: 8.5000in)
+    setStyle(draw:fill: none, draw:stroke: solid)
+    setStyle(draw:fill: none, draw:stroke: solid)
+    setStyle(draw:fill: none, draw:stroke: solid)
+    setStyle(draw:fill: none, draw:stroke: solid)
+  endPage
+  startPage(svg:height: 11.0000in, svg:width: 8.5000in)
+    setStyle(draw:fill: none, draw:stroke: none)
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 1.3750in, svg:width: 5.0312in, svg:x: 1.3750in, svg:y: 1.1875in)
+      openParagraph (fo:text-align: left)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
+          insertText (English (US), )
+        closeSpan
+        openSpan(fo:color: #000000, fo:country: CZ, fo:font-size: 0.1389in, fo:language: cs, style:font-name: Times New Roman)
+          insertText (Czech, )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+          insertText (Esperanto, )
+        closeSpan
+        openSpan(fo:color: #000000, fo:country: CS, fo:font-size: 0.1389in, fo:language: sr, fo:script: Latn, style:font-name: Times New Roman)
+          insertText (Serbian (Latin), )
+        closeSpan
+        openSpan(fo:color: #000000, fo:country: TW, fo:font-size: 0.1389in, fo:language: zh, fo:script: Hant, style:font-name: Times New Roman)
+          insertText (Chinese (Taiwan), )
+        closeSpan
+        openSpan(fo:color: #000000, fo:country: ES, fo:font-size: 0.1389in, fo:language: ca, style:font-name: Times New Roman)
+          insertText (Catalan, )
+        closeSpan
+        openSpan(fo:color: #000000, fo:country: NO, fo:font-size: 0.1389in, fo:language: nb, style:font-name: Times New Roman)
+          insertText (Norwegian (Bokmal).)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument
