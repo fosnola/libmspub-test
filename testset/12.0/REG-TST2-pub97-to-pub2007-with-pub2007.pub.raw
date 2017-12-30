@@ -286,7 +286,7 @@ startDocument()
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
               insertText (List with Title 1 style)
             closeSpan
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, fo:language: root, style:font-name: Times New Roman)
               insertText ( )
             closeSpan
           closeParagraph

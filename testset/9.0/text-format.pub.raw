@@ -4,148 +4,148 @@ startDocument()
     setStyle(draw:fill: none, draw:stroke: none)
     startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 2.4375in, svg:width: 4.6562in, svg:x: 1.6562in, svg:y: 1.4062in)
       openParagraph (fo:text-align: left)
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (Format: Normal, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:font-weight: bold, fo:language: en, style:font-name: Times New Roman)
           insertText (bold, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-style: italic, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:font-style: italic, fo:language: en, style:font-name: Times New Roman)
           insertText (italic, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (underlined, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (Caladea, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1667in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1667in, fo:language: en, style:font-name: Times New Roman)
           insertText (12 pt, )
         closeSpan
-        openSpan(fo:color: #0000ff, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #0000ff, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (blue,)
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText ( )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-position: 50% 67%)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-position: 50% 67%)
           insertText (superscript, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-position: -50% 67%)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-position: -50% 67%)
           insertText (subscript, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-outline: true)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-outline: true)
           insertText (outline, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:font-relief: embossed)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:font-relief: embossed)
           insertText (emboss, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-variant: small-caps, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:font-variant: small-caps, fo:language: en, style:font-name: Times New Roman)
           insertText (small caps, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:text-transform: uppercase, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, fo:text-transform: uppercase, style:font-name: Times New Roman)
           insertText (all caps, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:text-shadow: 1pt 1pt, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, fo:text-shadow: 1pt 1pt, style:font-name: Times New Roman)
           insertText (shadow, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:font-relief: engraved)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:font-relief: engraved)
           insertText (engrave, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: CZ, fo:font-size: 0.1389in, fo:language: cs, style:font-name: Times New Roman)
           insertText (ceský jazyk)
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (.)
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
           insertText ()
         closeSpan
       closeParagraph
       openParagraph (fo:text-align: left)
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (Underline style: none, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (single, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: skip-white-space, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: skip-white-space, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (words only, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: double, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: double, style:text-underline-width: auto)
           insertText (double, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dotted, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dotted, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (dotted, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dotted, style:text-underline-type: single, style:text-underline-width: bold)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dotted, style:text-underline-type: single, style:text-underline-width: bold)
           insertText (thick dot, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: bold)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: bold)
           insertText (thick, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dash, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dash, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (dash, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: long-dash, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: long-dash, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (long dash, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dash, style:text-underline-type: single, style:text-underline-width: bold)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dash, style:text-underline-type: single, style:text-underline-width: bold)
           insertText (thick dash, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: long-dash, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: long-dash, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (thick long dash, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dot-dash, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dot-dash, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (dot dash, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dot-dash, style:text-underline-type: single, style:text-underline-width: bold)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dot-dash, style:text-underline-type: single, style:text-underline-width: bold)
           insertText (thick dot dash, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dot-dot-dash, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dot-dot-dash, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (dot dot dash, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dot-dot-dash, style:text-underline-type: single, style:text-underline-width: bold)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: dot-dot-dash, style:text-underline-type: single, style:text-underline-width: bold)
           insertText (thick dot dot dash, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: wave, style:text-underline-type: single, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: wave, style:text-underline-type: single, style:text-underline-width: auto)
           insertText (wave, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: wave, style:text-underline-type: double, style:text-underline-width: auto)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: wave, style:text-underline-type: double, style:text-underline-width: auto)
           insertText (double wave, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: wave, style:text-underline-type: single, style:text-underline-width: bold)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: wave, style:text-underline-type: single, style:text-underline-width: bold)
           insertText (thick wave.)
         closeSpan
       closeParagraph
       openParagraph (fo:text-align: left)
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (Character spacing: )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:text-scale: 8000.0000%, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, fo:text-scale: 8000.0000%, style:font-name: Times New Roman)
           insertText (shrink 80%,)
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText ( )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (loose spacing (112.5%))
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (,)
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText ( kerning 3 pt (expand))
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (, )
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText (kern text at: 12 pt.)
         closeSpan
       closeParagraph
       openParagraph (fo:text-align: left)
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
           insertText ()
         closeSpan
       closeParagraph

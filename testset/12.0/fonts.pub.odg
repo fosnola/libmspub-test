@@ -35,7 +35,7 @@
       <style:drawing-page-properties draw:fill="none"/>
     </style:style>
     <style:style style:family="text" style:name="Span0">
-      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in"/>
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:country="CZ" fo:font-size="0.1389in" fo:language="cs"/>
     </style:style>
     <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
       <style:paragraph-properties style:justify-single-word="false" fo:text-align="left"/>

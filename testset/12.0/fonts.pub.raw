@@ -5,10 +5,10 @@ startDocument()
     setStyle(draw:fill: none, draw:stroke: none)
     startTextObject (fo:column-gap: 0.0787in, fo:padding-bottom: 0.0400in, fo:padding-left: 0.0400in, fo:padding-right: 0.0400in, fo:padding-top: 0.0400in, svg:height: 1.7323in, svg:width: 4.6457in, svg:x: 1.4961in, svg:y: 2.0472in)
       openParagraph (fo:text-align: left)
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: CZ, fo:font-size: 0.1389in, fo:language: cs, style:font-name: Times New Roman)
           insertText (My hovercraft is full of eels.)
         closeSpan
-        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+        openSpan(fo:color: #000000, fo:country: CZ, fo:font-size: 0.1389in, fo:language: cs, style:font-name: Times New Roman)
           insertText ()
         closeSpan
       closeParagraph

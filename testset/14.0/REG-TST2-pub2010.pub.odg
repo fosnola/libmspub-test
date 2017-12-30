@@ -91,6 +91,9 @@
       <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.2222in" style:font-size-complex="0.2222in" style:font-weight-asian="bold" style:font-weight-complex="bold" style:text-underline-mode="continuous" style:text-underline-style="solid" style:text-underline-type="single" style:text-underline-width="auto" fo:color="#000000" fo:font-size="0.2222in" fo:font-weight="bold"/>
     </style:style>
     <style:style style:family="text" style:name="Span3">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="0.1389in" fo:font-weight="bold" fo:language="root"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span4">
       <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.2778in" style:font-size-complex="0.2778in" fo:color="#008000" fo:font-size="0.2778in"/>
     </style:style>
     <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
@@ -529,7 +532,7 @@
               <table:table-cell table:number-columns-spanned="5" table:style-name="Table3_cell0">
                 <text:p text:style-name="S0">
                   <text:span text:style-name="Span1">List with Title 1 style</text:span>
-                  <text:span text:style-name="Span1"> </text:span>
+                  <text:span text:style-name="Span3"> </text:span>
                 </text:p>
               </table:table-cell>
               <table:covered-table-cell/>
@@ -690,7 +693,7 @@
           <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="0.6486in" svg:width="1.8750in" svg:x="4.5156in" svg:y="1.2264in" fo:padding-bottom="0.0396in" fo:padding-left="0.0396in" fo:padding-right="0.0396in" fo:padding-top="0.0396in">
             <draw:text-box>
               <text:p text:style-name="S0">
-                <text:span text:style-name="Span3">Sample test here
+                <text:span text:style-name="Span4">Sample test here
 </text:span>
               </text:p>
             </draw:text-box>
@@ -701,7 +704,7 @@
           <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="0.4594in" svg:width="1.7906in" svg:x="4.6000in" svg:y="2.2125in" fo:padding-bottom="0.0396in" fo:padding-left="0.0396in" fo:padding-right="0.0396in" fo:padding-top="0.0396in">
             <draw:text-box>
               <text:p text:style-name="S0">
-                <text:span text:style-name="Span3">Sample test here
+                <text:span text:style-name="Span4">Sample test here
 </text:span>
               </text:p>
             </draw:text-box>

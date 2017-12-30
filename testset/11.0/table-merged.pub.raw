@@ -6,7 +6,7 @@ startDocument()
       openTableRow(librevenge:row-height: 0.2458in)
         openTableCell(librevenge:column: 0, librevenge:row: 0, table:number-columns-spanned: 3)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (a b c)
             closeSpan
           closeParagraph
@@ -15,14 +15,14 @@ startDocument()
         insertCoveredTableCell(librevenge:column: 2, librevenge:row: 0)
         openTableCell(librevenge:column: 3, librevenge:row: 0)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (d)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 4, librevenge:row: 0, table:number-columns-spanned: 2, table:number-rows-spanned: 3)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (e f k l q r)
             closeSpan
           closeParagraph
@@ -32,28 +32,28 @@ startDocument()
       openTableRow(librevenge:row-height: 0.2458in)
         openTableCell(librevenge:column: 0, librevenge:row: 1, table:number-rows-spanned: 2)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (g m)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 1, librevenge:row: 1)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (h)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 2, librevenge:row: 1, table:number-rows-spanned: 3)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (i o u)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 3, librevenge:row: 1)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (j)
             closeSpan
           closeParagraph
@@ -65,7 +65,7 @@ startDocument()
         insertCoveredTableCell(librevenge:column: 0, librevenge:row: 2)
         openTableCell(librevenge:column: 1, librevenge:row: 2, table:number-rows-spanned: 2)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (n t)
             closeSpan
           closeParagraph
@@ -73,7 +73,7 @@ startDocument()
         insertCoveredTableCell(librevenge:column: 2, librevenge:row: 2)
         openTableCell(librevenge:column: 3, librevenge:row: 2)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (p)
             closeSpan
           closeParagraph
@@ -84,7 +84,7 @@ startDocument()
       openTableRow(librevenge:row-height: 0.2458in)
         openTableCell(librevenge:column: 0, librevenge:row: 3)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (s)
             closeSpan
           closeParagraph
@@ -93,7 +93,7 @@ startDocument()
         insertCoveredTableCell(librevenge:column: 2, librevenge:row: 3)
         openTableCell(librevenge:column: 3, librevenge:row: 3, table:number-columns-spanned: 2)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (v w)
             closeSpan
           closeParagraph
@@ -101,7 +101,7 @@ startDocument()
         insertCoveredTableCell(librevenge:column: 4, librevenge:row: 3)
         openTableCell(librevenge:column: 5, librevenge:row: 3)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
               insertText (x)
             closeSpan
           closeParagraph
