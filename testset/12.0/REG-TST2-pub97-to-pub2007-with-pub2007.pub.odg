@@ -88,7 +88,7 @@
       <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="0.1389in" fo:font-weight="bold"/>
     </style:style>
     <style:style style:family="text" style:name="Span2">
-      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.2222in" style:font-size-complex="0.2222in" style:font-weight-asian="bold" style:font-weight-complex="bold" style:text-underline-type="single" fo:color="#000000" fo:font-size="0.2222in" fo:font-weight="bold"/>
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.2222in" style:font-size-complex="0.2222in" style:font-weight-asian="bold" style:font-weight-complex="bold" style:text-underline-mode="continuous" style:text-underline-style="solid" style:text-underline-type="single" style:text-underline-width="auto" fo:color="#000000" fo:font-size="0.2222in" fo:font-weight="bold"/>
     </style:style>
     <style:style style:family="text" style:name="Span3">
       <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.2778in" style:font-size-complex="0.2778in" fo:color="#008000" fo:font-size="0.2778in"/>

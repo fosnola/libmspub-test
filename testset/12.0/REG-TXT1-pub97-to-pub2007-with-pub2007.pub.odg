@@ -42,6 +42,18 @@
     <style:style style:family="text" style:name="Span11">
       <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-position="-50% 67%" fo:color="#000000" fo:font-size="0.1389in"/>
     </style:style>
+    <style:style style:family="text" style:name="Span12">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in" fo:text-transform="uppercase"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span13">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in" fo:font-variant="small-caps"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span14">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-underline-mode="skip-white-space" style:text-underline-style="solid" style:text-underline-type="single" style:text-underline-width="auto" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span15">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-underline-mode="continuous" style:text-underline-style="solid" style:text-underline-type="double" style:text-underline-width="auto" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
     <style:style style:family="text" style:name="Span2">
       <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1528in" style:font-size-complex="0.1528in" fo:color="#000000" fo:font-size="0.1528in"/>
     </style:style>
@@ -55,7 +67,7 @@
       <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-style-asian="italic" style:font-style-complex="italic" fo:color="#000000" fo:font-size="0.1389in" fo:font-style="italic"/>
     </style:style>
     <style:style style:family="text" style:name="Span6">
-      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-underline-type="single" fo:color="#000000" fo:font-size="0.1389in"/>
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-underline-mode="continuous" style:text-underline-style="solid" style:text-underline-type="single" style:text-underline-width="auto" fo:color="#000000" fo:font-size="0.1389in"/>
     </style:style>
     <style:style style:family="text" style:name="Span7">
       <style:text-properties style:font-name="Helvetica" style:font-name-asian="Helvetica" style:font-name-complex="Helvetica" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in"/>
@@ -201,12 +213,12 @@
 </text:span>
               </text:p>
               <text:p text:style-name="S0">
-                <text:span text:style-name="Span0">Fusce venenatis facilisis lectus ac semper.</text:span>
+                <text:span text:style-name="Span12">Fusce venenatis facilisis lectus ac semper.</text:span>
                 <text:span text:style-name="Span0">
 </text:span>
               </text:p>
               <text:p text:style-name="S0">
-                <text:span text:style-name="Span0">Aliquam at massa ipsum.</text:span>
+                <text:span text:style-name="Span13">Aliquam at massa ipsum.</text:span>
                 <text:span text:style-name="Span0">
 </text:span>
               </text:p>
@@ -215,12 +227,12 @@
 </text:span>
               </text:p>
               <text:p text:style-name="S0">
-                <text:span text:style-name="Span6">Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi.</text:span>
+                <text:span text:style-name="Span14">Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi.</text:span>
                 <text:span text:style-name="Span0">
 </text:span>
               </text:p>
               <text:p text:style-name="S0">
-                <text:span text:style-name="Span6">Fusce vel volutpat elit.</text:span>
+                <text:span text:style-name="Span15">Fusce vel volutpat elit.</text:span>
                 <text:span text:style-name="Span0">
 </text:span>
               </text:p>

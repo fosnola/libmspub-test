@@ -38,7 +38,7 @@ startDocument()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-type: single)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
             insertText (Praesent et diam eget libero egestas mattis sit amet vitae augue. )
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
@@ -145,7 +145,7 @@ startDocument()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:text-transform: uppercase, style:font-name: Times New Roman)
             insertText (Fusce venenatis facilisis lectus ac semper.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
@@ -153,7 +153,7 @@ startDocument()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-variant: small-caps, style:font-name: Times New Roman)
             insertText (Aliquam at massa ipsum.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
@@ -161,12 +161,12 @@ startDocument()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-type: single)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
             insertText (Quisque bibendum purus convallis nulla ultrices ultricies.)
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-type: single)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: skip-white-space, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
             insertText (Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
@@ -174,7 +174,7 @@ startDocument()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-type: single)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: double, style:text-underline-width: auto)
             insertText (Fusce vel volutpat elit.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)

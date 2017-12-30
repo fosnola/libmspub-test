@@ -247,7 +247,7 @@ startDocument()
       openTableRow(librevenge:row-height: 0.3583in)
         openTableCell(librevenge:column: 0, librevenge:row: 2)
           openParagraph (fo:text-align: left)
-            openSpan(fo:color: #000000, fo:font-size: 0.2222in, fo:font-weight: bold, style:font-name: Times New Roman, style:text-underline-type: single)
+            openSpan(fo:color: #000000, fo:font-size: 0.2222in, fo:font-weight: bold, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
               insertText (aaaa)
             closeSpan
           closeParagraph
