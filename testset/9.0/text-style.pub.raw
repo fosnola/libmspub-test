@@ -1,0 +1,30 @@
+startDocument()
+  setDocumentMetaData()
+  startPage(svg:height: 11.0000in, svg:width: 8.5000in)
+    setStyle(draw:fill: none, draw:stroke: solid)
+    setStyle(draw:fill: none, draw:stroke: solid)
+    setStyle(draw:fill: none, draw:stroke: solid)
+    setStyle(draw:fill: none, draw:stroke: solid)
+  endPage
+  startPage(svg:height: 11.0000in, svg:width: 8.5000in)
+    setStyle(draw:fill: none, draw:stroke: none)
+    startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 1.1250in, svg:width: 3.9375in, svg:x: 1.5000in, svg:y: 1.5000in)
+      openParagraph (fo:text-align: left)
+        openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
+          insertText (Bold style. )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+          insertText (Suppressed bold.)
+        closeSpan
+      closeParagraph
+      openParagraph (fo:text-align: left)
+        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: skip-white-space, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
+          insertText (Underline style. )
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+          insertText (Suppressed underline.)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument
