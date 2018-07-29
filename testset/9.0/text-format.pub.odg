@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
-<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
   <office:meta>
-    <meta:generator>libodfgen/0.1.6</meta:generator>
+    <dc:date>2017-12-29T20:14:33Z</dc:date>
+    <meta:creation-date>2017-12-29T20:14:33Z</meta:creation-date>
+    <meta:generator>libodfgen/0.1.7</meta:generator>
   </office:meta>
   <office:settings>
     <config:config-item-set config:name="ooo:view-settings">
@@ -152,8 +154,7 @@
               <text:span text:style-name="Span13">engrave, </text:span>
               <text:span text:style-name="Span14">cesk&#xFD; jazyk</text:span>
               <text:span text:style-name="Span0">.</text:span>
-              <text:span text:style-name="Span3">
-</text:span>
+              <text:span text:style-name="Span3"/>
             </text:p>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">Underline style: none, </text:span>
@@ -173,8 +174,7 @@
               <text:span text:style-name="Span26">thick dot dot dash, </text:span>
               <text:span text:style-name="Span27">wave, </text:span>
               <text:span text:style-name="Span28">double wave, </text:span>
-              <text:span text:style-name="Span29">thick wave.
-</text:span>
+              <text:span text:style-name="Span29">thick wave.</text:span>
             </text:p>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">Character spacing: </text:span>
@@ -184,12 +184,10 @@
               <text:span text:style-name="Span0">,</text:span>
               <text:span text:style-name="Span0"> kerning 3 pt (expand)</text:span>
               <text:span text:style-name="Span0">, </text:span>
-              <text:span text:style-name="Span0">kern text at: 12 pt.
-</text:span>
+              <text:span text:style-name="Span0">kern text at: 12 pt.</text:span>
             </text:p>
             <text:p text:style-name="S0">
-              <text:span text:style-name="Span0">
-</text:span>
+              <text:span text:style-name="Span0"/>
             </text:p>
           </draw:text-box>
         </draw:frame>

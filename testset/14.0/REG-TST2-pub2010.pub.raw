@@ -8,14 +8,13 @@ startDocument()
       startTextObject (fo:column-gap: 0.0792in, fo:padding-bottom: 0.0396in, fo:padding-left: 0.0396in, fo:padding-right: 0.0396in, fo:padding-top: 0.0396in, svg:height: 0.6875in, svg:width: 1.1250in, svg:x: 1.1458in, svg:y: 1.3958in)
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
       endTextObject
     endLayer
     setStyle(draw:fill: none, draw:stroke: none)
     startTableObject(librevenge:table-columns: ((style:column-width: 0.3042in), (style:column-width: 0.3042in), (style:column-width: 0.3042in), (style:column-width: 0.3042in), (style:column-width: 0.3042in)), svg:height: 1.2292in, svg:width: 1.5208in, svg:x: 2.5833in, svg:y: 1.3958in)
-      openTableRow(librevenge:row-height: 0.2458in)
+      openTableRow(style:row-height: 0.2458in)
         openTableCell(librevenge:column: 0, librevenge:row: 0)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -37,7 +36,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.2458in)
+      openTableRow(style:row-height: 0.2458in)
         openTableCell(librevenge:column: 0, librevenge:row: 1)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -59,7 +58,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.2458in)
+      openTableRow(style:row-height: 0.2458in)
         openTableCell(librevenge:column: 0, librevenge:row: 2)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -81,7 +80,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.2458in)
+      openTableRow(style:row-height: 0.2458in)
         openTableCell(librevenge:column: 0, librevenge:row: 3)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -103,7 +102,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.2458in)
+      openTableRow(style:row-height: 0.2458in)
         openTableCell(librevenge:column: 0, librevenge:row: 4)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -128,7 +127,7 @@ startDocument()
     endTableObject()
     setStyle(draw:fill: none, draw:stroke: none)
     startTableObject(librevenge:table-columns: ((style:column-width: 1.0417in), (style:column-width: 1.0417in), (style:column-width: 1.0417in)), svg:height: 2.2083in, svg:width: 3.1250in, svg:x: 1.1250in, svg:y: 3.1250in)
-      openTableRow(librevenge:row-height: 0.3681in)
+      openTableRow(style:row-height: 0.3681in)
         openTableCell(librevenge:column: 0, librevenge:row: 0)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -142,7 +141,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3681in)
+      openTableRow(style:row-height: 0.3681in)
         openTableCell(librevenge:column: 0, librevenge:row: 1)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -156,7 +155,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3681in)
+      openTableRow(style:row-height: 0.3681in)
         openTableCell(librevenge:column: 0, librevenge:row: 2)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -170,7 +169,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3681in)
+      openTableRow(style:row-height: 0.3681in)
         openTableCell(librevenge:column: 0, librevenge:row: 3)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -184,7 +183,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3681in)
+      openTableRow(style:row-height: 0.3681in)
         openTableCell(librevenge:column: 0, librevenge:row: 4)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -198,7 +197,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3681in)
+      openTableRow(style:row-height: 0.3681in)
         openTableCell(librevenge:column: 0, librevenge:row: 5)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -215,27 +214,27 @@ startDocument()
     endTableObject()
     setStyle(draw:fill: none, draw:stroke: none)
     startTableObject(librevenge:table-columns: ((style:column-width: 1.0000in), (style:column-width: 1.0000in)), svg:height: 1.7917in, svg:width: 2.0000in, svg:x: 4.4375in, svg:y: 3.1250in)
-      openTableRow(librevenge:row-height: 0.3583in)
+      openTableRow(style:row-height: 0.3583in)
         openTableCell(librevenge:column: 0, librevenge:row: 0)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (aaaa)
+              insertText (aaaa)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 1, librevenge:row: 0)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (bbbbb)
+              insertText (bbbbb)
             closeSpan
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3583in)
+      openTableRow(style:row-height: 0.3583in)
         openTableCell(librevenge:column: 0, librevenge:row: 1)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (bbbb)
+              insertText (bbbb)
             closeSpan
           closeParagraph
         closeTableCell()
@@ -244,11 +243,11 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3583in)
+      openTableRow(style:row-height: 0.3583in)
         openTableCell(librevenge:column: 0, librevenge:row: 2)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.2222in, fo:font-weight: bold, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
-              insertText (aaaa)
+              insertText (aaaa)
             closeSpan
           closeParagraph
         closeTableCell()
@@ -257,7 +256,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3583in)
+      openTableRow(style:row-height: 0.3583in)
         openTableCell(librevenge:column: 0, librevenge:row: 3)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -267,7 +266,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3583in)
+      openTableRow(style:row-height: 0.3583in)
         openTableCell(librevenge:column: 0, librevenge:row: 4)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -280,7 +279,7 @@ startDocument()
     endTableObject()
     setStyle(draw:fill: none, draw:stroke: none)
     startTableObject(librevenge:table-columns: ((style:column-width: 0.5444in), (style:column-width: 0.5444in), (style:column-width: 0.5444in), (style:column-width: 0.5444in), (style:column-width: 0.5444in)), svg:height: 1.7000in, svg:width: 2.7219in, svg:x: 1.0750in, svg:y: 5.6250in)
-      openTableRow(librevenge:row-height: 0.4250in)
+      openTableRow(style:row-height: 0.4250in)
         openTableCell(librevenge:column: 0, librevenge:row: 0, table:number-columns-spanned: 5)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
@@ -296,113 +295,113 @@ startDocument()
         insertCoveredTableCell(librevenge:column: 3, librevenge:row: 0)
         insertCoveredTableCell(librevenge:column: 4, librevenge:row: 0)
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.4250in)
+      openTableRow(style:row-height: 0.4250in)
         openTableCell(librevenge:column: 0, librevenge:row: 1)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (aaa)
+              insertText (aaa)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 1, librevenge:row: 1)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (123)
+              insertText (123)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 2, librevenge:row: 1)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (456)
+              insertText (456)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 3, librevenge:row: 1)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (789)
+              insertText (789)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 4, librevenge:row: 1)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (012)
+              insertText (012)
             closeSpan
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.4250in)
+      openTableRow(style:row-height: 0.4250in)
         openTableCell(librevenge:column: 0, librevenge:row: 2)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (bbb)
+              insertText (bbb)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 1, librevenge:row: 2)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-              insertText (123)
+              insertText (123)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 2, librevenge:row: 2)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-              insertText (456)
+              insertText (456)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 3, librevenge:row: 2)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-              insertText (789)
+              insertText (789)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 4, librevenge:row: 2)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-              insertText (012)
+              insertText (012)
             closeSpan
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.4250in)
+      openTableRow(style:row-height: 0.4250in)
         openTableCell(librevenge:column: 0, librevenge:row: 3)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-              insertText (ccc)
+              insertText (ccc)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 1, librevenge:row: 3)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-              insertText (123)
+              insertText (123)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 2, librevenge:row: 3)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-              insertText (456)
+              insertText (456)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 3, librevenge:row: 3)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-              insertText (789)
+              insertText (789)
             closeSpan
           closeParagraph
         closeTableCell()
         openTableCell(librevenge:column: 4, librevenge:row: 3)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-              insertText (012)
+              insertText (012)
             closeSpan
           closeParagraph
         closeTableCell()
@@ -410,11 +409,11 @@ startDocument()
     endTableObject()
     setStyle(draw:fill: none, draw:stroke: none)
     startTableObject(librevenge:table-columns: ((style:column-width: 1.0328in), (style:column-width: 1.0328in)), svg:height: 1.5000in, svg:width: 2.0656in, svg:x: 4.1719in, svg:y: 5.6562in)
-      openTableRow(librevenge:row-height: 0.3000in)
+      openTableRow(style:row-height: 0.3000in)
         openTableCell(librevenge:column: 0, librevenge:row: 0)
           openParagraph (fo:text-align: left)
             openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-              insertText (drop shadow?)
+              insertText (drop shadow?)
             closeSpan
           closeParagraph
         closeTableCell()
@@ -423,7 +422,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3000in)
+      openTableRow(style:row-height: 0.3000in)
         openTableCell(librevenge:column: 0, librevenge:row: 1)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -433,7 +432,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3000in)
+      openTableRow(style:row-height: 0.3000in)
         openTableCell(librevenge:column: 0, librevenge:row: 2)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -443,7 +442,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3000in)
+      openTableRow(style:row-height: 0.3000in)
         openTableCell(librevenge:column: 0, librevenge:row: 3)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -453,7 +452,7 @@ startDocument()
           closeParagraph
         closeTableCell()
       closeTableRow()
-      openTableRow(librevenge:row-height: 0.3000in)
+      openTableRow(style:row-height: 0.3000in)
         openTableCell(librevenge:column: 0, librevenge:row: 4)
           openParagraph (fo:text-align: left)
           closeParagraph
@@ -467,14 +466,13 @@ startDocument()
     startLayer ()
       setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
       drawPolygon (svg:points: ((svg:x: 4.5156in, svg:y: 1.2125in), (svg:x: 6.3906in, svg:y: 1.2125in), (svg:x: 6.3906in, svg:y: 1.8750in), (svg:x: 4.5156in, svg:y: 1.8750in), (svg:x: 4.5156in, svg:y: 1.2125in)))
-      setStyle(draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: solid, svg:fill-rule: nonzero)
       setStyle(draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: solid, svg:fill-rule: nonzero, svg:stroke-color: #000000, svg:stroke-width: 0.0278in)
       drawPolygon (svg:points: ((svg:x: 4.5156in, svg:y: 1.1986in), (svg:x: 6.3906in, svg:y: 1.1986in), (svg:x: 6.3906in, svg:y: 1.8750in), (svg:x: 4.5156in, svg:y: 1.8750in), (svg:x: 4.5156in, svg:y: 1.1986in)))
       setStyle(draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: solid, svg:fill-rule: nonzero, svg:stroke-color: #000000, svg:stroke-width: 0.0278in)
       startTextObject (fo:column-gap: 0.0792in, fo:padding-bottom: 0.0396in, fo:padding-left: 0.0396in, fo:padding-right: 0.0396in, fo:padding-top: 0.0396in, svg:height: 0.6486in, svg:width: 1.8750in, svg:x: 4.5156in, svg:y: 1.2264in)
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #008000, fo:font-size: 0.2778in, style:font-name: Times New Roman)
-            insertText (Sample test here)
+            insertText (Sample test here)
           closeSpan
         closeParagraph
       endTextObject
@@ -486,7 +484,7 @@ startDocument()
       startTextObject (fo:column-gap: 0.0792in, fo:padding-bottom: 0.0396in, fo:padding-left: 0.0396in, fo:padding-right: 0.0396in, fo:padding-top: 0.0396in, svg:height: 0.4594in, svg:width: 1.7906in, svg:x: 4.6000in, svg:y: 2.2125in)
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #008000, fo:font-size: 0.2778in, style:font-name: Times New Roman)
-            insertText (Sample test here)
+            insertText (Sample test here)
           closeSpan
         closeParagraph
       endTextObject
@@ -498,7 +496,6 @@ startDocument()
       startTextObject (fo:column-gap: 0.0792in, fo:padding-bottom: 0.0396in, fo:padding-left: 0.0396in, fo:padding-right: 0.0396in, fo:padding-top: 0.0396in, svg:height: 0.7500in, svg:width: 1.1250in, svg:x: 1.2125in, svg:y: 7.6719in)
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
       endTextObject
@@ -545,136 +542,92 @@ startDocument()
     drawPolygon (svg:points: ((svg:x: 3.1875in, svg:y: 6.2375in), (svg:x: 5.1406in, svg:y: 6.2375in), (svg:x: 5.1406in, svg:y: 7.5031in), (svg:x: 3.1875in, svg:y: 7.5031in), (svg:x: 3.1875in, svg:y: 6.2375in)))
   endPage
   startPage(svg:height: 11.0000in, svg:width: 8.5000in)
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 1.2500in, svg:y: 1.3976in), (svg:x: 2.7250in, svg:y: 1.3976in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
-    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    setStyle(draw:fill: none, draw:marker-start-center: false, draw:marker-start-path: M0 400L100 0L200 400, draw:marker-start-viewbox: 0 0 200 400, draw:marker-start-width: 10.0000pt, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 3.2970in, svg:y: 1.3569in), (svg:x: 4.4376in, svg:y: 1.3694in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
-    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    setStyle(draw:fill: none, draw:marker-end-center: false, draw:marker-end-path: M0 400L100 0L200 400, draw:marker-end-viewbox: 0 0 200 400, draw:marker-end-width: 10.0000pt, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 4.8750in, svg:y: 1.3819in), (svg:x: 6.2375in, svg:y: 1.3819in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
-    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    setStyle(draw:fill: none, draw:marker-end-center: false, draw:marker-end-path: M0 400L100 0L200 400, draw:marker-end-viewbox: 0 0 200 400, draw:marker-end-width: 10.0000pt, draw:marker-start-center: false, draw:marker-start-path: M0 400L100 0L200 400, draw:marker-start-viewbox: 0 0 200 400, draw:marker-start-width: 10.0000pt, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 1.3251in, svg:y: 1.7569in), (svg:x: 2.6563in, svg:y: 1.7726in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 1.2250in, svg:y: 2.0931in), (svg:x: 2.3625in, svg:y: 2.0931in), (svg:x: 2.3625in, svg:y: 2.8750in), (svg:x: 1.2250in, svg:y: 2.8750in), (svg:x: 1.2250in, svg:y: 2.0931in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.8125in, svg:y: 2.7109in), (librevenge:path-action: A, librevenge:rotate: 0.0000in, svg:rx: 0.9062in, svg:ry: 0.4609in, svg:x: 3.0000in, svg:y: 2.7109in), (librevenge:path-action: A, librevenge:rotate: 0.0000in, svg:rx: 0.9062in, svg:ry: 0.4609in, svg:x: 4.8125in, svg:y: 2.7109in), (librevenge:path-action: L, svg:x: 4.8125in, svg:y: 2.7109in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 5.3250in, svg:y: 2.2431in), (svg:x: 6.4125in, svg:y: 2.2431in), (svg:x: 6.4125in, svg:y: 3.3375in), (svg:x: 5.3250in, svg:y: 3.3375in), (svg:x: 5.3250in, svg:y: 2.2431in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.2875in, svg:y: 3.7750in), (librevenge:path-action: A, librevenge:rotate: 0.0000in, svg:rx: 0.4625in, svg:ry: 0.4625in, svg:x: 1.3625in, svg:y: 3.7750in), (librevenge:path-action: A, librevenge:rotate: 0.0000in, svg:rx: 0.4625in, svg:ry: 0.4625in, svg:x: 2.2875in, svg:y: 3.7750in), (librevenge:path-action: L, svg:x: 2.2875in, svg:y: 3.7750in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.2762in, svg:y: 4.5875in), (librevenge:path-action: C, svg:x: 1.2125in, svg:x1: 1.2444in, svg:x2: 1.2125in, svg:y: 4.6513in, svg:y1: 4.5875in, svg:y2: 4.6194in), (librevenge:path-action: L, svg:x: 1.2125in, svg:y: 5.1613in), (librevenge:path-action: C, svg:x: 1.2762in, svg:x1: 1.2125in, svg:x2: 1.2444in, svg:y: 5.2250in, svg:y1: 5.1931in, svg:y2: 5.2250in), (librevenge:path-action: L, svg:x: 1.9112in, svg:y: 5.2250in), (librevenge:path-action: C, svg:x: 1.9750in, svg:x1: 1.9431in, svg:x2: 1.9750in, svg:y: 5.1613in, svg:y1: 5.2250in, svg:y2: 5.1931in), (librevenge:path-action: L, svg:x: 1.9750in, svg:y: 4.6513in), (librevenge:path-action: C, svg:x: 1.9112in, svg:x1: 1.9750in, svg:x2: 1.9431in, svg:y: 4.5875in, svg:y1: 4.6194in, svg:y2: 4.5875in), (librevenge:path-action: L, svg:x: 1.2762in, svg:y: 4.5875in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.5328in, svg:y: 4.5312in), (librevenge:path-action: L, svg:x: 2.9906in, svg:y: 5.2125in), (librevenge:path-action: L, svg:x: 2.0750in, svg:y: 5.2125in), (librevenge:path-action: L, svg:x: 2.5328in, svg:y: 4.5312in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 3.6250in, svg:y: 4.2812in), (svg:x: 4.2031in, svg:y: 4.6766in), (svg:x: 3.6250in, svg:y: 5.0719in), (svg:x: 3.0469in, svg:y: 4.6766in), (svg:x: 3.6250in, svg:y: 4.2812in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 4.6562in, svg:y: 4.0875in), (svg:x: 4.2250in, svg:y: 4.3361in), (svg:x: 4.3939in, svg:y: 4.7375in), (svg:x: 4.9186in, svg:y: 4.7375in), (svg:x: 5.0875in, svg:y: 4.3361in), (svg:x: 4.6562in, svg:y: 4.0875in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.4313in, svg:y: 4.1250in), (librevenge:path-action: L, svg:x: 5.8688in, svg:y: 4.1250in), (librevenge:path-action: L, svg:x: 6.0875in, svg:y: 4.3891in), (librevenge:path-action: L, svg:x: 5.8688in, svg:y: 4.6531in), (librevenge:path-action: L, svg:x: 5.4313in, svg:y: 4.6531in), (librevenge:path-action: L, svg:x: 5.2125in, svg:y: 4.3891in), (librevenge:path-action: L, svg:x: 5.4313in, svg:y: 4.1250in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.4616in, svg:y: 4.1875in), (librevenge:path-action: L, svg:x: 6.7384in, svg:y: 4.1875in), (librevenge:path-action: L, svg:x: 6.9344in, svg:y: 4.3294in), (librevenge:path-action: L, svg:x: 6.9344in, svg:y: 4.5299in), (librevenge:path-action: L, svg:x: 6.7384in, svg:y: 4.6719in), (librevenge:path-action: L, svg:x: 6.4616in, svg:y: 4.6719in), (librevenge:path-action: L, svg:x: 6.2656in, svg:y: 4.5299in), (librevenge:path-action: L, svg:x: 6.2656in, svg:y: 4.3294in), (librevenge:path-action: L, svg:x: 6.4616in, svg:y: 4.1875in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 1.1875in, svg:y: 5.5750in), (svg:x: 1.8375in, svg:y: 5.9219in), (svg:x: 1.1875in, svg:y: 5.9219in), (svg:x: 1.1875in, svg:y: 5.5750in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.1406in, svg:y: 5.9500in), (librevenge:path-action: L, svg:x: 2.1406in, svg:y: 5.6787in), (librevenge:path-action: L, svg:x: 2.3766in, svg:y: 5.5625in), (librevenge:path-action: L, svg:x: 2.6125in, svg:y: 5.6787in), (librevenge:path-action: L, svg:x: 2.6125in, svg:y: 5.9500in), (librevenge:path-action: L, svg:x: 2.3766in, svg:y: 5.8338in), (librevenge:path-action: L, svg:x: 2.1406in, svg:y: 5.9500in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.7656in, svg:y: 5.4875in), (librevenge:path-action: L, svg:x: 3.3125in, svg:y: 5.4875in), (librevenge:path-action: L, svg:x: 3.1758in, svg:y: 5.9375in), (librevenge:path-action: L, svg:x: 2.9023in, svg:y: 5.9375in), (librevenge:path-action: L, svg:x: 2.7656in, svg:y: 5.4875in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.3625in, svg:y: 5.8500in), (librevenge:path-action: L, svg:x: 3.3625in, svg:y: 5.6438in), (librevenge:path-action: L, svg:x: 3.6344in, svg:y: 5.4375in), (librevenge:path-action: L, svg:x: 3.9062in, svg:y: 5.6438in), (librevenge:path-action: L, svg:x: 3.9062in, svg:y: 5.8500in), (librevenge:path-action: L, svg:x: 3.3625in, svg:y: 5.8500in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0312in, svg:y: 5.4625in), (librevenge:path-action: L, svg:x: 4.0312in, svg:y: 5.8750in), (librevenge:path-action: L, svg:x: 4.7656in, svg:y: 5.8750in), (librevenge:path-action: L, svg:x: 4.7656in, svg:y: 5.4625in), (librevenge:path-action: L, svg:x: 4.0312in, svg:y: 5.4625in), (librevenge:path-action: L, svg:x: 4.0312in, svg:y: 5.4625in), (librevenge:path-action: L, svg:x: 4.0312in, svg:y: 5.4625in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.9219in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.7656in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.7656in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 5.6562in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 5.6562in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.3906in), (librevenge:path-action: L, svg:x: 4.9219in, svg:y: 5.3906in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.2250in, svg:y: 6.1875in), (librevenge:path-action: L, svg:x: 1.2250in, svg:y: 6.5750in), (librevenge:path-action: L, svg:x: 1.9219in, svg:y: 6.1875in), (librevenge:path-action: L, svg:x: 1.2250in, svg:y: 6.1875in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.1250in, svg:y: 6.1875in), (librevenge:path-action: L, svg:x: 2.1250in, svg:y: 6.1875in), (librevenge:path-action: L, svg:x: 2.1250in, svg:y: 6.5312in), (librevenge:path-action: L, svg:x: 2.9500in, svg:y: 6.1875in), (librevenge:path-action: L, svg:x: 2.1250in, svg:y: 6.1875in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.1562in, svg:y: 6.5750in), (librevenge:path-action: L, svg:x: 3.1562in, svg:y: 6.1834in), (librevenge:path-action: L, svg:x: 3.5250in, svg:y: 6.0156in), (librevenge:path-action: L, svg:x: 3.8937in, svg:y: 6.1834in), (librevenge:path-action: L, svg:x: 3.8937in, svg:y: 6.5750in), (librevenge:path-action: L, svg:x: 3.5250in, svg:y: 6.4072in), (librevenge:path-action: L, svg:x: 3.1562in, svg:y: 6.5750in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0625in, svg:y: 6.0875in), (librevenge:path-action: L, svg:x: 4.0625in, svg:y: 6.6406in), (librevenge:path-action: L, svg:x: 4.0625in, svg:y: 6.0875in), (librevenge:path-action: L, svg:x: 4.0625in, svg:y: 6.0875in), (librevenge:path-action: L, svg:x: 4.0625in, svg:y: 6.0875in), (librevenge:path-action: L, svg:x: 4.9500in, svg:y: 6.0875in), (librevenge:path-action: L, svg:x: 4.0625in, svg:y: 6.0875in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.1125in, svg:y: 6.0625in), (librevenge:path-action: L, svg:x: 5.1125in, svg:y: 6.5875in), (librevenge:path-action: L, svg:x: 5.9750in, svg:y: 6.5875in), (librevenge:path-action: L, svg:x: 5.9750in, svg:y: 6.0625in), (librevenge:path-action: M, svg:x: 5.4000in, svg:y: 6.5875in), (librevenge:path-action: L, svg:x: 5.4000in, svg:y: 6.0625in), (librevenge:path-action: M, svg:x: 5.6875in, svg:y: 6.5875in), (librevenge:path-action: L, svg:x: 5.6875in, svg:y: 6.0625in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.2000in, svg:y: 6.4375in), (librevenge:path-action: L, svg:x: 6.2000in, svg:y: 5.9875in), (librevenge:path-action: L, svg:x: 6.4281in, svg:y: 5.8375in), (librevenge:path-action: L, svg:x: 7.1125in, svg:y: 5.8375in), (librevenge:path-action: L, svg:x: 7.1125in, svg:y: 6.2875in), (librevenge:path-action: L, svg:x: 6.8844in, svg:y: 6.4375in), (librevenge:path-action: L, svg:x: 6.2000in, svg:y: 6.4375in), (librevenge:path-action: M, svg:x: 6.2000in, svg:y: 5.9875in), (librevenge:path-action: L, svg:x: 6.4281in, svg:y: 5.8375in), (librevenge:path-action: L, svg:x: 7.1125in, svg:y: 5.8375in), (librevenge:path-action: L, svg:x: 6.8844in, svg:y: 5.9875in), (librevenge:path-action: L, svg:x: 6.2000in, svg:y: 5.9875in), (librevenge:path-action: M, svg:x: 6.8844in, svg:y: 6.4375in), (librevenge:path-action: L, svg:x: 6.8844in, svg:y: 5.9875in), (librevenge:path-action: L, svg:x: 7.1125in, svg:y: 5.8375in), (librevenge:path-action: L, svg:x: 7.1125in, svg:y: 6.2875in), (librevenge:path-action: L, svg:x: 6.8844in, svg:y: 6.4375in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.1344in, svg:y: 7.6000in), (librevenge:path-action: L, svg:x: 1.1344in, svg:y: 7.2250in), (librevenge:path-action: L, svg:x: 1.0625in, svg:y: 7.2250in), (librevenge:path-action: L, svg:x: 1.2063in, svg:y: 6.8500in), (librevenge:path-action: L, svg:x: 1.3500in, svg:y: 7.2250in), (librevenge:path-action: L, svg:x: 1.2781in, svg:y: 7.2250in), (librevenge:path-action: L, svg:x: 1.2781in, svg:y: 7.6000in), (librevenge:path-action: L, svg:x: 1.1344in, svg:y: 7.6000in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.4500in, svg:y: 7.1666in), (librevenge:path-action: L, svg:x: 1.7484in, svg:y: 6.9500in), (librevenge:path-action: L, svg:x: 2.0469in, svg:y: 7.1666in), (librevenge:path-action: L, svg:x: 1.8977in, svg:y: 7.1666in), (librevenge:path-action: L, svg:x: 1.8977in, svg:y: 7.4553in), (librevenge:path-action: L, svg:x: 2.0469in, svg:y: 7.4553in), (librevenge:path-action: L, svg:x: 1.7484in, svg:y: 7.6719in), (librevenge:path-action: L, svg:x: 1.4500in, svg:y: 7.4553in), (librevenge:path-action: L, svg:x: 1.5992in, svg:y: 7.4553in), (librevenge:path-action: L, svg:x: 1.5992in, svg:y: 7.1666in), (librevenge:path-action: L, svg:x: 1.4500in, svg:y: 7.1666in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.1562in, svg:y: 7.5812in), (librevenge:path-action: L, svg:x: 2.1562in, svg:y: 7.2316in), (librevenge:path-action: C, svg:x: 2.4727in, svg:x1: 2.1562in, svg:x2: 2.3145in, svg:y: 6.8812in, svg:y1: 7.0564in, svg:y2: 6.8812in), (librevenge:path-action: L, svg:x: 2.4863in, svg:y: 6.8812in), (librevenge:path-action: L, svg:x: 2.4863in, svg:y: 6.7812in), (librevenge:path-action: L, svg:x: 2.7062in, svg:y: 7.0064in), (librevenge:path-action: L, svg:x: 2.4863in, svg:y: 7.2315in), (librevenge:path-action: L, svg:x: 2.4863in, svg:y: 7.1315in), (librevenge:path-action: L, svg:x: 2.4727in, svg:y: 7.1315in), (librevenge:path-action: C, svg:x: 2.3283in, svg:x1: 2.4005in, svg:x2: 2.3283in, svg:y: 7.2316in, svg:y1: 7.1315in, svg:y2: 7.1816in), (librevenge:path-action: L, svg:x: 2.3283in, svg:y: 7.5812in), (librevenge:path-action: L, svg:x: 2.1562in, svg:y: 7.5812in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.8125in, svg:y: 7.8688in), (librevenge:path-action: L, svg:x: 2.8125in, svg:y: 7.2117in), (librevenge:path-action: C, svg:x: 3.0646in, svg:x1: 2.8125in, svg:x2: 2.9314in, svg:y: 6.7812in, svg:y1: 6.9595in, svg:y2: 6.7812in), (librevenge:path-action: C, svg:x: 3.3184in, svg:x1: 3.1903in, svg:x2: 3.3176in, svg:y: 7.1991in, svg:y1: 6.7812in, svg:y2: 6.9439in), (librevenge:path-action: L, svg:x: 3.4000in, svg:y: 7.1991in), (librevenge:path-action: L, svg:x: 3.2390in, svg:y: 7.4992in), (librevenge:path-action: L, svg:x: 3.0763in, svg:y: 7.1991in), (librevenge:path-action: L, svg:x: 3.1525in, svg:y: 7.1991in), (librevenge:path-action: C, svg:x: 3.0660in, svg:x1: 3.1476in, svg:x2: 3.1082in, svg:y: 7.0758in, svg:y1: 7.1025in, svg:y2: 7.0758in), (librevenge:path-action: C, svg:x: 2.9787in, svg:x1: 3.0238in, svg:x2: 2.9768in, svg:y: 7.2102in, svg:y1: 7.0758in, svg:y2: 7.1040in), (librevenge:path-action: L, svg:x: 2.9787in, svg:y: 7.8688in), (librevenge:path-action: L, svg:x: 2.8125in, svg:y: 7.8688in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.5631in, svg:y: 7.0000in), (librevenge:path-action: C, svg:x: 3.5312in, svg:x1: 3.5472in, svg:x2: 3.5312in, svg:y: 7.0192in, svg:y1: 7.0000in, svg:y2: 7.0096in), (librevenge:path-action: L, svg:x: 3.5312in, svg:y: 7.6056in), (librevenge:path-action: C, svg:x: 3.5631in, svg:x1: 3.5312in, svg:x2: 3.5472in, svg:y: 7.6249in, svg:y1: 7.6153in, svg:y2: 7.6249in), (librevenge:path-action: L, svg:x: 3.6884in, svg:y: 7.6249in), (librevenge:path-action: L, svg:x: 3.5312in, svg:y: 7.7812in), (librevenge:path-action: L, svg:x: 3.9215in, svg:y: 7.6249in), (librevenge:path-action: L, svg:x: 4.7900in, svg:y: 7.6249in), (librevenge:path-action: C, svg:x: 4.8250in, svg:x1: 4.8075in, svg:x2: 4.8250in, svg:y: 7.6056in, svg:y1: 7.6249in, svg:y2: 7.6153in), (librevenge:path-action: L, svg:x: 4.8250in, svg:y: 7.0192in), (librevenge:path-action: C, svg:x: 4.7900in, svg:x1: 4.8250in, svg:x2: 4.8075in, svg:y: 7.0000in, svg:y1: 7.0096in, svg:y2: 7.0000in), (librevenge:path-action: L, svg:x: 3.5631in, svg:y: 7.0000in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.0000in, svg:y: 7.5875in), (librevenge:path-action: M, svg:x: 5.4440in, svg:y: 7.4120in), (librevenge:large-arc: 1, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.5000in, svg:ry: 0.2615in, svg:x: 5.1878in, svg:y: 7.3564in), (librevenge:path-action: L, svg:x: 5.0000in, svg:y: 7.5875in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 1.5030in, svg:y: 7.8750in), (svg:x: 1.4185in, svg:y: 8.1282in), (svg:x: 1.1406in, svg:y: 8.1282in), (svg:x: 1.3662in, svg:y: 8.2861in), (svg:x: 1.2815in, svg:y: 8.5375in), (svg:x: 1.5030in, svg:y: 8.3835in), (svg:x: 1.7247in, svg:y: 8.5375in), (svg:x: 1.6400in, svg:y: 8.2861in), (svg:x: 1.8656in, svg:y: 8.1282in), (svg:x: 1.5877in, svg:y: 8.1282in), (svg:x: 1.5030in, svg:y: 7.8750in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 2.0000in, svg:y: 8.2688in), (svg:x: 2.1113in, svg:y: 8.3173in), (svg:x: 2.0330in, svg:y: 8.3928in), (svg:x: 2.1611in, svg:y: 8.4074in), (svg:x: 2.1327in, svg:y: 8.5030in), (svg:x: 2.2584in, svg:y: 8.4798in), (svg:x: 2.2761in, svg:y: 8.5737in), (svg:x: 2.3807in, svg:y: 8.5178in), (svg:x: 2.4531in, svg:y: 8.6000in), (svg:x: 2.5196in, svg:y: 8.5186in), (svg:x: 2.6229in, svg:y: 8.5759in), (svg:x: 2.6428in, svg:y: 8.4823in), (svg:x: 2.7735in, svg:y: 8.5030in), (svg:x: 2.7418in, svg:y: 8.4111in), (svg:x: 2.8702in, svg:y: 8.3982in), (svg:x: 2.7938in, svg:y: 8.3217in), (svg:x: 2.9062in, svg:y: 8.2688in), (svg:x: 2.7950in, svg:y: 8.2202in), (svg:x: 2.8733in, svg:y: 8.1447in), (svg:x: 2.7452in, svg:y: 8.1301in), (svg:x: 2.7735in, svg:y: 8.0345in), (svg:x: 2.6479in, svg:y: 8.0577in), (svg:x: 2.6302in, svg:y: 7.9638in), (svg:x: 2.5255in, svg:y: 8.0197in), (svg:x: 2.4531in, svg:y: 7.9375in), (svg:x: 2.3867in, svg:y: 8.0189in), (svg:x: 2.2834in, svg:y: 7.9616in), (svg:x: 2.2635in, svg:y: 8.0552in), (svg:x: 2.1327in, svg:y: 8.0345in), (svg:x: 2.1644in, svg:y: 8.1264in), (svg:x: 2.0360in, svg:y: 8.1393in), (svg:x: 2.1125in, svg:y: 8.2158in), (svg:x: 2.0000in, svg:y: 8.2688in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 3.0469in, svg:y: 8.3094in), (svg:x: 3.1028in, svg:y: 8.3395in), (svg:x: 3.0631in, svg:y: 8.3814in), (svg:x: 3.1304in, svg:y: 8.4020in), (svg:x: 3.1105in, svg:y: 8.4484in), (svg:x: 3.1847in, svg:y: 8.4582in), (svg:x: 3.1860in, svg:y: 8.5060in), (svg:x: 3.2619in, svg:y: 8.5042in), (svg:x: 3.2844in, svg:y: 8.5502in), (svg:x: 3.3569in, svg:y: 8.5369in), (svg:x: 3.3989in, svg:y: 8.5780in), (svg:x: 3.4631in, svg:y: 8.5542in), (svg:x: 3.5219in, svg:y: 8.5875in), (svg:x: 3.5733in, svg:y: 8.5548in), (svg:x: 3.6448in, svg:y: 8.5780in), (svg:x: 3.6800in, svg:y: 8.5386in), (svg:x: 3.7594in, svg:y: 8.5502in), (svg:x: 3.7760in, svg:y: 8.5068in), (svg:x: 3.8578in, svg:y: 8.5060in), (svg:x: 3.8546in, svg:y: 8.4616in), (svg:x: 3.9332in, svg:y: 8.4484in), (svg:x: 3.9105in, svg:y: 8.4060in), (svg:x: 3.9807in, svg:y: 8.3814in), (svg:x: 3.9400in, svg:y: 8.3438in), (svg:x: 3.9969in, svg:y: 8.3094in), (svg:x: 3.9410in, svg:y: 8.2792in), (svg:x: 3.9807in, svg:y: 8.2374in), (svg:x: 3.9134in, svg:y: 8.2168in), (svg:x: 3.9332in, svg:y: 8.1703in), (svg:x: 3.8591in, svg:y: 8.1606in), (svg:x: 3.8578in, svg:y: 8.1127in), (svg:x: 3.7818in, svg:y: 8.1146in), (svg:x: 3.7594in, svg:y: 8.0685in), (svg:x: 3.6869in, svg:y: 8.0818in), (svg:x: 3.6448in, svg:y: 8.0407in), (svg:x: 3.5806in, svg:y: 8.0646in), (svg:x: 3.5219in, svg:y: 8.0312in), (svg:x: 3.4704in, svg:y: 8.0640in), (svg:x: 3.3989in, svg:y: 8.0407in), (svg:x: 3.3637in, svg:y: 8.0802in), (svg:x: 3.2844in, svg:y: 8.0685in), (svg:x: 3.2678in, svg:y: 8.1119in), (svg:x: 3.1860in, svg:y: 8.1127in), (svg:x: 3.1892in, svg:y: 8.1572in), (svg:x: 3.1105in, svg:y: 8.1703in), (svg:x: 3.1332in, svg:y: 8.2128in), (svg:x: 3.0631in, svg:y: 8.2374in), (svg:x: 3.1038in, svg:y: 8.2750in), (svg:x: 3.0469in, svg:y: 8.3094in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 4.6109in, svg:y: 8.1710in), (svg:x: 4.4992in, svg:y: 8.0472in), (svg:x: 4.4516in, svg:y: 8.1893in), (svg:x: 4.1343in, svg:y: 8.0472in), (svg:x: 4.3288in, svg:y: 8.2351in), (svg:x: 4.1173in, svg:y: 8.2703in), (svg:x: 4.2875in, svg:y: 8.3819in), (svg:x: 4.1236in, svg:y: 8.4810in), (svg:x: 4.3764in, svg:y: 8.4582in), (svg:x: 4.3351in, svg:y: 8.5880in), (svg:x: 4.4700in, svg:y: 8.5178in), (svg:x: 4.5052in, svg:y: 8.7250in), (svg:x: 4.5988in, svg:y: 8.4934in), (svg:x: 4.7228in, svg:y: 8.6629in), (svg:x: 4.7583in, svg:y: 8.4765in), (svg:x: 4.9468in, svg:y: 8.6048in), (svg:x: 4.8869in, svg:y: 8.4230in), (svg:x: 5.1000in, svg:y: 8.4353in), (svg:x: 4.9222in, svg:y: 8.3359in), (svg:x: 5.0816in, svg:y: 8.2535in), (svg:x: 4.8808in, svg:y: 8.2243in), (svg:x: 4.9575in, svg:y: 8.1235in), (svg:x: 4.7643in, svg:y: 8.1541in), (svg:x: 4.7810in, svg:y: 7.9662in), (svg:x: 4.6109in, svg:y: 8.1710in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 5.7383in, svg:y: 7.9787in), (svg:x: 5.6665in, svg:y: 7.9060in), (svg:x: 5.6181in, svg:y: 8.0393in), (svg:x: 5.4513in, svg:y: 7.9575in), (svg:x: 5.4872in, svg:y: 8.0818in), (svg:x: 5.3140in, svg:y: 8.0953in), (svg:x: 5.4278in, svg:y: 8.1938in), (svg:x: 5.2656in, svg:y: 8.2319in), (svg:x: 5.4029in, svg:y: 8.3059in), (svg:x: 5.3185in, svg:y: 8.3786in), (svg:x: 5.4637in, svg:y: 8.3909in), (svg:x: 5.4684in, svg:y: 8.4906in), (svg:x: 5.5759in, svg:y: 8.3876in), (svg:x: 5.6243in, svg:y: 8.4346in), (svg:x: 5.6726in, svg:y: 8.3652in), (svg:x: 5.7445in, svg:y: 8.4089in), (svg:x: 5.7678in, svg:y: 8.3227in), (svg:x: 5.8818in, svg:y: 8.3652in), (svg:x: 5.8693in, svg:y: 8.2755in), (svg:x: 6.0440in, svg:y: 8.3136in), (svg:x: 5.9411in, svg:y: 8.2151in), (svg:x: 6.0189in, svg:y: 8.1849in), (svg:x: 5.9660in, svg:y: 8.1289in), (svg:x: 6.1563in, svg:y: 8.0471in), (svg:x: 5.9411in, svg:y: 8.0438in), (svg:x: 6.0080in, svg:y: 7.9441in), (svg:x: 5.8645in, svg:y: 8.0214in), (svg:x: 5.8754in, svg:y: 7.8500in), (svg:x: 5.7383in, svg:y: 7.9787in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPolygon (svg:points: ((svg:x: 6.7147in, svg:y: 7.7375in), (svg:x: 6.3500in, svg:y: 7.8987in), (svg:x: 6.6761in, svg:y: 8.0833in), (svg:x: 6.5653in, svg:y: 8.1369in), (svg:x: 6.8759in, svg:y: 8.3088in), (svg:x: 6.7806in, svg:y: 8.3511in), (svg:x: 7.2812in, svg:y: 8.6250in), (svg:x: 6.9867in, svg:y: 8.2680in), (svg:x: 7.0639in, svg:y: 8.2312in), (svg:x: 6.8255in, svg:y: 8.0185in), (svg:x: 6.9032in, svg:y: 7.9890in), (svg:x: 6.7147in, svg:y: 7.7375in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.5047in, svg:y: 9.5156in), (librevenge:path-action: L, svg:x: 1.2212in, svg:y: 8.9941in), (librevenge:path-action: L, svg:x: 1.2144in, svg:y: 8.9639in), (librevenge:path-action: C, svg:x: 1.2126in, svg:x1: 1.2125in, svg:x2: 1.2125in, svg:y: 8.9340in, svg:y1: 8.9544in, svg:y2: 8.9440in), (librevenge:path-action: C, svg:x: 1.2152in, svg:x1: 1.2127in, svg:x2: 1.2137in, svg:y: 8.9049in, svg:y1: 8.9243in, svg:y2: 8.9145in), (librevenge:path-action: C, svg:x: 1.2221in, svg:x1: 1.2168in, svg:x2: 1.2191in, svg:y: 8.8770in, svg:y1: 8.8954in, svg:y2: 8.8860in), (librevenge:path-action: C, svg:x: 1.2325in, svg:x1: 1.2249in, svg:x2: 1.2285in, svg:y: 8.8506in, svg:y1: 8.8679in, svg:y2: 8.8591in), (librevenge:path-action: C, svg:x: 1.2464in, svg:x1: 1.2366in, svg:x2: 1.2413in, svg:y: 8.8264in, svg:y1: 8.8421in, svg:y2: 8.8340in), (librevenge:path-action: C, svg:x: 1.2632in, svg:x1: 1.2515in, svg:x2: 1.2572in, svg:y: 8.8047in, svg:y1: 8.8187in, svg:y2: 8.8114in), (librevenge:path-action: C, svg:x: 1.2825in, svg:x1: 1.2692in, svg:x2: 1.2757in, svg:y: 8.7859in, svg:y1: 8.7979in, svg:y2: 8.7916in), (librevenge:path-action: C, svg:x: 1.3039in, svg:x1: 1.2893in, svg:x2: 1.2965in, svg:y: 8.7707in, svg:y1: 8.7803in, svg:y2: 8.7751in), (librevenge:path-action: C, svg:x: 1.3271in, svg:x1: 1.3114in, svg:x2: 1.3192in, svg:y: 8.7594in, svg:y1: 8.7663in, svg:y2: 8.7624in), (librevenge:path-action: C, svg:x: 1.3517in, svg:x1: 1.3351in, svg:x2: 1.3434in, svg:y: 8.7523in, svg:y1: 8.7562in, svg:y2: 8.7538in), (librevenge:path-action: C, svg:x: 1.3772in, svg:x1: 1.3601in, svg:x2: 1.3686in, svg:y: 8.7501in, svg:y1: 8.7508in, svg:y2: 8.7500in), (librevenge:path-action: C, svg:x: 1.4032in, svg:x1: 1.3858in, svg:x2: 1.3946in, svg:y: 8.7532in, svg:y1: 8.7502in, svg:y2: 8.7512in), (librevenge:path-action: C, svg:x: 1.4293in, svg:x1: 1.4120in, svg:x2: 1.4208in, svg:y: 8.7619in, svg:y1: 8.7551in, svg:y2: 8.7580in), (librevenge:path-action: C, svg:x: 1.4552in, svg:x1: 1.4382in, svg:x2: 1.4470in, svg:y: 8.7768in, svg:y1: 8.7658in, svg:y2: 8.7709in), (librevenge:path-action: C, svg:x: 1.4805in, svg:x1: 1.4640in, svg:x2: 1.4726in, svg:y: 8.7983in, svg:y1: 8.7830in, svg:y2: 8.7902in), (librevenge:path-action: C, svg:x: 1.5047in, svg:x1: 1.4891in, svg:x2: 1.4967in, svg:y: 8.8269in, svg:y1: 8.8070in, svg:y2: 8.8173in), (librevenge:path-action: L, svg:x: 1.5290in, svg:y: 8.7983in), (librevenge:path-action: C, svg:x: 1.5542in, svg:x1: 1.5364in, svg:x2: 1.5454in, svg:y: 8.7768in, svg:y1: 8.7896in, svg:y2: 8.7831in), (librevenge:path-action: C, svg:x: 1.5801in, svg:x1: 1.5624in, svg:x2: 1.5785in, svg:y: 8.7619in, svg:y1: 8.7709in, svg:y2: 8.7660in), (librevenge:path-action: C, svg:x: 1.6063in, svg:x1: 1.5886in, svg:x2: 1.5974in, svg:y: 8.7532in, svg:y1: 8.7580in, svg:y2: 8.7551in), (librevenge:path-action: C, svg:x: 1.6323in, svg:x1: 1.6149in, svg:x2: 1.6236in, svg:y: 8.7501in, svg:y1: 8.7512in, svg:y2: 8.7502in), (librevenge:path-action: C, svg:x: 1.6578in, svg:x1: 1.6408in, svg:x2: 1.6493in, svg:y: 8.7523in, svg:y1: 8.7500in, svg:y2: 8.7508in), (librevenge:path-action: C, svg:x: 1.6823in, svg:x1: 1.6660in, svg:x2: 1.6743in, svg:y: 8.7594in, svg:y1: 8.7539in, svg:y2: 8.7563in), (librevenge:path-action: C, svg:x: 1.7055in, svg:x1: 1.6902in, svg:x2: 1.6980in, svg:y: 8.7707in, svg:y1: 8.7624in, svg:y2: 8.7662in), (librevenge:path-action: C, svg:x: 1.7269in, svg:x1: 1.7129in, svg:x2: 1.7201in, svg:y: 8.7859in, svg:y1: 8.7751in, svg:y2: 8.7803in), (librevenge:path-action: C, svg:x: 1.7463in, svg:x1: 1.7337in, svg:x2: 1.7402in, svg:y: 8.8047in, svg:y1: 8.7915in, svg:y2: 8.7978in), (librevenge:path-action: C, svg:x: 1.7631in, svg:x1: 1.7522in, svg:x2: 1.7579in, svg:y: 8.8264in, svg:y1: 8.8114in, svg:y2: 8.8187in), (librevenge:path-action: C, svg:x: 1.7769in, svg:x1: 1.7681in, svg:x2: 1.7728in, svg:y: 8.8506in, svg:y1: 8.8340in, svg:y2: 8.8421in), (librevenge:path-action: C, svg:x: 1.7874in, svg:x1: 1.7809in, svg:x2: 1.7845in, svg:y: 8.8770in, svg:y1: 8.8590in, svg:y2: 8.8678in), (librevenge:path-action: C, svg:x: 1.7942in, svg:x1: 1.7903in, svg:x2: 1.7926in, svg:y: 8.9049in, svg:y1: 8.8859in, svg:y2: 8.8953in), (librevenge:path-action: C, svg:x: 1.7969in, svg:x1: 1.7958in, svg:x2: 1.7967in, svg:y: 8.9340in, svg:y1: 8.9144in, svg:y2: 8.9243in), (librevenge:path-action: C, svg:x: 1.7950in, svg:x1: 1.7970in, svg:x2: 1.7964in, svg:y: 8.9639in, svg:y1: 8.9440in, svg:y2: 8.9542in), (librevenge:path-action: C, svg:x: 1.7883in, svg:x1: 1.7936in, svg:x2: 1.7905in, svg:y: 8.9941in, svg:y1: 8.9742in, svg:y2: 8.9840in), (librevenge:path-action: L, svg:x: 1.5047in, svg:y: 9.5157in), (librevenge:path-action: L, svg:x: 1.5047in, svg:y: 9.5156in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.0469in, svg:y: 8.9824in), (librevenge:path-action: C, svg:x: 2.8500in, svg:x1: 2.3146in, svg:x2: 2.5823in, svg:y: 8.9824in, svg:y1: 8.8676in, svg:y2: 9.0972in), (librevenge:path-action: L, svg:x: 2.8500in, svg:y: 9.4176in), (librevenge:path-action: C, svg:x: 2.0469in, svg:x1: 2.5823in, svg:x2: 2.3146in, svg:y: 9.4176in, svg:y1: 9.5324in, svg:y2: 9.3028in), (librevenge:path-action: L, svg:x: 2.0469in, svg:y: 8.9824in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.1684in, svg:y: 9.0589in), (librevenge:large-arc: 0, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.3188in, svg:ry: 0.2438in, svg:x: 3.1684in, svg:y: 9.0589in), (librevenge:path-action: L, svg:x: 3.3938in, svg:y: 9.2313in), (librevenge:path-action: L, svg:x: 3.1684in, svg:y: 9.0589in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0005in, svg:y: 8.9780in), (librevenge:large-arc: 0, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.3750in, svg:ry: 0.2984in, svg:x: 4.0005in, svg:y: 8.9780in), (librevenge:path-action: L, svg:x: 4.0005in, svg:y: 8.9780in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.6595in, svg:y: 9.3737in), (librevenge:large-arc: 1, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.5828in, svg:ry: 0.2719in, svg:x: 4.8498in, svg:y: 9.3737in), (librevenge:path-action: L, svg:x: 5.0523in, svg:y: 9.2759in), (librevenge:large-arc: 1, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 1, svg:rx: 0.2914in, svg:ry: 0.1359in, svg:x: 5.4571in, svg:y: 9.2759in), (librevenge:path-action: L, svg:x: 5.6595in, svg:y: 9.3737in)))
-    setStyle(draw:fill: none, draw:stroke: solid)
     setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
     drawPath (svg:d: ((librevenge:path-action: M, svg:x: 7.0550in, svg:y: 8.8514in), (librevenge:path-action: C, svg:x: 7.0224in, svg:x1: 7.0498in, svg:x2: 7.0400in, svg:y: 8.8074in, svg:y1: 8.8355in, svg:y2: 8.8221in), (librevenge:path-action: C, svg:x: 6.9349in, svg:x1: 6.9995in, svg:x2: 6.9695in, svg:y: 8.7707in, svg:y1: 8.7940in, svg:y2: 8.7815in), (librevenge:path-action: C, svg:x: 6.7991in, svg:x1: 6.8944in, svg:x2: 6.8494in, svg:y: 8.7461in, svg:y1: 8.7608in, svg:y2: 8.7522in), (librevenge:path-action: C, svg:x: 6.6438in, svg:x1: 6.7488in, svg:x2: 6.6966in, svg:y: 8.7375in, svg:y1: 8.7413in, svg:y2: 8.7375in), (librevenge:path-action: C, svg:x: 6.4857in, svg:x1: 6.5889in, svg:x2: 6.5360in, svg:y: 8.7461in, svg:y1: 8.7375in, svg:y2: 8.7413in), (librevenge:path-action: C, svg:x: 6.3532in, svg:x1: 6.4381in, svg:x2: 6.3930in, svg:y: 8.7707in, svg:y1: 8.7522in, svg:y2: 8.7608in), (librevenge:path-action: C, svg:x: 6.2631in, svg:x1: 6.3179in, svg:x2: 6.2879in, svg:y: 8.8074in, svg:y1: 8.7815in, svg:y2: 8.7940in), (librevenge:path-action: C, svg:x: 6.2331in, svg:x1: 6.2481in, svg:x2: 6.2350in, svg:y: 8.8514in, svg:y1: 8.8221in, svg:y2: 8.8355in), (librevenge:path-action: L, svg:x: 6.2331in, svg:y: 8.8907in), (librevenge:path-action: L, svg:x: 6.0875in, svg:y: 8.9679in), (librevenge:path-action: L, svg:x: 6.1227in, svg:y: 9.0831in), (librevenge:path-action: L, svg:x: 6.0875in, svg:y: 9.2812in), (librevenge:path-action: L, svg:x: 6.2331in, svg:y: 9.2078in), (librevenge:path-action: L, svg:x: 6.2331in, svg:y: 9.1673in), (librevenge:path-action: C, svg:x: 6.2631in, svg:x1: 6.2350in, svg:x2: 6.2481in, svg:y: 9.1233in, svg:y1: 9.1526in, svg:y2: 9.1380in), (librevenge:path-action: C, svg:x: 6.3532in, svg:x1: 6.2879in, svg:x2: 6.3179in, svg:y: 9.0866in, svg:y1: 9.1099in, svg:y2: 9.0978in), (librevenge:path-action: C, svg:x: 6.4857in, svg:x1: 6.3930in, svg:x2: 6.4381in, svg:y: 9.0620in, svg:y1: 9.0767in, svg:y2: 9.0684in), (librevenge:path-action: C, svg:x: 6.6438in, svg:x1: 6.5360in, svg:x2: 6.5889in, svg:y: 9.0534in, svg:y1: 9.0572in, svg:y2: 9.0547in), (librevenge:path-action: C, svg:x: 6.7991in, svg:x1: 6.6966in, svg:x2: 6.7488in, svg:y: 9.0620in, svg:y1: 9.0547in, svg:y2: 9.0572in), (librevenge:path-action: C, svg:x: 6.9349in, svg:x1: 6.8494in, svg:x2: 6.8944in, svg:y: 9.0866in, svg:y1: 9.0684in, svg:y2: 9.0767in), (librevenge:path-action: C, svg:x: 7.0224in, svg:x1: 6.9695in, svg:x2: 6.9995in, svg:y: 9.1233in, svg:y1: 9.0978in, svg:y2: 9.1099in), (librevenge:path-action: C, svg:x: 7.0550in, svg:x1: 7.0400in, svg:x2: 7.0498in, svg:y: 9.1673in, svg:y1: 9.1380in, svg:y2: 9.1526in), (librevenge:path-action: L, svg:x: 7.0550in, svg:y: 9.2078in), (librevenge:path-action: L, svg:x: 7.2000in, svg:y: 9.2812in), (librevenge:path-action: L, svg:x: 7.1654in, svg:y: 9.0831in), (librevenge:path-action: L, svg:x: 7.2000in, svg:y: 8.9679in), (librevenge:path-action: L, svg:x: 7.0550in, svg:y: 8.8907in), (librevenge:path-action: L, svg:x: 7.0550in, svg:y: 8.8514in), (librevenge:path-action: L, svg:x: 7.0550in, svg:y: 8.8514in)))
   endPage

@@ -8,7 +8,7 @@ startDocument()
       startTextObject (fo:column-gap: 0.0792in, fo:padding-bottom: 0.0396in, fo:padding-left: 0.0396in, fo:padding-right: 0.0396in, fo:padding-top: 0.0396in, svg:height: 5.4688in, svg:width: 5.8125in, svg:x: 1.0833in, svg:y: 1.1042in)
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Lorem ipsum dolor sit amet, consectetur adipiscing elit. )
+            insertText (Lorem ipsum dolor sit amet, consectetur adipiscing elit. )
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
@@ -16,7 +16,7 @@ startDocument()
             insertText (Donec a diam lectus)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1528in, style:font-name: Times New Roman)
-            insertText (. )
+            insertText (. )
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
@@ -24,17 +24,16 @@ startDocument()
             insertText (Sed sit amet ipsum mauris. )
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
-            insertText (Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. )
+            insertText (Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. )
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-style: italic, style:font-name: Times New Roman)
-            insertText (Donec et mollis dolor. )
+            insertText (Donec et mollis dolor. )
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
@@ -42,85 +41,84 @@ startDocument()
             insertText (Praesent et diam eget libero egestas mattis sit amet vitae augue. )
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: center)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Nam tincidunt congue enim, ut porta lorem lacinia consectetur. )
+            insertText (Nam tincidunt congue enim, ut porta lorem lacinia consectetur. )
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: right)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Donec ut libero sed arcu vehicula ultricies a non tortor. )
+            insertText (Donec ut libero sed arcu vehicula ultricies a non tortor. )
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: justify)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. )
+            insertText (Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. )
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: justify)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
-        openParagraph (fo:margin-left: 0.2500in, fo:text-align: left, fo:text-indent: -0.2500in)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. )
-          closeSpan
-        closeParagraph
-        openParagraph (fo:margin-left: 0.2500in, fo:text-align: left, fo:text-indent: -0.2500in)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. )
-          closeSpan
-        closeParagraph
-        openParagraph (fo:margin-left: 0.2500in, fo:text-align: left, fo:text-indent: -0.2500in)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. )
-          closeSpan
-        closeParagraph
-        openParagraph (fo:margin-left: 0.2500in, fo:text-align: left, fo:text-indent: -0.2500in)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (In rutrum accumsan ultricies. )
-          closeSpan
-        closeParagraph
-        openParagraph (fo:margin-left: 0.2500in, fo:text-align: left, fo:text-indent: -0.2500in)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Mauris vitae nisi at sem facilisis semper ac in est.)
-          closeSpan
-        closeParagraph
-        openParagraph (fo:margin-left: 0.2500in, fo:text-align: left, fo:text-indent: -0.2500in)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Vivamus fermentum semper porta. )
-          closeSpan
-        closeParagraph
-        openParagraph (fo:margin-left: 0.2500in, fo:text-align: left, fo:text-indent: -0.2500in)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. )
-          closeSpan
-        closeParagraph
-        openParagraph (fo:margin-left: 0.2500in, fo:text-align: left, fo:text-indent: -0.2500in)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Maecenas convallis ullamcorper ultricies. )
-          closeSpan
-        closeParagraph
-        openParagraph (fo:margin-left: 0.2500in, fo:text-align: left, fo:text-indent: -0.2500in)
-          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText (Curabitur ornare, ligula semper consectetur sagittis, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. )
-          closeSpan
-        closeParagraph
+        openOrderedListLevel(fo:font-size: 100.0000%, style:num-format: 1, text:min-label-width: 0.2500in)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. )
+            closeSpan
+          closeListElement
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. )
+            closeSpan
+          closeListElement
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. )
+            closeSpan
+          closeListElement
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (In rutrum accumsan ultricies. )
+            closeSpan
+          closeListElement
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (Mauris vitae nisi at sem facilisis semper ac in est.)
+            closeSpan
+          closeListElement
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (Vivamus fermentum semper porta. )
+            closeSpan
+          closeListElement
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. )
+            closeSpan
+          closeListElement
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (Maecenas convallis ullamcorper ultricies. )
+            closeSpan
+          closeListElement
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (Curabitur ornare, ligula semper consectetur sagittis, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. )
+            closeSpan
+          closeListElement
+        closeOrderedListLevel
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Helvetica)
             insertText (Fusce eget orci a orci congue vestibulum. )
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-style: italic, fo:font-weight: bold, style:font-name: Times New Roman)
-            insertText (Ut dolor diam, elementum et vestibulum eu, porttitor vel elit.)
+            insertText (Ut dolor diam, elementum et vestibulum eu, porttitor vel elit.)
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
@@ -128,12 +126,12 @@ startDocument()
             insertText (Curabitur venenatis pulvinar tellus gravida ornare.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ( )
+            insertText ( )
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-position: 50% 67%)
-            insertText (Sed et erat faucibus nunc euismod ultricies ut id justo. )
+            insertText (Sed et erat faucibus nunc euismod ultricies ut id justo. )
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
@@ -141,7 +139,6 @@ startDocument()
             insertText (Nullam cursus suscipit nisi, et ultrices justo sodales nec.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
@@ -149,7 +146,6 @@ startDocument()
             insertText (Fusce venenatis facilisis lectus ac semper.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
@@ -157,12 +153,11 @@ startDocument()
             insertText (Aliquam at massa ipsum.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
-            insertText (Quisque bibendum purus convallis nulla ultrices ultricies.)
+            insertText (Quisque bibendum purus convallis nulla ultrices ultricies.)
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
@@ -170,7 +165,6 @@ startDocument()
             insertText (Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
@@ -178,12 +172,10 @@ startDocument()
             insertText (Fusce vel volutpat elit.)
           closeSpan
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
         openParagraph (fo:text-align: left)
           openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
-            insertText ()
           closeSpan
         closeParagraph
       endTextObject

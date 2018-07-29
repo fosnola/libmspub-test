@@ -1,5 +1,5 @@
 startDocument()
-  setDocumentMetaData()
+  setDocumentMetaData(dc:date: 2017-12-29T20:14:33Z, meta:creation-date: 2017-12-29T20:14:33Z)
   startPage(svg:height: 11.0000in, svg:width: 8.5000in)
     setStyle(draw:fill: none, draw:stroke: none)
     startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 2.4375in, svg:width: 4.6562in, svg:x: 1.6562in, svg:y: 1.4062in)
@@ -59,7 +59,6 @@ startDocument()
           insertText (.)
         closeSpan
         openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
-          insertText ()
         closeSpan
       closeParagraph
       openParagraph (fo:text-align: left)
@@ -115,7 +114,7 @@ startDocument()
           insertText (double wave, )
         closeSpan
         openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman, style:text-underline-mode: continuous, style:text-underline-style: wave, style:text-underline-type: single, style:text-underline-width: bold)
-          insertText (thick wave.)
+          insertText (thick wave.)
         closeSpan
       closeParagraph
       openParagraph (fo:text-align: left)
@@ -141,12 +140,11 @@ startDocument()
           insertText (, )
         closeSpan
         openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
-          insertText (kern text at: 12 pt.)
+          insertText (kern text at: 12 pt.)
         closeSpan
       closeParagraph
       openParagraph (fo:text-align: left)
         openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
-          insertText ()
         closeSpan
       closeParagraph
     endTextObject

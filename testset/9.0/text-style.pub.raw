@@ -1,10 +1,6 @@
 startDocument()
-  setDocumentMetaData()
+  setDocumentMetaData(dc:date: 2017-12-30T15:07:20Z, meta:creation-date: 2017-12-30T15:07:20Z)
   startPage(svg:height: 11.0000in, svg:width: 8.5000in)
-    setStyle(draw:fill: none, draw:stroke: solid)
-    setStyle(draw:fill: none, draw:stroke: solid)
-    setStyle(draw:fill: none, draw:stroke: solid)
-    setStyle(draw:fill: none, draw:stroke: solid)
   endPage
   startPage(svg:height: 11.0000in, svg:width: 8.5000in)
     setStyle(draw:fill: none, draw:stroke: none)
@@ -14,7 +10,7 @@ startDocument()
           insertText (Bold style. )
         closeSpan
         openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
-          insertText (Suppressed bold.)
+          insertText (Suppressed bold.)
         closeSpan
       closeParagraph
       openParagraph (fo:text-align: left)
@@ -22,7 +18,7 @@ startDocument()
           insertText (Underline style. )
         closeSpan
         openSpan(fo:color: #000000, fo:country: US, fo:font-size: 0.1389in, fo:language: en, style:font-name: Times New Roman)
-          insertText (Suppressed underline.)
+          insertText (Suppressed underline.)
         closeSpan
       closeParagraph
     endTextObject

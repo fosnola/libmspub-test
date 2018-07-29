@@ -9,7 +9,6 @@ startDocument()
           insertText (My hovercraft is full of eels.)
         closeSpan
         openSpan(fo:color: #000000, fo:country: CZ, fo:font-size: 0.1389in, fo:language: cs, style:font-name: Times New Roman)
-          insertText ()
         closeSpan
       closeParagraph
     endTextObject

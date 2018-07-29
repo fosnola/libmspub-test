@@ -1,10 +1,6 @@
 startDocument()
-  setDocumentMetaData()
+  setDocumentMetaData(dc:date: 2017-12-30T18:27:23Z, meta:creation-date: 2017-12-30T18:27:23Z)
   startPage(svg:height: 11.0000in, svg:width: 8.5000in)
-    setStyle(draw:fill: none, draw:stroke: solid)
-    setStyle(draw:fill: none, draw:stroke: solid)
-    setStyle(draw:fill: none, draw:stroke: solid)
-    setStyle(draw:fill: none, draw:stroke: solid)
   endPage
   startPage(svg:height: 11.0000in, svg:width: 8.5000in)
     setStyle(draw:fill: none, draw:stroke: none)
@@ -29,7 +25,7 @@ startDocument()
           insertText (Catalan, )
         closeSpan
         openSpan(fo:color: #000000, fo:country: NO, fo:font-size: 0.1389in, fo:language: nb, style:font-name: Times New Roman)
-          insertText (Norwegian (Bokmal).)
+          insertText (Norwegian (Bokmal).)
         closeSpan
       closeParagraph
     endTextObject
