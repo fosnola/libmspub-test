@@ -1,0 +1,157 @@
+startDocument()
+  setDocumentMetaData(dc:date: 2018-07-17T00:52:32Z, meta:creation-date: 2018-07-17T00:52:32Z)
+  startPage(svg:height: 11.0000in, svg:width: 8.5000in)
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      drawPolygon (svg:points: ((svg:x: 1.5000in, svg:y: 1.1000in), (svg:x: 7.0000in, svg:y: 1.1000in), (svg:x: 7.0000in, svg:y: 8.0000in), (svg:x: 1.5000in, svg:y: 8.0000in), (svg:x: 1.5000in, svg:y: 1.1000in)))
+      setStyle(draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 6.9000in, svg:width: 5.5000in, svg:x: 1.5000in, svg:y: 1.1000in)
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (normal)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:letter-spacing: -1.0000pt, style:font-name: Times New Roman)
+            insertText (very tight)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:letter-spacing: -0.5000pt, style:font-name: Times New Roman)
+            insertText (tight)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:letter-spacing: 1.5000pt, style:font-name: Times New Roman)
+            insertText (loose)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:letter-spacing: 3.0000pt, style:font-name: Times New Roman)
+            insertText (very loose)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #409040, fo:font-size: 0.2778in, style:font-name: Times New Roman)
+            insertText (f)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (ancy1)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #999949, fo:font-size: 0.3472in, style:font-name: Times New Roman)
+            insertText (f)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (ancy 2)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+        closeParagraph
+        openParagraph (fo:text-align: left)
+        closeParagraph
+        openOrderedListLevel(fo:font-size: 100.0000%, style:num-format: 1, style:num-suffix: ., text:min-label-width: 0.2500in, text:start-value: 1)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (number start 1)
+            closeSpan
+          closeListElement
+        closeOrderedListLevel
+        openOrderedListLevel(fo:font-size: 100.0000%, style:num-format: 1, style:num-suffix: ), text:min-label-width: 0.2500in, text:start-value: 1)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (number continue)
+            closeSpan
+          closeListElement
+        closeOrderedListLevel
+        openOrderedListLevel(fo:font-size: 100.0000%, style:num-format: 1, style:num-suffix: ], text:min-label-width: 0.2500in, text:start-value: 3)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (number sep )
+              insertSpace
+              insertText (bracket)
+            closeSpan
+          closeListElement
+        closeOrderedListLevel
+        openOrderedListLevel(fo:font-size: 100.0000%, style:num-format: a, style:num-suffix: :, text:min-label-width: 0.2500in, text:start-value: 4)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (letters)
+            closeSpan
+          closeListElement
+        closeOrderedListLevel
+        openOrderedListLevel(fo:font-size: 100.0000%, style:num-format: A, style:num-prefix: [, style:num-suffix: ], text:min-label-width: 0.2500in, text:start-value: 5)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (letters big)
+            closeSpan
+          closeListElement
+        closeOrderedListLevel
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: •, text:min-label-width: 0.2500in)
+          openListElement(fo:text-align: center)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (bullet small)
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: ♦, text:min-label-width: 0.2500in)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (square)
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: ⇒, text:min-label-width: 0.2500in)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (arrow)
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: ◊, text:min-label-width: 0.2500in)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (empty square)
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: ∗, text:min-label-width: 0.2500in)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (star)
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: •, text:min-label-width: 0.3500in)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (big bullet)
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: •, text:min-label-width: 0.2500in)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (big bullet size 14)
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: ♥, text:min-label-width: 0.2500in)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (heart(new bullet))
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: ω, text:min-label-width: 0.2500in)
+          openListElement(fo:text-align: left)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (w bullet times)
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+      endTextObject
+    endLayer
+  endPage
+endDocument

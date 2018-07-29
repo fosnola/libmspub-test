@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:meta>
+    <dc:date>2018-07-17T00:52:32Z</dc:date>
+    <meta:creation-date>2018-07-17T00:52:32Z</meta:creation-date>
+    <meta:generator>libodfgen/0.1.7</meta:generator>
+  </office:meta>
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21590</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">27940</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Times New Roman" svg:font-family="Times New Roman"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb" fo:page-height="11.0000in" fo:page-width="8.5000in">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span1">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in" fo:letter-spacing="-1.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span2">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in" fo:letter-spacing="-0.5000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span3">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in" fo:letter-spacing="1.5000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span4">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in" fo:letter-spacing="3.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span5">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.2778in" style:font-size-complex="0.2778in" fo:color="#409040" fo:font-size="0.2778in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span6">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.3472in" style:font-size-complex="0.3472in" fo:color="#999949" fo:font-size="0.3472in"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="left"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S1" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="center"/>
+    </style:style>
+    <text:list-style style:name="OL0">
+      <text:list-level-style-number style:num-format="1" style:num-suffix="." text:level="1" text:start-value="1" text:style-name="Numbering_Symbols">
+        <style:list-level-properties text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="OL1">
+      <text:list-level-style-number style:num-format="1" style:num-suffix=")" text:level="1" text:start-value="1" text:style-name="Numbering_Symbols">
+        <style:list-level-properties text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="OL2">
+      <text:list-level-style-number style:num-format="1" style:num-suffix="]" text:level="1" text:start-value="3" text:style-name="Numbering_Symbols">
+        <style:list-level-properties text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="OL3">
+      <text:list-level-style-number style:num-format="a" style:num-suffix=":" text:level="1" text:start-value="4" text:style-name="Numbering_Symbols">
+        <style:list-level-properties text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="OL4">
+      <text:list-level-style-number style:num-format="A" style:num-prefix="[" style:num-suffix="]" text:level="1" text:start-value="5" text:style-name="Numbering_Symbols">
+        <style:list-level-properties text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="UL5">
+      <text:list-level-style-bullet text:bullet-char="&#x2022;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="UL6">
+      <text:list-level-style-bullet text:bullet-char="&#x2666;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="UL7">
+      <text:list-level-style-bullet text:bullet-char="&#x21D2;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="UL8">
+      <text:list-level-style-bullet text:bullet-char="&#x25CA;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="UL9">
+      <text:list-level-style-bullet text:bullet-char="&#x2217;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="UL10">
+      <text:list-level-style-bullet text:bullet-char="&#x2022;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.3500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="UL11">
+      <text:list-level-style-bullet text:bullet-char="&#x2022;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="UL12">
+      <text:list-level-style-bullet text:bullet-char="&#x2665;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="UL13">
+      <text:list-level-style-bullet text:bullet-char="&#x3C9;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100.0000%" draw:shadow="hidden" draw:stroke="none" svg:fill-rule="nonzero"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" fo:min-width="1.0000in" fo:padding-bottom="0.0000in" fo:padding-left="0.0000in" fo:padding-right="0.0000in" fo:padding-top="0.0000in"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:g>
+          <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 0L13969 0L13969 17526L0 17526L0 0 Z" svg:height="6.9000in" svg:viewBox="0 0 13969 17526" svg:width="5.5000in" svg:x="1.5000in" svg:y="1.1000in"/>
+          <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="6.9000in" svg:width="5.5000in" svg:x="1.5000in" svg:y="1.1000in" fo:padding-bottom="0.0000in" fo:padding-left="0.0000in" fo:padding-right="0.0000in" fo:padding-top="0.0000in">
+            <draw:text-box>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span0">normal</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span1">very tight</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span2">tight</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span3">loose</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span4">very loose</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span5">f</text:span>
+                <text:span text:style-name="Span0">ancy1</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span6">f</text:span>
+                <text:span text:style-name="Span0">ancy 2</text:span>
+              </text:p>
+              <text:p text:style-name="S0"/>
+              <text:p text:style-name="S0"/>
+              <text:list text:style-name="OL0">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">number start 1</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="OL1">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">number continue</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="OL2">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">number sep <text:s/>bracket</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="OL3">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">letters</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="OL4">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">letters big</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="UL5">
+                <text:list-item>
+                  <text:p text:style-name="S1">
+                    <text:span text:style-name="Span0">bullet small</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="UL6">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">square</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="UL7">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">arrow</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="UL8">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">empty square</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="UL9">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">star</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="UL10">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">big bullet</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="UL11">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">big bullet size 14</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="UL12">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">heart(new bullet)</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="UL13">
+                <text:list-item>
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span0">w bullet times</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+            </draw:text-box>
+          </draw:frame>
+        </draw:g>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>

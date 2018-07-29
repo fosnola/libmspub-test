@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:meta>
+    <dc:date>2018-07-07T22:01:28Z</dc:date>
+    <meta:creation-date>2018-07-07T22:01:28Z</meta:creation-date>
+    <meta:generator>libodfgen/0.1.7</meta:generator>
+  </office:meta>
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21590</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">27940</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Times" svg:font-family="Times"/>
+    <style:font-face style:name="Times New Roman" svg:font-family="Times New Roman"/>
+    <style:font-face style:name="Verdana" svg:font-family="Verdana"/>
+    <style:font-face style:name="Vivaldi" svg:font-family="Vivaldi"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb" fo:page-height="11.0000in" fo:page-width="8.5000in">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_M0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" style:mirror="none"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_M1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-width="0.0139in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1944in" style:font-size-complex="0.1944in" fo:color="#000000" fo:font-size="0.1944in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span1">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.2222in" style:font-size-complex="0.2222in" fo:color="#000000" fo:font-size="0.2222in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span10">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-position="-50% 67%" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span11">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in" fo:text-transform="uppercase"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span12">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in" fo:font-variant="small-caps"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span13">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-underline-mode="continuous" style:text-underline-style="solid" style:text-underline-type="double" style:text-underline-width="auto" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span14">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#ff0000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span15">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#00ff00" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span16">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1528in" style:font-size-complex="0.1528in" fo:color="#00ff00" fo:font-size="0.1528in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span17">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1528in" style:font-size-complex="0.1528in" fo:color="#000000" fo:font-size="0.1528in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span18">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1528in" style:font-size-complex="0.1528in" fo:color="#000000" fo:font-size="0.1528in" fo:letter-spacing="-1.5000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span19">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1528in" style:font-size-complex="0.1528in" fo:color="#000000" fo:font-size="0.1528in" fo:letter-spacing="3.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span2">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="1.0000in" style:font-size-complex="1.0000in" fo:color="#000000" fo:font-size="1.0000in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span20">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span21">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="0.1389in" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span3">
+      <style:text-properties style:font-name="Verdana" style:font-name-asian="Verdana" style:font-name-complex="Verdana" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span4">
+      <style:text-properties style:font-name="Vivaldi" style:font-name-asian="Vivaldi" style:font-name-complex="Vivaldi" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span5">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="0.1389in" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span6">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-style-asian="italic" style:font-style-complex="italic" fo:color="#000000" fo:font-size="0.1389in" fo:font-style="italic"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span7">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-underline-mode="continuous" style:text-underline-style="solid" style:text-underline-type="single" style:text-underline-width="auto" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span8">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="0.1389in" fo:font-style="italic" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span9">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="0.1389in" style:font-size-complex="0.1389in" style:text-position="50% 67%" fo:color="#000000" fo:font-size="0.1389in"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="left"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S1" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="center"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S10" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:margin-bottom="0.0333in" fo:margin-top="0.0500in" fo:text-align="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S11" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:margin-bottom="0.0139in" fo:margin-top="0.0139in" fo:text-align="justify">
+        <style:tab-stops>
+          <style:tab-stop style:position="0.3000in"/>
+          <style:tab-stop style:leader-style="solid" style:leader-text="-" style:position="0.6000in" style:type="right"/>
+          <style:tab-stop style:char="." style:leader-style="solid" style:leader-text="-" style:position="0.9000in" style:type="char"/>
+        </style:tab-stops>
+      </style:paragraph-properties>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S12" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:margin-bottom="0.0139in" fo:margin-top="0.0139in" fo:text-align="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S2" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="right"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S3" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S4" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:margin-left="0.1875in" fo:text-align="justify" fo:text-indent="-0.0625in"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S5" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:margin-right="0.0938in" fo:text-align="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S6" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:line-height="120.0000%" fo:text-align="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S7" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:line-height="200.0000%" fo:text-align="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S8" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:line-height="12.0000pt" fo:text-align="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S9" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:margin-bottom="0.0417in" fo:margin-top="0.0278in" fo:text-align="justify"/>
+    </style:style>
+    <text:list-style style:name="UL0">
+      <text:list-level-style-bullet text:bullet-char="&#x25CA;" text:level="1" text:style-name="Bullet_Symbols">
+        <style:list-level-properties style:font-name="OpenSymbol" text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="OL1">
+      <text:list-level-style-number style:num-format="A" text:level="1" text:start-value="1" text:style-name="Numbering_Symbols">
+        <style:list-level-properties text:min-label-width="0.2500in"/>
+        <style:text-properties fo:font-size="100.0000%"/>
+      </text:list-level-style-number>
+    </text:list-style>
+    <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-width="0.0139in"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100.0000%" draw:shadow="hidden" draw:stroke="none" svg:fill-rule="nonzero"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_4" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" fo:min-width="1.0000in" fo:padding-bottom="0.0000in" fo:padding-left="0.0000in" fo:padding-right="0.0000in" fo:padding-top="0.0000in"/>
+    </style:style>
+    <style:style style:family="table" style:name="Table0">
+      <style:table-properties/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column1">
+      <style:table-column-properties style:column-width="0.8086in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column2">
+      <style:table-column-properties style:column-width="0.8086in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column3">
+      <style:table-column-properties style:column-width="0.8086in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table0.Column4">
+      <style:table-column-properties style:column-width="0.8086in"/>
+    </style:style>
+    <style:style style:family="table-row" style:name="Table0_row0">
+      <style:table-row-properties style:row-height="0.4004in" fo:keep-together="auto"/>
+    </style:style>
+    <style:style style:family="table-cell" style:name="Table0_cell0">
+      <style:table-cell-properties fo:background-color="#ffffff" fo:border-bottom="0.25pt solid #000000" fo:border-left="0.25pt solid #000000" fo:border-right="0.25pt solid #000000" fo:border-top="0.25pt solid #000000" fo:padding="0.0382in"/>
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" fo:padding="0.0382in"/>
+      <style:paragraph-properties fo:border-bottom="0.25pt solid #000000" fo:border-left="0.25pt solid #000000" fo:border-right="0.25pt solid #000000" fo:border-top="0.25pt solid #000000"/>
+    </style:style>
+    <style:style style:family="table-cell" style:name="Table0_cell1">
+      <style:table-cell-properties fo:background-color="#ffffff" fo:border-bottom="0.25pt solid #000000" fo:border-left="2pt solid #000000" fo:border-right="2pt solid #000000" fo:border-top="0.25pt solid #000000" fo:padding="0.0382in"/>
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" fo:padding="0.0382in"/>
+      <style:paragraph-properties fo:border-bottom="0.25pt solid #000000" fo:border-left="2pt solid #000000" fo:border-right="2pt solid #000000" fo:border-top="0.25pt solid #000000"/>
+    </style:style>
+    <style:style style:family="table-cell" style:name="Table0_cell2">
+      <style:table-cell-properties fo:background-color="#ffffff" fo:border-left="0.25pt solid #000000" fo:border-right="0.25pt solid #000000" fo:padding="0.0382in"/>
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" fo:padding="0.0382in"/>
+      <style:paragraph-properties fo:border-left="0.25pt solid #000000" fo:border-right="0.25pt solid #000000"/>
+    </style:style>
+    <style:style style:family="table-cell" style:name="Table0_cell3">
+      <style:table-cell-properties fo:background-color="#ffffff" fo:border-left="2pt solid #000000" fo:border-right="2pt solid #000000" fo:padding="0.0382in"/>
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" fo:padding="0.0382in"/>
+      <style:paragraph-properties fo:border-left="2pt solid #000000" fo:border-right="2pt solid #000000"/>
+    </style:style>
+    <style:style style:family="table-cell" style:name="Table0_cell4">
+      <style:table-cell-properties fo:background-color="#ffffff" fo:border-bottom="0.25pt solid #000000" fo:border-left="0.25pt solid #000000" fo:border-right="0.25pt solid #000000" fo:padding="0.0382in"/>
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" fo:padding="0.0382in"/>
+      <style:paragraph-properties fo:border-bottom="0.25pt solid #000000" fo:border-left="0.25pt solid #000000" fo:border-right="0.25pt solid #000000"/>
+    </style:style>
+    <style:style style:family="table-cell" style:name="Table0_cell5">
+      <style:table-cell-properties fo:background-color="#ffffff" fo:border-bottom="0.25pt solid #000000" fo:border-left="2pt solid #000000" fo:border-right="2pt solid #000000" fo:padding="0.0382in"/>
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" fo:padding="0.0382in"/>
+      <style:paragraph-properties fo:border-bottom="0.25pt solid #000000" fo:border-left="2pt solid #000000" fo:border-right="2pt solid #000000"/>
+    </style:style>
+    <style:style style:family="table" style:name="Table1">
+      <style:table-properties/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table1.Column1">
+      <style:table-column-properties style:column-width="1.1562in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table1.Column2">
+      <style:table-column-properties style:column-width="1.1562in"/>
+    </style:style>
+    <style:style style:family="table-row" style:name="Table1_row0">
+      <style:table-row-properties style:row-height="0.5729in" fo:keep-together="auto"/>
+    </style:style>
+    <style:style style:family="table-cell" style:name="Table1_cell0">
+      <style:table-cell-properties fo:background-color="#ffffff" fo:padding="0.0382in"/>
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" fo:padding="0.0382in"/>
+    </style:style>
+    <style:style style:family="table" style:name="Table2">
+      <style:table-properties/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table2.Column1">
+      <style:table-column-properties style:column-width="0.4375in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table2.Column2">
+      <style:table-column-properties style:column-width="0.4375in"/>
+    </style:style>
+    <style:style style:family="table-column" style:name="Table2.Column3">
+      <style:table-column-properties style:column-width="0.4375in"/>
+    </style:style>
+    <style:style style:family="table-row" style:name="Table2_row0">
+      <style:table-row-properties style:row-height="0.2458in" fo:keep-together="auto"/>
+    </style:style>
+    <style:style style:family="table-cell" style:name="Table2_cell0">
+      <style:table-cell-properties fo:background-color="#ffffff" fo:padding="0.0382in"/>
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" fo:padding="0.0382in"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:display-name="PM401" style:name="PM0" style:page-layout-name="PL0">
+      <draw:frame draw:layer="layout" draw:style-name="gr_M0" svg:height="0.8748in" svg:width="1.5311in" svg:x="2.4376in" svg:y="1.1720in">
+        <draw:image>
+          <office:binary-data>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</office:binary-data>
+        </draw:image>
+        <draw:image>
+          <office:binary-data>AQAJAAADigQAAAQAlgAAAAAABQAAAAsCePUGAAUAAAAMArgRBB8EAAAABAENAAQAAAAGAQIABwAAAPwCAAAAAAAAAAAEAAAALQEAAAkAAAD6AgUAAAAAAP///wAiAAQAAAAtAQEAHAAAACQDDABXAQAAVwGQ/gcAmvyTAJr8PwGg/ZcBNP72AZr9nwKa/CUDmvzKAZD+ygEAAFcBAAAHAAAA/AIAAP///wAAAAQAAAAtAQIACQAAAPoCAAAAAAAAAAAAACIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEAlgAAADgFAgAmACIA5wLF/u0Cc/7/Aiz+HgPx/UgDwv1zA6P9owON/dYDgP0PBHv9TQSB/YUEkf23BKv94wTR/QcF//0hBTb+MAV1/jYFvP4zBfb+LAUp/yEFVf8RBXz//QSc/+QEuv/IBNP/pwTo/4ME+f9eBAQANwQLAA8EDgDPAwgAlwP5/2QD3/85A7r/FQOL//sCUv/sAhD/5wLF/ucCxf5VA8X+WAP+/mIDL/9yA1j/igN7/6UDlf/FA6j/6AOz/w8Et/81BLP/VwSo/3cElf+TBHr/qgRY/7oELv/EBPv+yATC/sQEiv66BFv+qgQy/pMEEP52BPb9VwTj/TQE2P0PBNT96APY/cUD4/2lA/b9igMQ/nIDMv5iA1v+WAOM/lUDxf5VA8X+BAAAAC0BAgAEAAAALQEDAAQAAAAtAQAABAAAAC0BAQBGAAAAJAMhAFAHAABQB6T/KAfS//kG9P/DBgcAiAYOAFIGCAAgBvn/9QXh/9gFxP/EBZ//twV0/7IFTP+wBRH/sAWK/RsGiv0bBuj+HQYu/yIGWP8xBn7/TAab/3EGrP+dBrP/zAas//cGmv8bB33/MwdX/0AHI/9FB9z+RQeK/bAHiv2wBwAAUAcAAAQAAAAtAQIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEALgAAACQDFQBVCAAAVQiK/bYIiv22COn92Qiy/foIkf0aCYH9Pgl7/XUJhP2sCZ79hwkB/mAJ8P05Cer9GAnv/foI//3iCBj+0gg6/sUIdf7ACLb+wAgAAFUIAAAEAAAALQECAAQAAAAtAQMABAAAAC0BAAAEAAAALQEBABYAAAAkAwkAJwwAACcMAf0ICwH9CAua/LoNmvy6DQH9mgwB/ZoMAAAnDAAABAAAAC0BAgAEAAAALQEDAAQAAAAtAQAABAAAAC0BAQCMAAAAOAUCADEAEgBLDzX/ug9D/6oPcP+UD5n/eQ+8/1kP2f8zD/D/CQ8AANkOCgCkDg4AYw4IACgO+f/1Dd//yQ26/6UNi/+MDVP/fQ0T/3gNyv59DX/+jQ09/qYNBP7KDdP99g2t/SgOkf1gDoH9nw57/dsOgf0RD5H9Qg+s/W0P0v2QDwH+qQ85/rgPev69D8T+vQ/g/uYN4P7sDRH/+A08/woOYf8hDoD/PQ6Y/10Oqf9/DrP/pQ63/9sOr/8JD5j/Lw9w/0sPNf9LDzX/7A2J/k0Pif5HD2P+Pw9D/iQPEf4JD/b96Q7j/cYO1/2gDtP9fA7W/VwO4P0+Du/9JA4F/g0OH/79DT7+8g1h/uwNif7sDYn+BAAAAC0BAgAEAAAALQEDAAQAAAAtAQAABAAAAC0BAQAkAAAAJAMQAPgPAADfELn+ChCK/Y8Qiv3wEB7+HBFk/kwRH/62EYr9NhKK/VwRs/5HEgAAwxEAAEIRPf8gEQj/ehAAAPgPAAAEAAAALQECAAQAAAAtAQMABAAAAC0BAAAEAAAALQEBADwAAAAkAxwAiROh/5gT//9uEwUASBMIABQTAwDtEvb/0hLh/8ASxv+3Epf/sxJI/7MS3f1lEt39ZRKK/bMSiv2zEu78HhOt/B4Tiv2JE4r9iRPd/R4T3f0eE07/HxNz/yMTif82E53/RROj/1oTpf+JE6H/iROh/wQAAAAtAQIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEAHgAAACQDDQBTFQAAUxWa/MYVmvzGFf/9ixf//YsXmvz+F5r8/hcAAIsXAACLF2b+xhVm/sYVAABTFQAABAAAAC0BAgAEAAAALQEDAAQAAAAtAQAABAAAAC0BAQCMAAAAOAUCADEAEgBfGjX/zhpD/74acP+oGpn/jRq8/20a2f9HGvD/HRoAAO0ZCgC4GQ4AdxkIADwZ+f8JGd//3Ri6/7kYi/+gGFP/kRgT/4wYyv6RGH/+oRg9/roYBP7eGNP9Chmt/TwZkf10GYH9sxl7/e8Zgf0lGpH9Vhqs/YEa0v2kGgH+vRo5/swaev7RGsT+0Rrg/voY4P4AGRH/DBk8/x4ZYf81GYD/URmY/3EZqf+TGbP/uRm3/+8Zr/8dGpj/Qxpw/18aNf9fGjX/ABmJ/mEaif5bGmP+UxpD/jgaEf4dGvb9/Rnj/doZ1/20GdP9kBnW/XAZ4P1SGe/9OBkF/iEZH/4RGT7+Bhlh/gAZif4AGYn+BAAAAC0BAgAEAAAALQEDAAQAAAAtAQAABAAAAC0BAQAuAAAAJAMVAFIbAABSG4r9sxuK/bMb6f3WG7L99xuR/Rccgf07HHv9chyE/akcnv2EHAH+XRzw/TYc6v0VHO/99xv//d8bGP7PGzr+wht1/r0btv69GwAAUhsAAAQAAAAtAQIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEAjAAAADgFAgAxABIAlx41/wYfQ//2HnD/4B6Z/8UevP+lHtn/fx7w/1UeAAAlHgoA8B0OAK8dCAB0Hfn/QR3f/xUduv/xHIv/2BxT/8kcE//EHMr+yRx//tkcPf7yHAT+Fh3T/UIdrf10HZH9rB2B/esde/0nHoH9XR6R/Y4erP25HtL93B4B/vUeOf4EH3r+CR/E/gkf4P4yHeD+OB0R/0QdPP9WHWH/bR2A/4kdmP+pHan/yx2z//Edt/8nHq//VR6Y/3secP+XHjX/lx41/zgdif6ZHon+kx5j/oseQ/5wHhH+VR72/TUe4/0SHtf97B3T/cgd1v2oHeD9ih3v/XAdBf5ZHR/+SR0+/j4dYf44HYn+OB2J/gQAAAAtAQIABAAAAC0BAwADAAAAAAA=</office:binary-data>
+        </draw:image>
+      </draw:frame>
+      <draw:line draw:layer="layout" draw:style-name="gr_M1" svg:x1="3.8133in" svg:x2="5.2352in" svg:y1="1.6944in" svg:y2="1.5225in"/>
+    </style:master-page>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 0L3810 0L3810 2301L0 2301L0 0 Z" svg:height="0.9062in" svg:viewBox="0 0 3810 2301" svg:width="1.5000in" svg:x="1.5000in" svg:y="1.2500in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M873 0L1746 1825L0 1825L873 0" svg:height="0.7188in" svg:viewBox="0 0 1746 1825" svg:width="0.6875in" svg:x="3.6875in" svg:y="1.4062in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M992 0L1984 1150L992 2301L0 1150L992 0 Z" svg:height="0.9062in" svg:viewBox="0 0 1984 2301" svg:width="0.7812in" svg:x="5.0625in" svg:y="1.3750in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M2024 0L0 1001L792 2619L3255 2619L4048 1001L2024 0 Z" svg:height="1.0312in" svg:viewBox="0 0 4048 2619" svg:width="1.5938in" svg:x="1.5312in" svg:y="2.5938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M514 0L1708 0L2222 293L2222 976L1708 1270L514 1270L0 976L0 293L514 0" svg:height="0.5000in" svg:viewBox="0 0 2222 1270" svg:width="0.8750in" svg:x="3.7812in" svg:y="2.7188in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 0L1746 1508L0 1508L0 0 Z" svg:height="0.5938in" svg:viewBox="0 0 1746 1508" svg:width="0.6875in" svg:x="5.0625in" svg:y="2.6875in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M436 0L1746 0L1309 1666L0 1666L436 0" svg:height="0.6562in" svg:viewBox="0 0 1746 1666" svg:width="0.6875in" svg:x="1.6562in" svg:y="3.8750in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 0L2460 0L1845 1508L615 1508L0 0" svg:height="0.5938in" svg:viewBox="0 0 2460 1508" svg:width="0.9688in" svg:x="2.7500in" svg:y="3.9062in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 1508L1428 1508L1428 502L714 0L0 502L0 1508 Z" svg:height="0.5938in" svg:viewBox="0 0 1428 1508" svg:width="0.5625in" svg:x="4.0312in" svg:y="3.8125in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 1508L1666 1508L1666 754L833 754L833 0L0 0L0 1508 Z" svg:height="0.5938in" svg:viewBox="0 0 1666 1508" svg:width="0.6562in" svg:x="4.9375in" svg:y="3.7500in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M515 0L1547 0L1547 555L2063 555L2063 1666L1547 1666L1547 2222L515 2222L515 1666L0 1666L0 555L515 555L515 0 Z" svg:height="0.8750in" svg:viewBox="0 0 2063 2222" svg:width="0.8125in" svg:x="6.0312in" svg:y="3.5938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 1111L1428 555L714 0L0 1111 Z" svg:height="0.4375in" svg:viewBox="0 0 1428 1111" svg:width="0.5625in" svg:x="1.2812in" svg:y="5.1875in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 1428L0 714L595 0L1190 0L0 1428 Z" svg:height="0.5625in" svg:viewBox="0 0 1190 1428" svg:width="0.4688in" svg:x="2.5000in" svg:y="5.1250in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 1031L992 687L1984 1031L1984 343L992 0L0 343L0 1031 Z" svg:height="0.4062in" svg:viewBox="0 0 1984 1031" svg:width="0.7812in" svg:x="3.3750in" svg:y="5.0938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 1270L582 846L582 423L1164 423L1746 0L0 0L0 1270 Z" svg:height="0.5000in" svg:viewBox="0 0 1746 1270" svg:width="0.6875in" svg:x="4.5312in" svg:y="5.1562in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="L0 0L0 1111L502 1111L502 823L502 1111L1005 1111L1005 823L1005 1111L1508 1111L1508 0" svg:height="0.4375in" svg:viewBox="0 0 1508 1111" svg:width="0.5938in" svg:x="5.5938in" svg:y="5.0938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 1428L0 357L396 0L1587 0L1587 1071L1190 1428L0 1428M0 357L396 0L1587 0L1190 357L0 357M1190 1428L1190 357L1587 0L1587 1071L1190 1428" svg:height="0.5625in" svg:viewBox="0 0 1587 1428" svg:width="0.6250in" svg:x="6.6562in" svg:y="5.1250in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M357 2063L357 515L0 515L714 0L1428 515L1071 515L1071 2063L357 2063" svg:height="0.8125in" svg:viewBox="0 0 1428 2063" svg:width="0.5625in" svg:x="1.5938in" svg:y="6.3125in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 347L674 0L1349 347L1012 347L1012 1398L1349 1398L674 1746L0 1398L337 1398L337 347L0 347" svg:height="0.6875in" svg:viewBox="0 0 1349 1746" svg:width="0.5312in" svg:x="2.5938in" svg:y="6.4375in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 2063L0 1161C0 719 410 277 821 277L998 277L998 0L1428 580L998 1161L998 884L821 884C621 884 420 1023 420 1161L420 2063L0 2063" svg:height="0.8125in" svg:viewBox="0 0 1428 2063" svg:width="0.5625in" svg:x="3.7812in" svg:y="6.2188in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 1349L0 534C0 221 465 0 987 0C1480 0 1978 201 1982 518L2301 518L1670 890L1033 518L1332 518C1312 398 1158 365 993 365C828 365 643 400 651 532L651 1349L0 1349" svg:height="0.5312in" svg:viewBox="0 0 2301 1349" svg:width="0.9062in" svg:x="4.5312in" svg:y="6.7188in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 0L0 1311L249 1311L749 1666L499 1311L1349 1311L1349 0L0 0 Z" svg:height="0.6562in" svg:viewBox="0 0 1349 1666" svg:width="0.5312in" svg:x="5.7812in" svg:y="6.3438in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M310 0A385 499 0 0 0 310 980L308 989L926 1260L617 989L1358 989L1351 967A447 499 0 0 0 1351 12L310 0" svg:height="0.4962in" svg:viewBox="0 0 1666 1260" svg:width="0.6563in" svg:x="6.6875in" svg:y="6.5351in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M634 0L486 424L0 424L395 689L246 1111L634 852L1023 1111L874 689L1270 424L783 424L634 0 Z" svg:height="0.4375in" svg:viewBox="0 0 1270 1111" svg:width="0.5000in" svg:x="1.6250in" svg:y="7.7188in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 793L175 910L52 1091L253 1125L209 1355L407 1299L435 1524L600 1390L714 1587L819 1392L981 1529L1013 1305L1219 1355L1169 1134L1371 1103L1251 920L1428 793L1253 677L1376 496L1174 461L1219 232L1021 288L993 63L828 197L714 0L609 194L446 57L415 282L209 232L259 452L56 483L177 666L0 793 Z" svg:height="0.6250in" svg:viewBox="0 0 1428 1587" svg:width="0.5625in" svg:x="2.6875in" svg:y="7.7500in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 555L244 607L35 699L296 715L138 833L398 812L302 948L543 892L515 1036L722 948L764 1092L921 978L1031 1111L1128 979L1298 1092L1328 951L1547 1036L1509 896L1761 948L1656 818L1925 833L1761 722L2028 699L1817 615L2063 555L1818 503L2028 411L1767 395L1925 277L1665 298L1761 162L1520 219L1547 74L1341 162L1298 18L1142 132L1031 0L935 131L764 18L734 159L515 74L554 214L302 162L406 292L138 277L301 388L35 411L246 496L0 555 Z" svg:height="0.4375in" svg:viewBox="0 0 2063 1111" svg:width="0.8125in" svg:x="3.6250in" svg:y="7.8125in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M912 490L705 193L617 534L31 193L390 643L0 727L314 995L11 1232L478 1177L402 1488L651 1320L717 1816L890 1262L1119 1667L1184 1221L1533 1528L1422 1093L1816 1123L1487 885L1782 687L1411 617L1553 376L1196 449L1226 0L912 490 Z" svg:height="0.7152in" svg:viewBox="0 0 1816 1816" svg:width="0.7152in" svg:x="4.7848in" svg:y="7.8160in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M652 0L0 288L583 618L385 714L941 1021L770 1097L1666 1587L1139 948L1277 883L851 502L990 449L652 0 Z" svg:height="0.6250in" svg:viewBox="0 0 1666 1587" svg:width="0.6562in" svg:x="5.9375in" svg:y="7.6562in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M634 1825L18 581L4 509C0 487 0 462 0 438C0 415 2 392 5 369C9 346 14 324 20 302C26 280 34 259 43 239C52 219 62 199 73 181C84 163 96 146 110 130C123 113 137 98 152 85C166 71 182 59 198 49C214 38 231 29 249 22C266 14 284 8 302 5C320 1 339 0 357 0C376 0 395 2 414 7C433 11 452 18 471 28C490 37 509 49 527 63C546 78 565 95 582 114C601 135 617 160 635 183L687 114C703 94 723 78 742 63C760 49 795 37 798 28C817 18 836 11 855 7C874 2 893 0 912 0C930 0 949 1 967 5C985 8 1003 14 1020 22C1038 29 1055 38 1071 49C1087 59 1103 71 1117 85C1132 98 1146 113 1159 130C1172 146 1185 163 1196 181C1207 199 1217 219 1226 239C1235 259 1243 280 1249 302C1255 323 1260 346 1264 369C1267 391 1269 415 1269 438C1270 462 1268 486 1265 509C1262 534 1256 557 1251 581L635 1825L634 1825" svg:height="0.7187in" svg:viewBox="0 0 1269 1825" svg:width="0.5000in" svg:x="1.6875in" svg:y="8.6251in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 115C661 -285 1322 516 1984 115L1984 1635C1322 2036 661 1234 0 1635L0 115" svg:height="0.6895in" svg:viewBox="0 0 1984 1751" svg:width="0.7812in" svg:x="2.6562in" svg:y="8.7177in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M833 0A833 833 0 1 0 1666 833L833 833L833 0" svg:height="0.6562in" svg:viewBox="0 0 1666 1666" svg:width="0.6562in" svg:x="3.9062in" svg:y="8.6875in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M185 0A635 674 0 0 0 1084 954L185 0" svg:height="0.4535in" svg:viewBox="0 0 1084 1151" svg:width="0.4268in" svg:x="5.0313in" svg:y="8.7965in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M128 1531A873 1005 0 1 1 1617 1531L1309 1228L1371 1260A533 712 0 1 0 383 1287L128 1531" svg:height="0.6029in" svg:viewBox="0 0 1746 1531" svg:width="0.6875in" svg:x="5.9062in" svg:y="8.7500in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 873A1111 291 0 1 1 2222 873L2222 291L2222 291A1111 291 0 1 0 0 291L0 873" svg:height="0.3438in" svg:viewBox="0 0 2222 873" svg:width="0.8750in" svg:x="4.6250in" svg:y="9.6562in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M1516 303L1286 131L1130 445L595 253L710 545L155 577L520 809L0 898L440 1073L169 1244L635 1273L650 1508L995 1265L1150 1376L1305 1212L1536 1315L1611 1112L1976 1212L1936 1001L2497 1091L2167 859L2416 788L2247 656L2857 464L2167 456L2381 221L1921 403L1956 0L1516 303 Z" svg:height="0.5938in" svg:viewBox="0 0 2857 1508" svg:width="1.1250in" svg:x="6.8750in" svg:y="7.8125in"/>
+      </draw:page>
+      <draw:page draw:master-page-name="PM0" draw:name="page2" draw:style-name="DP1">
+        <draw:g>
+          <draw:path draw:layer="layout" draw:style-name="gr_3" svg:d="M0 0L5556 0L5556 10239L0 10239L0 0 Z" svg:height="4.0312in" svg:viewBox="0 0 5556 10239" svg:width="2.1875in" svg:x="1.3125in" svg:y="1.2500in"/>
+          <draw:frame draw:layer="layout" draw:style-name="gr_4" svg:height="4.0312in" svg:width="2.1875in" svg:x="1.3125in" svg:y="1.2500in" fo:padding-bottom="0.0000in" fo:padding-left="0.0000in" fo:padding-right="0.0000in" fo:padding-top="0.0000in">
+            <draw:text-box>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span0">texte 1</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span0">line 2 14 pt </text:span>
+                <text:span text:style-name="Span1">16pt</text:span>
+                <text:span text:style-name="Span2">72p</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span3">verdena</text:span>
+                <text:span text:style-name="Span4">vivaldi </text:span>
+                <text:span text:style-name="Span5">bold</text:span>
+                <text:span text:style-name="Span6">italic</text:span>
+                <text:span text:style-name="Span7">underline</text:span>
+                <text:span text:style-name="Span8">bolditalic</text:span>
+                <text:span text:style-name="Span9">sup</text:span>
+                <text:span text:style-name="Span10">cub</text:span>
+                <text:span text:style-name="Span11">allcaps</text:span>
+                <text:span text:style-name="Span12">smallcaps</text:span>
+                <text:span text:style-name="Span7">underlineall</text:span>
+                <text:span text:style-name="Span7">undword</text:span>
+                <text:span text:style-name="Span13">underlinedouble</text:span>
+                <text:span text:style-name="Span14">red</text:span>
+                <text:span text:style-name="Span15">green</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span15">green style </text:span>
+                <text:span text:style-name="Span16">11pt</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span17">times11 style</text:span>
+              </text:p>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span18">verytight</text:span>
+                <text:span text:style-name="Span19">l</text:span>
+                <text:span text:style-name="Span19">oose</text:span>
+              </text:p>
+              <text:p text:style-name="S0"/>
+            </draw:text-box>
+          </draw:frame>
+        </draw:g>
+        <draw:g>
+          <draw:path draw:layer="layout" draw:style-name="gr_3" svg:d="M0 0L5027 0L5027 9948L0 9948L0 0 Z" svg:height="3.9167in" svg:viewBox="0 0 5027 9948" svg:width="1.9792in" svg:x="3.8750in" svg:y="1.2083in"/>
+          <draw:frame draw:layer="layout" draw:style-name="gr_4" svg:height="3.9167in" svg:width="1.9792in" svg:x="3.8750in" svg:y="1.2083in" fo:padding-bottom="0.0000in" fo:padding-left="0.0000in" fo:padding-right="0.0000in" fo:padding-top="0.0000in">
+            <draw:text-box>
+              <text:p text:style-name="S0">
+                <text:span text:style-name="Span20">texte 2</text:span>
+              </text:p>
+              <text:p text:style-name="S1">
+                <text:span text:style-name="Span20">center</text:span>
+              </text:p>
+              <text:p text:style-name="S2">
+                <text:span text:style-name="Span20">right</text:span>
+              </text:p>
+              <text:p text:style-name="S3">
+                <text:span text:style-name="Span20">justify</text:span>
+              </text:p>
+              <text:p text:style-name="S4">
+                <text:span text:style-name="Span20">first 0.2, left</text:span>
+              </text:p>
+              <text:p text:style-name="S5">
+                <text:span text:style-name="Span20">right</text:span>
+              </text:p>
+              <text:p text:style-name="S6">
+                <text:span text:style-name="Span20">1.2 spacing</text:span>
+              </text:p>
+              <text:p text:style-name="S7">
+                <text:span text:style-name="Span20">2 spacing</text:span>
+              </text:p>
+              <text:p text:style-name="S8">
+                <text:span text:style-name="Span20">12 pt spacing</text:span>
+              </text:p>
+              <text:p text:style-name="S9">
+                <text:span text:style-name="Span20">2 befo 3after</text:span>
+              </text:p>
+              <text:p text:style-name="S10">
+                <text:span text:style-name="Span20">idem sp</text:span>
+              </text:p>
+              <text:p text:style-name="S11">
+                <text:span text:style-name="Span20">
+                  <text:tab/>
+                  <text:tab/>
+                  <text:tab/>
+                </text:span>
+              </text:p>
+              <text:list text:style-name="UL0">
+                <text:list-item>
+                  <text:p text:style-name="S12">
+                    <text:span text:style-name="Span20">bullet</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+              <text:list text:style-name="OL1">
+                <text:list-item>
+                  <text:p text:style-name="S12">
+                    <text:span text:style-name="Span20">bullet 2</text:span>
+                  </text:p>
+                </text:list-item>
+              </text:list>
+            </draw:text-box>
+          </draw:frame>
+        </draw:g>
+      </draw:page>
+      <draw:page draw:master-page-name="PM0" draw:name="page3" draw:style-name="DP1">
+        <draw:g>
+          <draw:path draw:layer="layout" draw:style-name="gr_3" svg:d="M0 0L8215 0L8215 8135L0 8135L0 0 Z" svg:height="3.2031in" svg:viewBox="0 0 8215 8135" svg:width="3.2344in" svg:x="2.1875in" svg:y="1.8125in"/>
+          <draw:frame draw:layer="layout" draw:style-name="standard" svg:height="3.2031in" svg:width="3.2344in" svg:x="2.1875in" svg:y="1.8125in">
+            <table:table table:name="Table0" table:style-name="Table0">
+              <table:table-column table:style-name="Table0.Column1"/>
+              <table:table-column table:style-name="Table0.Column2"/>
+              <table:table-column table:style-name="Table0.Column3"/>
+              <table:table-column table:style-name="Table0.Column4"/>
+              <table:table-row table:style-name="Table0_row0">
+                <table:table-cell table:style-name="Table0_cell0">
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span21">=1</text:span>
+                  </text:p>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell1">
+                  <text:p text:style-name="S1">
+                    <text:span text:style-name="Span21">2</text:span>
+                  </text:p>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell0">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell0">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table0_row0">
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell3">
+                  <text:p text:style-name="S1">
+                    <text:span text:style-name="Span20">3</text:span>
+                  </text:p>
+                </table:table-cell>
+                <table:table-cell table:number-columns-spanned="2" table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:covered-table-cell/>
+              </table:table-row>
+              <table:table-row table:style-name="Table0_row0">
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell3">
+                  <text:p text:style-name="S1">
+                    <text:span text:style-name="Span20">4</text:span>
+                  </text:p>
+                </table:table-cell>
+                <table:table-cell table:number-columns-spanned="2" table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:covered-table-cell/>
+              </table:table-row>
+              <table:table-row table:style-name="Table0_row0">
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell3">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table0_row0">
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell3">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table0_row0">
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S0">
+                    <text:span text:style-name="Span21">8</text:span>
+                  </text:p>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell3">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table0_row0">
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell3">
+                  <text:p text:style-name="S1">
+                    <text:span text:style-name="Span20">9</text:span>
+                  </text:p>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell2">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table0_row0">
+                <table:table-cell table:style-name="Table0_cell4">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell5">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell4">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table0_cell4">
+                  <text:p text:style-name="S1"/>
+                </table:table-cell>
+              </table:table-row>
+            </table:table>
+          </draw:frame>
+        </draw:g>
+        <draw:g>
+          <draw:path draw:layer="layout" draw:style-name="gr_3" svg:d="M0 0L5873 0L5873 4365L0 4365L0 0 Z" svg:height="1.7188in" svg:viewBox="0 0 5873 4365" svg:width="2.3125in" svg:x="1.6250in" svg:y="5.4375in"/>
+          <draw:frame draw:layer="layout" draw:style-name="standard" svg:height="1.7188in" svg:width="2.3125in" svg:x="1.6250in" svg:y="5.4375in">
+            <table:table table:name="Table1" table:style-name="Table1">
+              <table:table-column table:style-name="Table1.Column1"/>
+              <table:table-column table:style-name="Table1.Column2"/>
+              <table:table-row table:style-name="Table1_row0">
+                <table:table-cell table:style-name="Table1_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table1_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table1_row0">
+                <table:table-cell table:style-name="Table1_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table1_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table1_row0">
+                <table:table-cell table:style-name="Table1_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table1_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+            </table:table>
+          </draw:frame>
+        </draw:g>
+        <draw:g>
+          <draw:path draw:layer="layout" draw:style-name="gr_3" svg:d="M0 0L3333 0L3333 4370L0 4370L0 0 Z" svg:height="1.7208in" svg:viewBox="0 0 3333 4370" svg:width="1.3125in" svg:x="4.8125in" svg:y="5.4375in"/>
+          <draw:frame draw:layer="layout" draw:style-name="standard" svg:height="1.7208in" svg:width="1.3125in" svg:x="4.8125in" svg:y="5.4375in">
+            <table:table table:name="Table2" table:style-name="Table2">
+              <table:table-column table:style-name="Table2.Column1"/>
+              <table:table-column table:style-name="Table2.Column2"/>
+              <table:table-column table:style-name="Table2.Column3"/>
+              <table:table-row table:style-name="Table2_row0">
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table2_row0">
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table2_row0">
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table2_row0">
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table2_row0">
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table2_row0">
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+              <table:table-row table:style-name="Table2_row0">
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+                <table:table-cell table:style-name="Table2_cell0">
+                  <text:p text:style-name="S0"/>
+                </table:table-cell>
+              </table:table-row>
+            </table:table>
+          </draw:frame>
+        </draw:g>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>
