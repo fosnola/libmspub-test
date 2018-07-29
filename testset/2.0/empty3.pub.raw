@@ -1,0 +1,11 @@
+startDocument()
+  setDocumentMetaData(dc:date: 2018-06-20T22:44:15Z, meta:creation-date: 2018-06-20T22:44:15Z)
+  startPage(svg:height: 11.0000in, svg:width: 8.5000in)
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 2.2217in, svg:y: 3.9438in), (svg:x: 5.8155in, svg:y: 2.2250in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 2.6250in, svg:y: 4.1875in), (svg:x: 3.9688in, svg:y: 4.1875in), (svg:x: 3.9688in, svg:y: 5.6562in), (svg:x: 2.6250in, svg:y: 5.6562in), (svg:x: 2.6250in, svg:y: 4.1875in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.9688in, svg:y: 7.4844in), (librevenge:path-action: A, librevenge:rotate: 0.0000in, svg:rx: 1.1250in, svg:ry: 0.7344in, svg:x: 2.7188in, svg:y: 7.4844in), (librevenge:path-action: A, librevenge:rotate: 0.0000in, svg:rx: 1.1250in, svg:ry: 0.7344in, svg:x: 4.9688in, svg:y: 7.4844in), (librevenge:path-action: L, svg:x: 4.9688in, svg:y: 7.4844in)))
+  endPage
+endDocument

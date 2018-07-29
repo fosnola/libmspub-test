@@ -1,0 +1,569 @@
+startDocument()
+  setDocumentMetaData(dc:date: 2018-07-07T21:39:55Z, meta:creation-date: 2018-07-07T21:39:55Z)
+  startMasterPage(librevenge:master-page-name: PM401, svg:height: 11.0000in, svg:width: 8.5000in)
+    setStyle(draw:fill: none, draw:stroke: none)
+    drawGraphicObject (librevenge:mime-type: image/pict, librevenge:replacement-objects: ((librevenge:mime-type: image/pict, office:binary-data: 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)), office:binary-data: AQAJAAADRA8AAAQAogIAAAAABQAAAAsCePUGAAUAAAAMArgRBB8EAAAABAENAAQAAAAGAQIABwAAAPwCAAAAAAAAAAAEAAAALQEAAAkAAAD6AgUAAAAAAP///wAiAAQAAAAtAQEAKAAAACQDEgBXAQAAVwGQ/gcAmvyTAJr8PwGg/VYBxf1tAer9ggEP/pcBNP6sARD+wwHr/dsBw/32AZr9nwKa/CUDmvzKAZD+ygEAAFcBAAAHAAAA/AIAAP///wAAAAQAAAAtAQIACQAAAPoCAAAAAAAAAAAAACIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEAogIAADgFAgDMAIIA5wLF/ucCuv7nAq/+5wKl/ugCm/7pApH+6gKG/usCff7tAnP+7gJq/vACYP7yAlf+9QJO/vcCRv75Aj3+/AI1/v8CLP4CAyT+BQMd/gkDFf4NAw7+EQMG/hUD//0ZA/j9HgPx/SID6/0nA+T9LAPe/TED2P03A9L9PAPM/UIDx/1IA8L9UgO5/V0Dsf1oA6r9cwOj/X4DnP2KA5f9lgOR/aMDjf2vA4n9vAOF/ckDgv3WA4D95AN+/fIDfP0ABHv9DwR7/R8EfP0uBH39PQR+/U0Egf1bBIT9aQSH/XcEjP2FBJH9kgSW/ZgEmf2fBJ39pASg/asEpP2xBKf9twSr/b0Er/3CBLT9yAS4/c4Evf3TBMH92ATG/d4Ey/3jBNH96ATW/e0E2/3yBOH99gTn/fsE7f3/BPP9AwX5/QcF//0LBQb+DgUM/hIFE/4VBRr+GAUh/hwFKP4eBS/+IQU2/iMFPf4mBUX+KAVN/ioFVf4sBV3+LQVl/i8Fbf4wBXX+MwWG/jQFl/41Bar+NgW8/jUFy/41Bdr+NAXo/jMF9v4yBQP/MAUQ/y8FHf8sBSn/KgU0/ycFQP8kBUv/IQVV/x0FYP8ZBWn/FQVz/xEFfP8MBYT/BwWN/wIFlf/9BJz/9wSk//EErP/rBLP/5AS6/90EwP/WBMf/zwTN/8gE0//ABNj/uATe/68E4/+nBOj/ngTt/5UE8f+MBPX/gwT5/3oE/P9xBAAAZwQBAF4EBABUBAYASwQIAEEECgA3BAsALQQMACMEDQAZBA0ADwQOAP4DDQDuAwwA3gMKAM8DCADAAwUAsgMCAKQD/v+XA/n/igP0/4MD8f99A+3/dwPq/3AD5v9qA+P/ZAPf/18D2/9ZA9f/UwPS/04Dzv9IA8n/QwPE/z4Dv/85A7r/MwO0/y4Dr/8qA6n/JQOj/yEDnf8dA5f/GAOR/xUDi/8RA4T/DQN9/woDdv8HA3D/AwNo/wEDYf/+Alr/+wJS//kCSv/2AkL/9AI6//ICMv/wAir/7wIh/+0CGf/sAhD/6wIH/+oC/v7pAvX+6ALs/ucC4v7nAtn+5wLP/ucCxf7nAsX+VQPF/lUD1P5VA+L+VwPw/lgD/v5aAwv/XAMX/18DI/9iAy//ZQM6/2kDRf9uA0//cgNY/3cDYv99A2v/gwNz/4oDe/+QA4L/lwOJ/54Dj/+lA5X/rQOa/7UDn/+9A6T/xQOo/84Dq//WA67/3wOx/+gDs//xA7T/+wO2/wQEt/8PBLf/GAS3/yIEtv8rBLT/NQSz/z0Esf9GBK7/TwSr/1cEqP9gBKT/ZwSf/28Emv93BJX/fgSP/4UEiP+MBIH/kwR6/5kEcv+fBGr/pQRh/6oEWP+vBE7/swRE/7cEOf+6BC7/vQQi/8AEFv/CBAn/xAT7/sYE7v7HBOD+yATR/sgEwv7IBLP+xwSl/sYEl/7EBIr+wgR+/sAEcv69BGb+ugRb/rcEUP6zBEX+rwQ7/qoEMv6kBCn+nwQg/pkEGP6TBBD+jAQJ/oUEAv5+BPz9dgT2/W8E8P1nBOv9XwTn/VcE4/1PBN/9RgTc/T0E2v00BNj9KwTW/SIE1f0YBNT9DwTU/QQE1P37A9X98QPW/egD2P3fA9r91gPc/c4D3/3FA+P9vQPn/bUD6/2tA/D9pQP2/Z4D+/2XAwL+kAMJ/ooDEP6DAxj+fQMg/ncDKP5yAzL+bgM7/mkDRf5lA1D+YgNb/l8DZ/5cA3P+WgN//lgDjP5XA5r+VQOo/lUDtv5VA8X+VQPF/gQAAAAtAQIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEARAEAACQDoABQBwAAUAek/0sHqv9GB7H/QQe3/z0Hvf84B8L/MgfI/y0Hzf8oB9L/IgfY/x0H3P8XB+D/EQfl/wsH6f8FB+3//wbw//kG9P/zBvf/7Ab6/+YG/f/fBgAA2AYBANEGAwDLBgUAwwYHALwGCAC1BgoArgYLAKYGDACfBg0AlwYNAIgGDgB6Bg0AbAYMAF8GCgBSBggASwYHAEUGBQA+BgMAOAYCADIGAAAsBv7/Jgb8/yAG+f8UBvT/CQbu//8F6P/1BeH/7QXa/+UF0//eBcv/2AXE/9IFu//NBbL/yAWp/8QFn//ABZX/vAWL/7kFgP+3BXT/tQVs/7QFYv+zBVj/sgVM/7EFP/+xBTD/sAUh/7AFEf+wBYr9GwaK/RsG6P4bBvv+GwYO/xwGH/8dBi7/HgY7/x8GRv8gBlD/IgZY/yMGXf8kBmP/JgZo/ygGbP8qBnH/LAZ1/y8Gev8xBn7/NAaC/zcGhv86Bor/PQaN/0EGkf9EBpT/SAaX/0wGm/9QBp3/VQag/1kGo/9eBqX/Ygan/2cGqf9sBqv/cQas/3YGrv97Bq//gAaw/4YGsf+MBrL/kQay/5cGsv+dBrP/qQay/7UGsf+7BrD/wAav/8YGrv/MBqz/0Qar/9cGqf/cBqf/4gal/+cGov/tBqD/8gad//cGmv/8Bpf/AgeU/wYHkP8LB4z/DweJ/xMHhf8YB4H/Gwd9/x8HeP8iB3T/Jgdw/ykHa/8rB2b/Lgdh/zEHXP8zB1f/NwdM/zsHP/88Bzn/Pgcy/z8HKv9AByP/QQcb/0IHE/9DBwr/QwcB/0QH+f5EB+/+RAfl/kUH3P5FB4r9sAeK/bAHAABQBwAABAAAAC0BAgAEAAAALQEDAAQAAAAtAQAABAAAAC0BAQCmAAAAJANRAFUIAABVCIr9tgiK/bYI6f26COH9vwjZ/cMI0v3HCMr9zAjE/dAIvf3ZCLL94Qin/eoInv3yCJf9+giR/f4Ijv0BCYz9BgmJ/QkJh/0SCYT9GgmB/SMJfv0sCX39NQl8/T4Je/1FCXv9TAl8/VIJff1ZCX79YAl//WcJgP1uCYL9dQmE/XsJhv2CCYn9iQmM/ZAJj/2XCZL9ngmW/aUJmf2sCZ79hwkB/oIJ/v19Cfv9eAn5/XQJ9/1vCfX9agnz/WAJ8P1WCe39TAnr/UMJ6v05Cer9MAnq/SgJ6/0fCe39GAnv/RAJ8v0ICfb9BQn4/QEJ+v39CPz9+gj//fMIBP7tCAr+5wgR/uIIGP7dCCD+2Qgo/tUIMP7SCDr+zghI/soIV/7HCGb+xQh1/sMIhf7BCJX+wAil/sAItv7ACAAAVQgAAAQAAAAtAQIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEAFgAAACQDCQAnDAAAJwwB/QgLAf0IC5r8ug2a/LoNAf2aDAH9mgwAACcMAAAEAAAALQECAAQAAAAtAQMABAAAAC0BAAAEAAAALQEBAKACAAA4BQIACgFDAEsPNf+6D0P/tg9P/7IPWv+uD2b/qg9w/6UPe/+gD4X/mg+P/5QPmf+OD6L/iA+r/4EPtP95D7z/cg/E/2oPy/9iD9L/WQ/Z/1AP4P9HD+b/PQ/r/zMP8P8pD/X/Hg/6/xQP/v8JDwAA/Q4DAPEOBgDlDggA2Q4KAMwODAC/Dg0Asg4NAKQODgCTDg0Agw4MAHMOCgBjDggAUw4FAEUOAgA9DgAANg7+/y8O/P8oDvn/Ig73/xsO9P8UDvD/Dg7t/wcO6v8BDub/+w3j//UN3//vDdr/6Q3W/+QN0v/eDc3/2Q3J/9MNxP/ODb//yQ26/8QNtP+/Da//uw2p/7YNo/+yDZ3/rQ2X/6kNkf+lDYv/og2E/54Nfv+bDXf/mA1w/5UNaf+SDWL/jw1a/4wNU/+KDUv/hw1E/4UNPP+DDTT/gg0s/4ANJP9+DRz/fQ0T/3wNCv97DQL/eQ3w/ngN3f54Dcr+eA3A/ngNt/55Da3+eQ2k/noNmv57DZH+fA2I/n0Nf/5+DXb+gA1u/oINZf6DDV3+hQ1V/ocNTf6KDUX+jQ09/o8NNf6SDS7+lQ0n/pgNH/6bDRj+nw0R/qINCv6mDQT+qg39/a4N9/2yDfH9tw3q/bsN5P3ADd79xQ3Z/coN0/3PDc791A3J/doNxP3fDb/95Q26/eoNtf3wDbH99g2t/fwNqf0CDqX9CA6h/Q4Onv0UDpr9Gw6X/SEOlP0oDpH9NQ6M/UMOiP1SDoT9YA6B/W8Ofv1+Dn39jg58/Z8Oe/2uDnz9vQ59/cwOfv3bDoH96Q6E/fcOh/0ED4z9EQ+R/R4Pl/0kD5r9Kg+d/TAPoP03D6T9PA+o/UIPrP1ID7D9TQ+0/VMPuf1YD739Xg/C/WMPx/1oD8z9bQ/S/XIP1/13D939ew/i/YAP6P2ED+79iA/0/YwP+/2QDwH+lA8H/pcPDv6bDxX+ng8c/qEPI/6kDyr+pg8y/qkPOf6sD0H+rg9I/rAPUP6yD1j+tA9h/rUPaf63D3H+uA96/rkPg/66D4z+uw+V/rwPnv69D7H+vQ/E/r0P0P69D+D+5g3g/ucN7f7pDfn+6g0G/+wNEf/uDRz/8Q0n//QNMv/4DTz//A1G/wAOT/8FDlj/Cg5h/w8Oaf8UDnH/Gw54/yEOgP8oDob/Lw6M/zYOkv89Dpj/RQ6d/0wOof9UDqX/XQ6p/2UOrP9tDq//dg6x/38Os/+IDrX/kQ62/5sOt/+lDrf/rA63/7MOtv+6Drb/wQ61/8gOtP/PDrL/1Q6x/9sOr//iDq3/6A6r/+4OqP/zDqX/+Q6i//8On/8ED5z/CQ+Y/w4PlP8UD5D/GA+L/x0Phv8hD4H/Jg97/yoPdv8vD3D/Mw9p/zcPY/86D1z/Pg9V/0IPTf9FD0b/SA8+/0sPNf9LDzX/7A2J/k0Pif5LD3/+Sg91/kkPbP5HD2P+RQ9b/kMPUv5BD0r+Pw9D/jwPO/45DzX+Ng8u/jMPJ/4vDyH+LA8c/igPFv4kDxH+Hg8J/hcPA/4QD/z9CQ/2/QEP8f35Duv98Q7n/ekO4/3hDt/92A7c/dAO2f3GDtf9vQ7V/bMO1P2qDtP9oA7T/ZcO0/2ODtT9hQ7V/XwO1v10Dtj9bA7a/WQO3f1cDuD9VA7j/U0O5v1FDuv9Pg7v/TgO9P0xDvn9Kg7+/SQOBf4eDgv+GA4R/hIOGP4NDh/+CQ4n/gQOLv4BDjb+/Q0+/vkNR/73DU/+9A1Y/vINYf7wDWv+7g10/u0Nfv7sDYn+7A2J/gQAAAAtAQIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEALgAAACQDFQD4DwAA3xC5/goQiv2PEIr98BAe/v0QMv4JEUT+ExFV/hwRZP4pEVH+NRE//kwRH/62EYr9NhKK/VwRs/5HEgAAwxEAAEIRPf8gEQj/ehAAAPgPAAAEAAAALQECAAQAAAAtAQMABAAAAC0BAAAEAAAALQEBAKoAAAAkA1MAiROh/5gT//+NEwAAghMCAHgTBABuEwUAZBMGAFoTBwBREwgASBMIAEATCAA5EwgAMxMHACwTBwAmEwYAIBMFABoTBAAUEwMADhMCAAkTAAAEEwAA/xL+//YS+//tEvb/5hLx/98S7P/YEuf/0hLh/80S2//IEtT/xBLN/8ASxv+9Er3/uhKz/7gSpv+3Epf/tRKG/7QSff+0EnT/tBJp/7MSX/+zElP/sxJI/7MS3f1lEt39ZRKK/bMSiv2zEu78HhOt/B4Tiv2JE4r9iRPd/R4T3f0eE07/HhNY/x4TY/8eE2v/HxNz/yATev8hE4D/IhOF/yMTif8lE4v/JhOO/ygTkf8rE5T/LROW/zATmf8yE5v/NhOd/zkTn/88E6H/QROi/0UTo/9KE6T/TxOk/1QTpf9aE6X/ZBOl/28TpP97E6P/iROh/4kTof8EAAAALQECAAQAAAAtAQMABAAAAC0BAAAEAAAALQEBAB4AAAAkAw0AUxUAAFMVmvzGFZr8xhX//YsX//2LF5r8/hea/P4XAACLFwAAixdm/sYVZv7GFQAAUxUAAAQAAAAtAQIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEAoAIAADgFAgAKAUMAXxo1/84aQ//KGk//xhpa/8IaZv++GnD/uRp7/7Qahf+uGo//qBqZ/6Iaov+cGqv/lRq0/40avP+GGsT/fhrL/3Ya0v9tGtn/ZBrg/1sa5v9RGuv/Rxrw/z0a9f8yGvr/KBr+/x0aAAARGgMABRoGAPkZCADtGQoA4BkMANMZDQDGGQ0AuBkOAKcZDQCXGQwAhxkKAHcZCABnGQUAWRkCAFEZAABKGf7/Qxn8/zwZ+f82Gff/Lxn0/ygZ8P8iGe3/Gxnq/xUZ5v8PGeP/CRnf/wMZ2v/9GNb/+BjS//IYzf/tGMn/5xjE/+IYv//dGLr/2Bi0/9MYr//PGKn/yhij/8YYnf/BGJf/vRiR/7kYi/+2GIT/shh+/68Yd/+sGHD/qRhp/6YYYv+jGFr/oBhT/54YS/+bGET/mRg8/5cYNP+WGCz/lBgk/5IYHP+RGBP/kBgK/48YAv+NGPD+jBjd/owYyv6MGMD+jBi3/o0Yrf6NGKT+jhia/o8Ykf6QGIj+kRh//pIYdv6UGG7+lhhl/pcYXf6ZGFX+mxhN/p4YRf6hGD3+oxg1/qYYLv6pGCf+rBgf/q8YGP6zGBH+thgK/roYBP6+GP39whj3/cYY8f3LGOr9zxjk/dQY3v3ZGNn93hjT/eMYzv3oGMn97hjE/fMYv/35GLr9/hi1/QQZsf0KGa39EBmp/RYZpf0cGaH9Ihme/SgZmv0vGZf9NRmU/TwZkf1JGYz9VxmI/WYZhP10GYH9gxl+/ZIZff2iGXz9sxl7/cIZfP3RGX394Bl+/e8Zgf39GYT9CxqH/RgajP0lGpH9MhqX/Tgamv0+Gp39RBqg/UsapP1QGqj9Vhqs/VwasP1hGrT9Zxq5/Wwavf1yGsL9dxrH/XwazP2BGtL9hhrX/Ysa3f2PGuL9lBro/Zga7v2cGvT9oBr7/aQaAf6oGgf+qxoO/q8aFf6yGhz+tRoj/rgaKv66GjL+vRo5/sAaQf7CGkj+xBpQ/sYaWP7IGmH+yRpp/ssacf7MGnr+zRqD/s4ajP7PGpX+0Bqe/tEasf7RGsT+0RrQ/tEa4P76GOD++xjt/v0Y+f7+GAb/ABkR/wIZHP8FGSf/CBky/wwZPP8QGUb/FBlP/xkZWP8eGWH/Ixlp/ygZcf8vGXj/NRmA/zwZhv9DGYz/ShmS/1EZmP9ZGZ3/YBmh/2gZpf9xGan/eRms/4EZr/+KGbH/kxmz/5wZtf+lGbb/rxm3/7kZt//AGbf/xxm2/84Ztv/VGbX/3Bm0/+MZsv/pGbH/7xmv//YZrf/8Gav/Ahqo/wcapf8NGqL/Exqf/xganP8dGpj/IhqU/ygakP8sGov/MRqG/zUagf86Gnv/Php2/0MacP9HGmn/Sxpj/04aXP9SGlX/VhpN/1kaRv9cGj7/Xxo1/18aNf8AGYn+YRqJ/l8af/5eGnX+XRps/lsaY/5ZGlv+VxpS/lUaSv5TGkP+UBo7/k0aNf5KGi7+Rxon/kMaIf5AGhz+PBoW/jgaEf4yGgn+KxoD/iQa/P0dGvb9FRrx/Q0a6/0FGuf9/Rnj/fUZ3/3sGdz95BnZ/doZ1/3RGdX9xxnU/b4Z0/20GdP9qxnT/aIZ1P2ZGdX9kBnW/YgZ2P2AGdr9eBnd/XAZ4P1oGeP9YRnm/VkZ6/1SGe/9TBn0/UUZ+f0+Gf79OBkF/jIZC/4sGRH+JhkY/iEZH/4dGSf+GBku/hUZNv4RGT7+DRlH/gsZT/4IGVj+Bhlh/gQZa/4CGXT+ARl+/gAZif4AGYn+BAAAAC0BAgAEAAAALQEDAAQAAAAtAQAABAAAAC0BAQCmAAAAJANRAFIbAABSG4r9sxuK/bMb6f23G+H9vBvZ/cAb0v3EG8r9yRvE/c0bvf3WG7L93hun/ecbnv3vG5f99xuR/fsbjv3+G4z9AxyJ/QYch/0PHIT9FxyB/SAcfv0pHH39Mhx8/Tsce/1CHHv9SRx8/U8cff1WHH79XRx//WQcgP1rHIL9chyE/Xgchv1/HIn9hhyM/Y0cj/2UHJL9mxyW/aIcmf2pHJ79hBwB/n8c/v16HPv9dRz5/XEc9/1sHPX9Zxzz/V0c8P1THO39SRzr/UAc6v02HOr9LRzq/SUc6/0cHO39FRzv/Q0c8v0FHPb9Ahz4/f4b+v36G/z99xv//fAbBP7qGwr+5BsR/t8bGP7aGyD+1hso/tIbMP7PGzr+yxtI/scbV/7EG2b+wht1/sAbhf6+G5X+vRul/r0btv69GwAAUhsAAAQAAAAtAQIABAAAAC0BAwAEAAAALQEAAAQAAAAtAQEAoAIAADgFAgAKAUMAlx41/wYfQ/8CH0///h5a//oeZv/2HnD/8R57/+wehf/mHo//4B6Z/9oeov/UHqv/zR60/8UevP++HsT/th7L/64e0v+lHtn/nB7g/5Me5v+JHuv/fx7w/3Ue9f9qHvr/YB7+/1UeAABJHgMAPR4GADEeCAAlHgoAGB4MAAseDQD+HQ0A8B0OAN8dDQDPHQwAvx0KAK8dCACfHQUAkR0CAIkdAACCHf7/ex38/3Qd+f9uHff/Zx30/2Ad8P9aHe3/Ux3q/00d5v9HHeP/QR3f/zsd2v81Hdb/MB3S/yodzf8lHcn/Hx3E/xodv/8VHbr/EB20/wsdr/8HHan/Ah2j//4cnf/5HJf/9RyR//Eci//uHIT/6hx+/+ccd//kHHD/4Rxp/94cYv/bHFr/2BxT/9YcS//THET/0Rw8/88cNP/OHCz/zBwk/8ocHP/JHBP/yBwK/8ccAv/FHPD+xBzd/sQcyv7EHMD+xBy3/sUcrf7FHKT+xhya/scckf7IHIj+yRx//socdv7MHG7+zhxl/s8cXf7RHFX+0xxN/tYcRf7ZHD3+2xw1/t4cLv7hHCf+5Bwf/uccGP7rHBH+7hwK/vIcBP72HP39+hz3/f4c8f0DHer9Bx3k/Qwd3v0RHdn9Fh3T/Rsdzv0gHcn9Jh3E/Ssdv/0xHbr9Nh21/Twdsf1CHa39SB2p/U4dpf1UHaH9Wh2e/WAdmv1nHZf9bR2U/XQdkf2BHYz9jx2I/Z4dhP2sHYH9ux1+/codff3aHXz96x17/fodfP0JHn39GB5+/Scegf01HoT9Qx6H/VAejP1dHpH9ah6X/XAemv12Hp39fB6g/YMepP2IHqj9jh6s/ZQesP2ZHrT9nx65/aQevf2qHsL9rx7H/bQezP25HtL9vh7X/cMe3f3HHuL9zB7o/dAe7v3UHvT92B77/dweAf7gHgf+4x4O/uceFf7qHhz+7R4j/vAeKv7yHjL+9R45/vgeQf76Hkj+/B5Q/v4eWP4AH2H+AR9p/gMfcf4EH3r+BR+D/gYfjP4HH5X+CB+e/gkfsf4JH8T+CR/Q/gkf4P4yHeD+Mx3t/jUd+f42HQb/OB0R/zodHP89HSf/QB0y/0QdPP9IHUb/TB1P/1EdWP9WHWH/Wx1p/2Adcf9nHXj/bR2A/3Qdhv97HYz/gh2S/4kdmP+RHZ3/mB2h/6Adpf+pHan/sR2s/7kdr//CHbH/yx2z/9Qdtf/dHbb/5x23//Edt//4Hbf//x22/wYetv8NHrX/FB60/xsesv8hHrH/Jx6v/y4erf80Hqv/Oh6o/z8epf9FHqL/Sx6f/1AenP9VHpj/Wh6U/2AekP9kHov/aR6G/20egf9yHnv/dh52/3secP9/Hmn/gx5j/4YeXP+KHlX/jh5N/5EeRv+UHj7/lx41/5ceNf84HYn+mR6J/pcef/6WHnX+lR5s/pMeY/6RHlv+jx5S/o0eSv6LHkP+iB47/oUeNf6CHi7+fx4n/nseIf54Hhz+dB4W/nAeEf5qHgn+Yx4D/lwe/P1VHvb9TR7x/UUe6/09Huf9NR7j/S0e3/0kHtz9HB7Z/RIe1/0JHtX9/x3U/fYd0/3sHdP94x3T/dod1P3RHdX9yB3W/cAd2P24Hdr9sB3d/agd4P2gHeP9mR3m/ZEd6/2KHe/9hB30/X0d+f12Hf79cB0F/modC/5kHRH+Xh0Y/lkdH/5VHSf+UB0u/k0dNv5JHT7+RR1H/kMdT/5AHVj+Ph1h/jwda/46HXT+OR1+/jgdif44HYn+BAAAAC0BAgAEAAAALQEDAAMAAAAAAA==, svg:height: 0.8748in, svg:width: 1.5311in, svg:x: 2.4376in, svg:y: 1.1720in)
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 3.8133in, svg:y: 1.6944in), (svg:x: 5.2352in, svg:y: 1.5225in)))
+  endMasterPage
+  startPage(librevenge:master-page-name: PM401, svg:height: 11.0000in, svg:width: 8.5000in)
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 1.5000in, svg:y: 1.2500in), (svg:x: 3.0000in, svg:y: 1.2500in), (svg:x: 3.0000in, svg:y: 2.1562in), (svg:x: 1.5000in, svg:y: 2.1562in), (svg:x: 1.5000in, svg:y: 1.2500in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.0312in, svg:y: 1.4062in), (librevenge:path-action: L, svg:x: 4.3750in, svg:y: 2.1250in), (librevenge:path-action: L, svg:x: 3.6875in, svg:y: 2.1250in), (librevenge:path-action: L, svg:x: 4.0312in, svg:y: 1.4062in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 5.4531in, svg:y: 1.3750in), (svg:x: 5.8438in, svg:y: 1.8281in), (svg:x: 5.4531in, svg:y: 2.2812in), (svg:x: 5.0625in, svg:y: 1.8281in), (svg:x: 5.4531in, svg:y: 1.3750in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 2.3281in, svg:y: 2.5938in), (svg:x: 1.5312in, svg:y: 2.9881in), (svg:x: 1.8434in, svg:y: 3.6250in), (svg:x: 2.8129in, svg:y: 3.6250in), (svg:x: 3.1250in, svg:y: 2.9881in), (svg:x: 2.3281in, svg:y: 2.5938in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.9838in, svg:y: 2.7188in), (librevenge:path-action: L, svg:x: 4.4537in, svg:y: 2.7188in), (librevenge:path-action: L, svg:x: 4.6562in, svg:y: 2.8345in), (librevenge:path-action: L, svg:x: 4.6562in, svg:y: 3.1030in), (librevenge:path-action: L, svg:x: 4.4537in, svg:y: 3.2188in), (librevenge:path-action: L, svg:x: 3.9838in, svg:y: 3.2188in), (librevenge:path-action: L, svg:x: 3.7812in, svg:y: 3.1030in), (librevenge:path-action: L, svg:x: 3.7812in, svg:y: 2.8345in), (librevenge:path-action: L, svg:x: 3.9838in, svg:y: 2.7188in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 5.0625in, svg:y: 2.6875in), (svg:x: 5.7500in, svg:y: 3.2812in), (svg:x: 5.0625in, svg:y: 3.2812in), (svg:x: 5.0625in, svg:y: 2.6875in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.8281in, svg:y: 3.8750in), (librevenge:path-action: L, svg:x: 2.3438in, svg:y: 3.8750in), (librevenge:path-action: L, svg:x: 2.1719in, svg:y: 4.5312in), (librevenge:path-action: L, svg:x: 1.6562in, svg:y: 4.5312in), (librevenge:path-action: L, svg:x: 1.8281in, svg:y: 3.8750in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.7500in, svg:y: 3.9062in), (librevenge:path-action: L, svg:x: 3.7188in, svg:y: 3.9062in), (librevenge:path-action: L, svg:x: 3.4766in, svg:y: 4.5000in), (librevenge:path-action: L, svg:x: 2.9922in, svg:y: 4.5000in), (librevenge:path-action: L, svg:x: 2.7500in, svg:y: 3.9062in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 4.0312in, svg:y: 4.4062in), (svg:x: 4.5937in, svg:y: 4.4062in), (svg:x: 4.5937in, svg:y: 4.0104in), (svg:x: 4.3125in, svg:y: 3.8125in), (svg:x: 4.0312in, svg:y: 4.0104in), (svg:x: 4.0312in, svg:y: 4.4062in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 4.9375in, svg:y: 4.3437in), (svg:x: 5.5937in, svg:y: 4.3437in), (svg:x: 5.5937in, svg:y: 4.0469in), (svg:x: 5.2656in, svg:y: 4.0469in), (svg:x: 5.2656in, svg:y: 3.7500in), (svg:x: 4.9375in, svg:y: 3.7500in), (svg:x: 4.9375in, svg:y: 4.3437in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 6.2344in, svg:y: 3.5938in), (svg:x: 6.6406in, svg:y: 3.5938in), (svg:x: 6.6406in, svg:y: 3.8125in), (svg:x: 6.8438in, svg:y: 3.8125in), (svg:x: 6.8438in, svg:y: 4.2500in), (svg:x: 6.6406in, svg:y: 4.2500in), (svg:x: 6.6406in, svg:y: 4.4688in), (svg:x: 6.2344in, svg:y: 4.4688in), (svg:x: 6.2344in, svg:y: 4.2500in), (svg:x: 6.0312in, svg:y: 4.2500in), (svg:x: 6.0312in, svg:y: 3.8125in), (svg:x: 6.2344in, svg:y: 3.8125in), (svg:x: 6.2344in, svg:y: 3.5938in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 1.2812in, svg:y: 5.6250in), (svg:x: 1.8438in, svg:y: 5.4062in), (svg:x: 1.5625in, svg:y: 5.1875in), (svg:x: 1.2812in, svg:y: 5.6250in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 2.5000in, svg:y: 5.6875in), (svg:x: 2.5000in, svg:y: 5.4062in), (svg:x: 2.7344in, svg:y: 5.1250in), (svg:x: 2.9688in, svg:y: 5.1250in), (svg:x: 2.5000in, svg:y: 5.6875in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 3.3750in, svg:y: 5.5000in), (svg:x: 3.7656in, svg:y: 5.3646in), (svg:x: 4.1562in, svg:y: 5.5000in), (svg:x: 4.1562in, svg:y: 5.2292in), (svg:x: 3.7656in, svg:y: 5.0938in), (svg:x: 3.3750in, svg:y: 5.2292in), (svg:x: 3.3750in, svg:y: 5.5000in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 4.5312in, svg:y: 5.6562in), (svg:x: 4.7604in, svg:y: 5.4896in), (svg:x: 4.7604in, svg:y: 5.3229in), (svg:x: 4.9896in, svg:y: 5.3229in), (svg:x: 5.2188in, svg:y: 5.1562in), (svg:x: 4.5312in, svg:y: 5.1562in), (svg:x: 4.5312in, svg:y: 5.6562in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: L, svg:x: 5.5938in, svg:y: 5.0938in), (librevenge:path-action: L, svg:x: 5.5938in, svg:y: 5.5312in), (librevenge:path-action: L, svg:x: 5.7917in, svg:y: 5.5312in), (librevenge:path-action: L, svg:x: 5.7917in, svg:y: 5.4178in), (librevenge:path-action: L, svg:x: 5.7917in, svg:y: 5.5312in), (librevenge:path-action: L, svg:x: 5.9896in, svg:y: 5.5312in), (librevenge:path-action: L, svg:x: 5.9896in, svg:y: 5.4178in), (librevenge:path-action: L, svg:x: 5.9896in, svg:y: 5.5312in), (librevenge:path-action: L, svg:x: 6.1875in, svg:y: 5.5312in), (librevenge:path-action: L, svg:x: 6.1875in, svg:y: 5.0938in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.6562in, svg:y: 5.6875in), (librevenge:path-action: L, svg:x: 6.6562in, svg:y: 5.2656in), (librevenge:path-action: L, svg:x: 6.8125in, svg:y: 5.1250in), (librevenge:path-action: L, svg:x: 7.2812in, svg:y: 5.1250in), (librevenge:path-action: L, svg:x: 7.2812in, svg:y: 5.5469in), (librevenge:path-action: L, svg:x: 7.1250in, svg:y: 5.6875in), (librevenge:path-action: L, svg:x: 6.6562in, svg:y: 5.6875in), (librevenge:path-action: M, svg:x: 6.6562in, svg:y: 5.2656in), (librevenge:path-action: L, svg:x: 6.8125in, svg:y: 5.1250in), (librevenge:path-action: L, svg:x: 7.2812in, svg:y: 5.1250in), (librevenge:path-action: L, svg:x: 7.1250in, svg:y: 5.2656in), (librevenge:path-action: L, svg:x: 6.6562in, svg:y: 5.2656in), (librevenge:path-action: M, svg:x: 7.1250in, svg:y: 5.6875in), (librevenge:path-action: L, svg:x: 7.1250in, svg:y: 5.2656in), (librevenge:path-action: L, svg:x: 7.2812in, svg:y: 5.1250in), (librevenge:path-action: L, svg:x: 7.2812in, svg:y: 5.5469in), (librevenge:path-action: L, svg:x: 7.1250in, svg:y: 5.6875in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.7344in, svg:y: 7.1250in), (librevenge:path-action: L, svg:x: 1.7344in, svg:y: 6.5156in), (librevenge:path-action: L, svg:x: 1.5938in, svg:y: 6.5156in), (librevenge:path-action: L, svg:x: 1.8750in, svg:y: 6.3125in), (librevenge:path-action: L, svg:x: 2.1562in, svg:y: 6.5156in), (librevenge:path-action: L, svg:x: 2.0156in, svg:y: 6.5156in), (librevenge:path-action: L, svg:x: 2.0156in, svg:y: 7.1250in), (librevenge:path-action: L, svg:x: 1.7344in, svg:y: 7.1250in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.5938in, svg:y: 6.5744in), (librevenge:path-action: L, svg:x: 2.8594in, svg:y: 6.4375in), (librevenge:path-action: L, svg:x: 3.1250in, svg:y: 6.5744in), (librevenge:path-action: L, svg:x: 2.9922in, svg:y: 6.5744in), (librevenge:path-action: L, svg:x: 2.9922in, svg:y: 6.9881in), (librevenge:path-action: L, svg:x: 3.1250in, svg:y: 6.9881in), (librevenge:path-action: L, svg:x: 2.8594in, svg:y: 7.1250in), (librevenge:path-action: L, svg:x: 2.5938in, svg:y: 6.9881in), (librevenge:path-action: L, svg:x: 2.7266in, svg:y: 6.9881in), (librevenge:path-action: L, svg:x: 2.7266in, svg:y: 6.5744in), (librevenge:path-action: L, svg:x: 2.5938in, svg:y: 6.5744in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 3.7812in, svg:y: 7.0312in), (librevenge:path-action: L, svg:x: 3.7812in, svg:y: 6.6762in), (librevenge:path-action: C, svg:x: 4.1049in, svg:x1: 3.7812in, svg:x2: 3.9431in, svg:y: 6.3278in, svg:y1: 6.5020in, svg:y2: 6.3278in), (librevenge:path-action: L, svg:x: 4.1745in, svg:y: 6.3278in), (librevenge:path-action: L, svg:x: 4.1745in, svg:y: 6.2188in), (librevenge:path-action: L, svg:x: 4.3438in, svg:y: 6.4474in), (librevenge:path-action: L, svg:x: 4.1745in, svg:y: 6.6761in), (librevenge:path-action: L, svg:x: 4.1745in, svg:y: 6.5670in), (librevenge:path-action: L, svg:x: 4.1049in, svg:y: 6.5670in), (librevenge:path-action: C, svg:x: 3.9468in, svg:x1: 4.0258in, svg:x2: 3.9468in, svg:y: 6.6762in, svg:y1: 6.5670in, svg:y2: 6.6216in), (librevenge:path-action: L, svg:x: 3.9468in, svg:y: 7.0312in), (librevenge:path-action: L, svg:x: 3.7812in, svg:y: 7.0312in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.5312in, svg:y: 7.2500in), (librevenge:path-action: L, svg:x: 4.5312in, svg:y: 6.9290in), (librevenge:path-action: C, svg:x: 4.9202in, svg:x1: 4.5312in, svg:x2: 4.7146in, svg:y: 6.7188in, svg:y1: 6.8058in, svg:y2: 6.7188in), (librevenge:path-action: C, svg:x: 5.3116in, svg:x1: 5.1140in, svg:x2: 5.3104in, svg:y: 6.9229in, svg:y1: 6.7188in, svg:y2: 6.7982in), (librevenge:path-action: L, svg:x: 5.4375in, svg:y: 6.9229in), (librevenge:path-action: L, svg:x: 5.1891in, svg:y: 7.0695in), (librevenge:path-action: L, svg:x: 4.9382in, svg:y: 6.9229in), (librevenge:path-action: L, svg:x: 5.0557in, svg:y: 6.9229in), (librevenge:path-action: C, svg:x: 4.9223in, svg:x1: 5.0481in, svg:x2: 4.9873in, svg:y: 6.8626in, svg:y1: 6.8757in, svg:y2: 6.8626in), (librevenge:path-action: C, svg:x: 4.7876in, svg:x1: 4.8572in, svg:x2: 4.7847in, svg:y: 6.9283in, svg:y1: 6.8626in, svg:y2: 6.8764in), (librevenge:path-action: L, svg:x: 4.7876in, svg:y: 7.2500in), (librevenge:path-action: L, svg:x: 4.5312in, svg:y: 7.2500in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 5.7812in, svg:y: 6.3438in), (svg:x: 5.7812in, svg:y: 6.8602in), (svg:x: 5.8796in, svg:y: 6.8602in), (svg:x: 6.0764in, svg:y: 7.0000in), (svg:x: 5.9780in, svg:y: 6.8602in), (svg:x: 6.3125in, svg:y: 6.8602in), (svg:x: 6.3125in, svg:y: 6.3438in), (svg:x: 5.7812in, svg:y: 6.3438in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 6.8096in, svg:y: 6.5351in), (librevenge:large-arc: 0, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.1519in, svg:ry: 0.1968in, svg:x: 6.8096in, svg:y: 6.9209in), (librevenge:path-action: L, svg:x: 6.8090in, svg:y: 6.9248in), (librevenge:path-action: L, svg:x: 7.0521in, svg:y: 7.0312in), (librevenge:path-action: L, svg:x: 6.9306in, svg:y: 6.9248in), (librevenge:path-action: L, svg:x: 7.2222in, svg:y: 6.9248in), (librevenge:path-action: L, svg:x: 7.2198in, svg:y: 6.9159in), (librevenge:large-arc: 0, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.1762in, svg:ry: 0.1968in, svg:x: 7.2198in, svg:y: 6.5401in), (librevenge:path-action: L, svg:x: 6.8096in, svg:y: 6.5351in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 1.8749in, svg:y: 7.7188in), (svg:x: 1.8166in, svg:y: 7.8860in), (svg:x: 1.6250in, svg:y: 7.8860in), (svg:x: 1.7806in, svg:y: 7.9903in), (svg:x: 1.7222in, svg:y: 8.1562in), (svg:x: 1.8749in, svg:y: 8.0546in), (svg:x: 2.0278in, svg:y: 8.1562in), (svg:x: 1.9694in, svg:y: 7.9903in), (svg:x: 2.1250in, svg:y: 7.8860in), (svg:x: 1.9334in, svg:y: 7.8860in), (svg:x: 1.8749in, svg:y: 7.7188in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 2.6875in, svg:y: 8.0625in), (svg:x: 2.7566in, svg:y: 8.1083in), (svg:x: 2.7080in, svg:y: 8.1796in), (svg:x: 2.7875in, svg:y: 8.1933in), (svg:x: 2.7699in, svg:y: 8.2835in), (svg:x: 2.8479in, svg:y: 8.2616in), (svg:x: 2.8589in, svg:y: 8.3502in), (svg:x: 2.9238in, svg:y: 8.2974in), (svg:x: 2.9688in, svg:y: 8.3750in), (svg:x: 3.0100in, svg:y: 8.2982in), (svg:x: 3.0741in, svg:y: 8.3522in), (svg:x: 3.0865in, svg:y: 8.2639in), (svg:x: 3.1676in, svg:y: 8.2835in), (svg:x: 3.1479in, svg:y: 8.1968in), (svg:x: 3.2276in, svg:y: 8.1846in), (svg:x: 3.1802in, svg:y: 8.1124in), (svg:x: 3.2500in, svg:y: 8.0625in), (svg:x: 3.1809in, svg:y: 8.0167in), (svg:x: 3.2295in, svg:y: 7.9454in), (svg:x: 3.1500in, svg:y: 7.9317in), (svg:x: 3.1676in, svg:y: 7.8415in), (svg:x: 3.0896in, svg:y: 7.8634in), (svg:x: 3.0786in, svg:y: 7.7748in), (svg:x: 3.0137in, svg:y: 7.8276in), (svg:x: 2.9688in, svg:y: 7.7500in), (svg:x: 2.9275in, svg:y: 7.8268in), (svg:x: 2.8634in, svg:y: 7.7728in), (svg:x: 2.8510in, svg:y: 7.8611in), (svg:x: 2.7699in, svg:y: 7.8415in), (svg:x: 2.7896in, svg:y: 7.9282in), (svg:x: 2.7099in, svg:y: 7.9404in), (svg:x: 2.7573in, svg:y: 8.0126in), (svg:x: 2.6875in, svg:y: 8.0625in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 3.6250in, svg:y: 8.0312in), (svg:x: 3.7214in, svg:y: 8.0517in), (svg:x: 3.6388in, svg:y: 8.0879in), (svg:x: 3.7418in, svg:y: 8.0942in), (svg:x: 3.6794in, svg:y: 8.1406in), (svg:x: 3.7819in, svg:y: 8.1324in), (svg:x: 3.7440in, svg:y: 8.1859in), (svg:x: 3.8390in, svg:y: 8.1637in), (svg:x: 3.8281in, svg:y: 8.2207in), (svg:x: 3.9093in, svg:y: 8.1860in), (svg:x: 3.9261in, svg:y: 8.2425in), (svg:x: 3.9878in, svg:y: 8.1977in), (svg:x: 4.0312in, svg:y: 8.2500in), (svg:x: 4.0693in, svg:y: 8.1981in), (svg:x: 4.1364in, svg:y: 8.2425in), (svg:x: 4.1482in, svg:y: 8.1871in), (svg:x: 4.2344in, svg:y: 8.2207in), (svg:x: 4.2191in, svg:y: 8.1655in), (svg:x: 4.3185in, svg:y: 8.1859in), (svg:x: 4.2773in, svg:y: 8.1348in), (svg:x: 4.3831in, svg:y: 8.1406in), (svg:x: 4.3186in, svg:y: 8.0969in), (svg:x: 4.4237in, svg:y: 8.0879in), (svg:x: 4.3404in, svg:y: 8.0546in), (svg:x: 4.4375in, svg:y: 8.0312in), (svg:x: 4.3411in, svg:y: 8.0108in), (svg:x: 4.4237in, svg:y: 7.9746in), (svg:x: 4.3207in, svg:y: 7.9683in), (svg:x: 4.3831in, svg:y: 7.9219in), (svg:x: 4.2806in, svg:y: 7.9301in), (svg:x: 4.3185in, svg:y: 7.8766in), (svg:x: 4.2235in, svg:y: 7.8988in), (svg:x: 4.2344in, svg:y: 7.8418in), (svg:x: 4.1532in, svg:y: 7.8765in), (svg:x: 4.1364in, svg:y: 7.8200in), (svg:x: 4.0747in, svg:y: 7.8648in), (svg:x: 4.0312in, svg:y: 7.8125in), (svg:x: 3.9932in, svg:y: 7.8644in), (svg:x: 3.9261in, svg:y: 7.8200in), (svg:x: 3.9143in, svg:y: 7.8754in), (svg:x: 3.8281in, svg:y: 7.8418in), (svg:x: 3.8434in, svg:y: 7.8970in), (svg:x: 3.7440in, svg:y: 7.8766in), (svg:x: 3.7852in, svg:y: 7.9277in), (svg:x: 3.6794in, svg:y: 7.9219in), (svg:x: 3.7439in, svg:y: 7.9656in), (svg:x: 3.6388in, svg:y: 7.9746in), (svg:x: 3.7221in, svg:y: 8.0079in), (svg:x: 3.6250in, svg:y: 8.0312in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 5.1440in, svg:y: 8.0090in), (svg:x: 5.0627in, svg:y: 7.8923in), (svg:x: 5.0281in, svg:y: 8.0263in), (svg:x: 4.7971in, svg:y: 7.8923in), (svg:x: 4.9387in, svg:y: 8.0695in), (svg:x: 4.7848in, svg:y: 8.1026in), (svg:x: 4.9086in, svg:y: 8.2078in), (svg:x: 4.7893in, svg:y: 8.3013in), (svg:x: 4.9733in, svg:y: 8.2797in), (svg:x: 4.9432in, svg:y: 8.4021in), (svg:x: 5.0414in, svg:y: 8.3359in), (svg:x: 5.0671in, svg:y: 8.5312in), (svg:x: 5.1352in, svg:y: 8.3129in), (svg:x: 5.2254in, svg:y: 8.4727in), (svg:x: 5.2513in, svg:y: 8.2970in), (svg:x: 5.3885in, svg:y: 8.4179in), (svg:x: 5.3449in, svg:y: 8.2465in), (svg:x: 5.5000in, svg:y: 8.2582in), (svg:x: 5.3706in, svg:y: 8.1645in), (svg:x: 5.4866in, svg:y: 8.0868in), (svg:x: 5.3405in, svg:y: 8.0593in), (svg:x: 5.3962in, svg:y: 7.9642in), (svg:x: 5.2557in, svg:y: 7.9932in), (svg:x: 5.2678in, svg:y: 7.8160in), (svg:x: 5.1440in, svg:y: 8.0090in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 6.1945in, svg:y: 7.6562in), (svg:x: 5.9375in, svg:y: 7.7698in), (svg:x: 6.1673in, svg:y: 7.8998in), (svg:x: 6.0892in, svg:y: 7.9375in), (svg:x: 6.3081in, svg:y: 8.0586in), (svg:x: 6.2409in, svg:y: 8.0884in), (svg:x: 6.5938in, svg:y: 8.2812in), (svg:x: 6.3862in, svg:y: 8.0298in), (svg:x: 6.4406in, svg:y: 8.0039in), (svg:x: 6.2726in, svg:y: 7.8542in), (svg:x: 6.3273in, svg:y: 7.8333in), (svg:x: 6.1945in, svg:y: 7.6562in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 1.9375in, svg:y: 9.3437in), (librevenge:path-action: L, svg:x: 1.6949in, svg:y: 8.8541in), (librevenge:path-action: L, svg:x: 1.6891in, svg:y: 8.8259in), (librevenge:path-action: C, svg:x: 1.6875in, svg:x1: 1.6875in, svg:x2: 1.6875in, svg:y: 8.7978in, svg:y1: 8.8169in, svg:y2: 8.8071in), (librevenge:path-action: C, svg:x: 1.6898in, svg:x1: 1.6876in, svg:x2: 1.6885in, svg:y: 8.7704in, svg:y1: 8.7886in, svg:y2: 8.7794in), (librevenge:path-action: C, svg:x: 1.6957in, svg:x1: 1.6912in, svg:x2: 1.6932in, svg:y: 8.7442in, svg:y1: 8.7615in, svg:y2: 8.7527in), (librevenge:path-action: C, svg:x: 1.7047in, svg:x1: 1.6981in, svg:x2: 1.7012in, svg:y: 8.7195in, svg:y1: 8.7357in, svg:y2: 8.7274in), (librevenge:path-action: C, svg:x: 1.7165in, svg:x1: 1.7081in, svg:x2: 1.7122in, svg:y: 8.6967in, svg:y1: 8.7114in, svg:y2: 8.7038in), (librevenge:path-action: C, svg:x: 1.7309in, svg:x1: 1.7209in, svg:x2: 1.7257in, svg:y: 8.6763in, svg:y1: 8.6895in, svg:y2: 8.6826in), (librevenge:path-action: C, svg:x: 1.7474in, svg:x1: 1.7360in, svg:x2: 1.7416in, svg:y: 8.6587in, svg:y1: 8.6700in, svg:y2: 8.6641in), (librevenge:path-action: C, svg:x: 1.7657in, svg:x1: 1.7532in, svg:x2: 1.7594in, svg:y: 8.6444in, svg:y1: 8.6534in, svg:y2: 8.6486in), (librevenge:path-action: C, svg:x: 1.7856in, svg:x1: 1.7721in, svg:x2: 1.7788in, svg:y: 8.6338in, svg:y1: 8.6403in, svg:y2: 8.6366in), (librevenge:path-action: C, svg:x: 1.8066in, svg:x1: 1.7924in, svg:x2: 1.7995in, svg:y: 8.6272in, svg:y1: 8.6309in, svg:y2: 8.6286in), (librevenge:path-action: C, svg:x: 1.8284in, svg:x1: 1.8137in, svg:x2: 1.8211in, svg:y: 8.6251in, svg:y1: 8.6257in, svg:y2: 8.6250in), (librevenge:path-action: C, svg:x: 1.8506in, svg:x1: 1.8358in, svg:x2: 1.8433in, svg:y: 8.6280in, svg:y1: 8.6252in, svg:y2: 8.6262in), (librevenge:path-action: C, svg:x: 1.8730in, svg:x1: 1.8582in, svg:x2: 1.8657in, svg:y: 8.6361in, svg:y1: 8.6298in, svg:y2: 8.6325in), (librevenge:path-action: C, svg:x: 1.8952in, svg:x1: 1.8806in, svg:x2: 1.8881in, svg:y: 8.6502in, svg:y1: 8.6399in, svg:y2: 8.6446in), (librevenge:path-action: C, svg:x: 1.9168in, svg:x1: 1.9027in, svg:x2: 1.9100in, svg:y: 8.6704in, svg:y1: 8.6560in, svg:y2: 8.6628in), (librevenge:path-action: C, svg:x: 1.9375in, svg:x1: 1.9242in, svg:x2: 1.9306in, svg:y: 8.6972in, svg:y1: 8.6785in, svg:y2: 8.6882in), (librevenge:path-action: L, svg:x: 1.9583in, svg:y: 8.6704in), (librevenge:path-action: C, svg:x: 1.9799in, svg:x1: 1.9646in, svg:x2: 1.9723in, svg:y: 8.6502in, svg:y1: 8.6621in, svg:y2: 8.6561in), (librevenge:path-action: C, svg:x: 2.0021in, svg:x1: 1.9869in, svg:x2: 2.0006in, svg:y: 8.6361in, svg:y1: 8.6446in, svg:y2: 8.6400in), (librevenge:path-action: C, svg:x: 2.0244in, svg:x1: 2.0093in, svg:x2: 2.0168in, svg:y: 8.6280in, svg:y1: 8.6325in, svg:y2: 8.6298in), (librevenge:path-action: C, svg:x: 2.0467in, svg:x1: 2.0318in, svg:x2: 2.0392in, svg:y: 8.6251in, svg:y1: 8.6262in, svg:y2: 8.6252in), (librevenge:path-action: C, svg:x: 2.0685in, svg:x1: 2.0539in, svg:x2: 2.0613in, svg:y: 8.6272in, svg:y1: 8.6250in, svg:y2: 8.6257in), (librevenge:path-action: C, svg:x: 2.0895in, svg:x1: 2.0756in, svg:x2: 2.0826in, svg:y: 8.6338in, svg:y1: 8.6286in, svg:y2: 8.6309in), (librevenge:path-action: C, svg:x: 2.1093in, svg:x1: 2.0962in, svg:x2: 2.1029in, svg:y: 8.6444in, svg:y1: 8.6366in, svg:y2: 8.6402in), (librevenge:path-action: C, svg:x: 2.1277in, svg:x1: 2.1156in, svg:x2: 2.1218in, svg:y: 8.6587in, svg:y1: 8.6486in, svg:y2: 8.6534in), (librevenge:path-action: C, svg:x: 2.1442in, svg:x1: 2.1334in, svg:x2: 2.1390in, svg:y: 8.6763in, svg:y1: 8.6640in, svg:y2: 8.6699in), (librevenge:path-action: C, svg:x: 2.1586in, svg:x1: 2.1493in, svg:x2: 2.1541in, svg:y: 8.6967in, svg:y1: 8.6826in, svg:y2: 8.6895in), (librevenge:path-action: C, svg:x: 2.1704in, svg:x1: 2.1629in, svg:x2: 2.1669in, svg:y: 8.7195in, svg:y1: 8.7038in, svg:y2: 8.7114in), (librevenge:path-action: C, svg:x: 2.1794in, svg:x1: 2.1738in, svg:x2: 2.1769in, svg:y: 8.7442in, svg:y1: 8.7273in, svg:y2: 8.7356in), (librevenge:path-action: C, svg:x: 2.1852in, svg:x1: 2.1819in, svg:x2: 2.1839in, svg:y: 8.7704in, svg:y1: 8.7526in, svg:y2: 8.7614in), (librevenge:path-action: C, svg:x: 2.1875in, svg:x1: 2.1866in, svg:x2: 2.1874in, svg:y: 8.7978in, svg:y1: 8.7794in, svg:y2: 8.7886in), (librevenge:path-action: C, svg:x: 2.1859in, svg:x1: 2.1876in, svg:x2: 2.1871in, svg:y: 8.8259in, svg:y1: 8.8071in, svg:y2: 8.8167in), (librevenge:path-action: C, svg:x: 2.1801in, svg:x1: 2.1847in, svg:x2: 2.1821in, svg:y: 8.8542in, svg:y1: 8.8355in, svg:y2: 8.8447in), (librevenge:path-action: L, svg:x: 1.9375in, svg:y: 9.3438in), (librevenge:path-action: L, svg:x: 1.9375in, svg:y: 9.3437in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 2.6562in, svg:y: 8.7633in), (librevenge:path-action: C, svg:x: 3.4375in, svg:x1: 2.9167in, svg:x2: 3.1771in, svg:y: 8.7633in, svg:y1: 8.6055in, svg:y2: 8.9212in), (librevenge:path-action: L, svg:x: 3.4375in, svg:y: 9.3617in), (librevenge:path-action: C, svg:x: 2.6562in, svg:x1: 3.1771in, svg:x2: 2.9167in, svg:y: 9.3617in, svg:y1: 9.5195in, svg:y2: 9.2038in), (librevenge:path-action: L, svg:x: 2.6562in, svg:y: 8.7633in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.2344in, svg:y: 8.6875in), (librevenge:large-arc: 1, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.3281in, svg:ry: 0.3281in, svg:x: 4.5625in, svg:y: 9.0156in), (librevenge:path-action: L, svg:x: 4.2344in, svg:y: 9.0156in), (librevenge:path-action: L, svg:x: 4.2344in, svg:y: 8.6875in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.1045in, svg:y: 8.7965in), (librevenge:large-arc: 0, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.2500in, svg:ry: 0.2656in, svg:x: 5.4580in, svg:y: 9.1722in), (librevenge:path-action: L, svg:x: 5.1045in, svg:y: 8.7965in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 5.9570in, svg:y: 9.3529in), (librevenge:large-arc: 1, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 1, svg:rx: 0.3438in, svg:ry: 0.3958in, svg:x: 6.5430in, svg:y: 9.3529in), (librevenge:path-action: L, svg:x: 6.4219in, svg:y: 9.2338in), (librevenge:path-action: L, svg:x: 6.4461in, svg:y: 9.2462in), (librevenge:large-arc: 1, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.2101in, svg:ry: 0.2804in, svg:x: 6.0571in, svg:y: 9.2569in), (librevenge:path-action: L, svg:x: 5.9570in, svg:y: 9.3529in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPath (svg:d: ((librevenge:path-action: M, svg:x: 4.6250in, svg:y: 10.0000in), (librevenge:large-arc: 1, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 1, svg:rx: 0.4375in, svg:ry: 0.1146in, svg:x: 5.5000in, svg:y: 10.0000in), (librevenge:path-action: L, svg:x: 5.5000in, svg:y: 9.7708in), (librevenge:path-action: L, svg:x: 5.5000in, svg:y: 9.7708in), (librevenge:large-arc: 1, librevenge:path-action: A, librevenge:rotate: 0.0000in, librevenge:sweep: 0, svg:rx: 0.4375in, svg:ry: 0.1146in, svg:x: 4.6250in, svg:y: 9.7708in), (librevenge:path-action: L, svg:x: 4.6250in, svg:y: 10.0000in)))
+    setStyle(draw:fill: none, draw:stroke: solid, svg:stroke-color: #000000, svg:stroke-width: 0.0139in)
+    drawPolygon (svg:points: ((svg:x: 7.4721in, svg:y: 7.9318in), (svg:x: 7.3814in, svg:y: 7.8644in), (svg:x: 7.3202in, svg:y: 7.9880in), (svg:x: 7.1095in, svg:y: 7.9122in), (svg:x: 7.1548in, svg:y: 8.0273in), (svg:x: 6.9361in, svg:y: 8.0398in), (svg:x: 7.0799in, svg:y: 8.1311in), (svg:x: 6.8750in, svg:y: 8.1664in), (svg:x: 7.0484in, svg:y: 8.2351in), (svg:x: 6.9418in, svg:y: 8.3025in), (svg:x: 7.1252in, svg:y: 8.3139in), (svg:x: 7.1311in, svg:y: 8.4062in), (svg:x: 7.2669in, svg:y: 8.3107in), (svg:x: 7.3280in, svg:y: 8.3544in), (svg:x: 7.3891in, svg:y: 8.2900in), (svg:x: 7.4799in, svg:y: 8.3305in), (svg:x: 7.5093in, svg:y: 8.2506in), (svg:x: 7.6533in, svg:y: 8.2900in), (svg:x: 7.6375in, svg:y: 8.2069in), (svg:x: 7.8582in, svg:y: 8.2422in), (svg:x: 7.7282in, svg:y: 8.1509in), (svg:x: 7.8266in, svg:y: 8.1229in), (svg:x: 7.7597in, svg:y: 8.0710in), (svg:x: 8.0000in, svg:y: 7.9952in), (svg:x: 7.7282in, svg:y: 7.9921in), (svg:x: 7.8128in, svg:y: 7.8997in), (svg:x: 7.6315in, svg:y: 7.9713in), (svg:x: 7.6453in, svg:y: 7.8125in), (svg:x: 7.4721in, svg:y: 7.9318in)))
+  endPage
+  startPage(librevenge:master-page-name: PM401, svg:height: 11.0000in, svg:width: 8.5000in)
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      drawPolygon (svg:points: ((svg:x: 1.3125in, svg:y: 1.2500in), (svg:x: 3.5000in, svg:y: 1.2500in), (svg:x: 3.5000in, svg:y: 5.2812in), (svg:x: 1.3125in, svg:y: 5.2812in), (svg:x: 1.3125in, svg:y: 1.2500in)))
+      setStyle(draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 4.0312in, svg:width: 2.1875in, svg:x: 1.3125in, svg:y: 1.2500in)
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1944in, style:font-name: Times New Roman)
+            insertText (texte 1)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1944in, style:font-name: Times New Roman)
+            insertText (line 2 14 pt )
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.2222in, style:font-name: Times New Roman)
+            insertText (16pt)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 1.0000in, style:font-name: Times New Roman)
+            insertText (72p)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Verdana)
+            insertText (verdena)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Vivaldi)
+            insertText (vivaldi )
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times)
+            insertText (bold)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-style: italic, style:font-name: Times)
+            insertText (italic)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
+            insertText (underline)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-style: italic, fo:font-weight: bold, style:font-name: Times)
+            insertText (bolditalic)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times, style:text-position: 50% 67%)
+            insertText (sup)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times, style:text-position: -50% 67%)
+            insertText (cub)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:text-transform: uppercase, style:font-name: Times)
+            insertText (allcaps)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-variant: small-caps, style:font-name: Times)
+            insertText (smallcaps)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
+            insertText (underlineall)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: single, style:text-underline-width: auto)
+            insertText (undword)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times, style:text-underline-mode: continuous, style:text-underline-style: solid, style:text-underline-type: double, style:text-underline-width: auto)
+            insertText (underlinedouble)
+          closeSpan
+          openSpan(fo:color: #ff0000, fo:font-size: 0.1389in, style:font-name: Times)
+            insertText (red)
+          closeSpan
+          openSpan(fo:color: #00ff00, fo:font-size: 0.1389in, style:font-name: Times)
+            insertText (green)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #00ff00, fo:font-size: 0.1389in, style:font-name: Times)
+            insertText (green style )
+          closeSpan
+          openSpan(fo:color: #00ff00, fo:font-size: 0.1528in, style:font-name: Times)
+            insertText (11pt)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1528in, style:font-name: Times)
+            insertText (times11 style)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1528in, fo:letter-spacing: -1.5000pt, style:font-name: Times)
+            insertText (verytight)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1528in, fo:letter-spacing: 3.0000pt, style:font-name: Times)
+            insertText (l)
+          closeSpan
+          openSpan(fo:color: #000000, fo:font-size: 0.1528in, fo:letter-spacing: 3.0000pt, style:font-name: Times)
+            insertText (oose)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: left)
+        closeParagraph
+      endTextObject
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      drawPolygon (svg:points: ((svg:x: 3.8750in, svg:y: 1.2083in), (svg:x: 5.8542in, svg:y: 1.2083in), (svg:x: 5.8542in, svg:y: 5.1250in), (svg:x: 3.8750in, svg:y: 5.1250in), (svg:x: 3.8750in, svg:y: 1.2083in)))
+      setStyle(draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      startTextObject (fo:padding-bottom: 0.0000in, fo:padding-left: 0.0000in, fo:padding-right: 0.0000in, fo:padding-top: 0.0000in, svg:height: 3.9167in, svg:width: 1.9792in, svg:x: 3.8750in, svg:y: 1.2083in)
+        openParagraph (fo:text-align: left)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (texte 2)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: center)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (center)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: right)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (right)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:text-align: justify)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (justify)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:margin-left: 0.1875in, fo:text-align: justify, fo:text-indent: -0.0625in)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (first 0.2, left)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:margin-right: 0.0938in, fo:text-align: justify)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (right)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:line-height: 120.0000%, fo:text-align: justify)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (1.2 spacing)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:line-height: 200.0000%, fo:text-align: justify)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (2 spacing)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:line-height: 12.0000pt, fo:text-align: justify)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (12 pt spacing)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:margin-bottom: 0.0417in, fo:margin-top: 0.0278in, fo:text-align: justify)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (2 befo 3after)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:margin-bottom: 0.0333in, fo:margin-top: 0.0500in, fo:text-align: justify)
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertText (idem sp)
+          closeSpan
+        closeParagraph
+        openParagraph (fo:margin-bottom: 0.0139in, fo:margin-top: 0.0139in, fo:text-align: justify, style:tab-stops: ((style:position: 0.3000in), (style:leader-style: solid, style:leader-text: -, style:position: 0.6000in, style:type: right), (style:char: ., style:leader-style: solid, style:leader-text: -, style:position: 0.9000in, style:type: char)))
+          openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+            insertTab
+            insertTab
+            insertTab
+          closeSpan
+        closeParagraph
+        openUnorderedListLevel(fo:font-size: 100.0000%, text:bullet-char: ◊, text:min-label-width: 0.2500in)
+          openListElement(fo:margin-bottom: 0.0139in, fo:margin-top: 0.0139in, fo:text-align: justify)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (bullet)
+            closeSpan
+          closeListElement
+        closeUnorderedListLevel
+        openOrderedListLevel(fo:font-size: 100.0000%, style:num-format: A, text:min-label-width: 0.2500in)
+          openListElement(fo:margin-bottom: 0.0139in, fo:margin-top: 0.0139in, fo:text-align: justify)
+            openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+              insertText (bullet 2)
+            closeSpan
+          closeListElement
+        closeOrderedListLevel
+      endTextObject
+    endLayer
+  endPage
+  startPage(librevenge:master-page-name: PM401, svg:height: 11.0000in, svg:width: 8.5000in)
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      drawPolygon (svg:points: ((svg:x: 2.1875in, svg:y: 1.8125in), (svg:x: 5.4219in, svg:y: 1.8125in), (svg:x: 5.4219in, svg:y: 5.0156in), (svg:x: 2.1875in, svg:y: 5.0156in), (svg:x: 2.1875in, svg:y: 1.8125in)))
+      setStyle(draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      startTableObject(librevenge:table-columns: ((style:column-width: 0.8086in), (style:column-width: 0.8086in), (style:column-width: 0.8086in), (style:column-width: 0.8086in)), svg:height: 3.2031in, svg:width: 3.2344in, svg:x: 2.1875in, svg:y: 1.8125in)
+        openTableRow(style:row-height: 0.4004in)
+          openTableCell(fo:background-color: #ffffff, fo:border-bottom: 0.25pt solid #000000, fo:border-left: 0.25pt solid #000000, fo:border-right: 0.25pt solid #000000, fo:border-top: 0.25pt solid #000000, librevenge:column: 0, librevenge:row: 0)
+            openParagraph (fo:text-align: left)
+              openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
+                insertText (=1)
+              closeSpan
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-bottom: 0.25pt solid #000000, fo:border-left: 2pt solid #000000, fo:border-right: 2pt solid #000000, fo:border-top: 0.25pt solid #000000, librevenge:column: 1, librevenge:row: 0)
+            openParagraph (fo:text-align: center)
+              openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
+                insertText (2)
+              closeSpan
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-bottom: 0.25pt solid #000000, fo:border-left: 0.25pt solid #000000, fo:border-right: 0.25pt solid #000000, fo:border-top: 0.25pt solid #000000, librevenge:column: 2, librevenge:row: 0)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-bottom: 0.25pt solid #000000, fo:border-left: 0.25pt solid #000000, fo:border-right: 0.25pt solid #000000, fo:border-top: 0.25pt solid #000000, librevenge:column: 3, librevenge:row: 0)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.4004in)
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #000000, fo:border-right: 0.25pt solid #000000, librevenge:column: 0, librevenge:row: 1)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 2pt solid #000000, fo:border-right: 2pt solid #000000, librevenge:column: 1, librevenge:row: 1)
+            openParagraph (fo:text-align: center)
+              openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+                insertText (3)
+              closeSpan
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #000000, fo:border-right: 0.25pt solid #000000, librevenge:column: 2, librevenge:row: 1, table:number-columns-spanned: 2)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          insertCoveredTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #000000, fo:border-right: 0.25pt solid #000000, librevenge:column: 3, librevenge:row: 1)
+        closeTableRow()
+        openTableRow(style:row-height: 0.4004in)
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 0, librevenge:row: 2)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 2pt solid #7f7f7f, fo:border-right: 2pt solid #7f7f7f, librevenge:column: 1, librevenge:row: 2)
+            openParagraph (fo:text-align: center)
+              openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+                insertText (4)
+              closeSpan
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 2, librevenge:row: 2, table:number-columns-spanned: 2)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          insertCoveredTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 3, librevenge:row: 2)
+        closeTableRow()
+        openTableRow(style:row-height: 0.4004in)
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 0, librevenge:row: 3)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 2pt solid #7f7f7f, fo:border-right: 2pt solid #7f7f7f, librevenge:column: 1, librevenge:row: 3)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 2, librevenge:row: 3)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 3, librevenge:row: 3)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.4004in)
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 0, librevenge:row: 4)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 2pt solid #7f7f7f, fo:border-right: 2pt solid #7f7f7f, librevenge:column: 1, librevenge:row: 4)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 2, librevenge:row: 4)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 3, librevenge:row: 4)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.4004in)
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 0, librevenge:row: 5)
+            openParagraph (fo:text-align: left)
+              openSpan(fo:color: #000000, fo:font-size: 0.1389in, fo:font-weight: bold, style:font-name: Times New Roman)
+                insertText (8)
+              closeSpan
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 2pt solid #7f7f7f, fo:border-right: 2pt solid #7f7f7f, librevenge:column: 1, librevenge:row: 5)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 2, librevenge:row: 5)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 3, librevenge:row: 5)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.4004in)
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 0, librevenge:row: 6)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 2pt solid #7f7f7f, fo:border-right: 2pt solid #7f7f7f, librevenge:column: 1, librevenge:row: 6)
+            openParagraph (fo:text-align: center)
+              openSpan(fo:color: #000000, fo:font-size: 0.1389in, style:font-name: Times New Roman)
+                insertText (9)
+              closeSpan
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 2, librevenge:row: 6)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #7f7f7f, librevenge:column: 3, librevenge:row: 6)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.4004in)
+          openTableCell(fo:background-color: #ffffff, fo:border-bottom: 0.25pt solid #000000, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #000000, librevenge:column: 0, librevenge:row: 7)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-bottom: 0.25pt solid #000000, fo:border-left: 2pt solid #7f7f7f, fo:border-right: 2pt solid #000000, librevenge:column: 1, librevenge:row: 7)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-bottom: 0.25pt solid #000000, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #000000, librevenge:column: 2, librevenge:row: 7)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, fo:border-bottom: 0.25pt solid #000000, fo:border-left: 0.25pt solid #7f7f7f, fo:border-right: 0.25pt solid #000000, librevenge:column: 3, librevenge:row: 7)
+            openParagraph (fo:text-align: center)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+      endTableObject()
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      drawPolygon (svg:points: ((svg:x: 1.6250in, svg:y: 5.4375in), (svg:x: 3.9375in, svg:y: 5.4375in), (svg:x: 3.9375in, svg:y: 7.1562in), (svg:x: 1.6250in, svg:y: 7.1562in), (svg:x: 1.6250in, svg:y: 5.4375in)))
+      setStyle(draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      startTableObject(librevenge:table-columns: ((style:column-width: 1.1562in), (style:column-width: 1.1562in)), svg:height: 1.7188in, svg:width: 2.3125in, svg:x: 1.6250in, svg:y: 5.4375in)
+        openTableRow(style:row-height: 0.5729in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 0)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 0)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.5729in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 1)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 1)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.5729in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 2)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 2)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+      endTableObject()
+    endLayer
+    startLayer ()
+      setStyle(draw:fill: solid, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      drawPolygon (svg:points: ((svg:x: 4.8125in, svg:y: 5.4375in), (svg:x: 6.1250in, svg:y: 5.4375in), (svg:x: 6.1250in, svg:y: 7.1583in), (svg:x: 4.8125in, svg:y: 7.1583in), (svg:x: 4.8125in, svg:y: 5.4375in)))
+      setStyle(draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 100.0000%, draw:stroke: none, svg:fill-rule: nonzero)
+      startTableObject(librevenge:table-columns: ((style:column-width: 0.4375in), (style:column-width: 0.4375in), (style:column-width: 0.4375in)), svg:height: 1.7208in, svg:width: 1.3125in, svg:x: 4.8125in, svg:y: 5.4375in)
+        openTableRow(style:row-height: 0.2458in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 0)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 0)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 2, librevenge:row: 0)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.2458in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 1)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 1)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 2, librevenge:row: 1)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.2458in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 2)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 2)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 2, librevenge:row: 2)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.2458in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 3)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 3)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 2, librevenge:row: 3)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.2458in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 4)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 4)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 2, librevenge:row: 4)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.2458in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 5)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 5)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 2, librevenge:row: 5)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+        openTableRow(style:row-height: 0.2458in)
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 0, librevenge:row: 6)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 1, librevenge:row: 6)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+          openTableCell(fo:background-color: #ffffff, librevenge:column: 2, librevenge:row: 6)
+            openParagraph (fo:text-align: left)
+            closeParagraph
+          closeTableCell()
+        closeTableRow()
+      endTableObject()
+    endLayer
+  endPage
+endDocument

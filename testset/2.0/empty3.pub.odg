@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:meta>
+    <dc:date>2018-06-20T22:44:15Z</dc:date>
+    <meta:creation-date>2018-06-20T22:44:15Z</meta:creation-date>
+    <meta:generator>libodfgen/0.1.7</meta:generator>
+  </office:meta>
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21590</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">27940</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb" fo:page-height="11.0000in" fo:page-width="8.5000in">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-width="0.0139in"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:name="PM0" style:page-layout-name="PL0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:line draw:layer="layout" draw:style-name="gr_0" svg:x1="2.2217in" svg:x2="5.8155in" svg:y1="3.9438in" svg:y2="2.2250in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 0L3413 0L3413 3730L0 3730L0 0 Z" svg:height="1.4688in" svg:viewBox="0 0 3413 3730" svg:width="1.3438in" svg:x="2.6250in" svg:y="4.1875in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M5715 1865A2857 1865 0 1 1 0 1865A2857 1865 0 1 1 5715 1865L5715 1865" svg:height="1.4688in" svg:viewBox="0 0 5715 3730" svg:width="2.2500in" svg:x="2.7188in" svg:y="6.7500in"/>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>
